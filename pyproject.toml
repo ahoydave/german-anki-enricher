@@ -1,0 +1,30 @@
+[project]
+name = "german-anki-generator"
+version = "1.0.0"
+description = "Generate German vocabulary Anki cards with examples and audio"
+authors = [
+    {name = "David Jacka", email = "david@example.com"}
+]
+readme = "README_anki_generator.md"
+requires-python = ">=3.9"
+dependencies = [
+    "genanki>=0.13.1",
+    "gtts>=2.5.4",
+    "requests>=2.32.3",
+    "anthropic>=0.49.0",
+    "python-dotenv>=1.1.1",
+]
+
+[project.scripts]
+german-anki = "german_anki_generator:main"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[dependency-groups]
+dev = [
+    "pytest>=7.0.0",
+    "black>=23.0.0",
+    "ruff>=0.1.0",
+]
