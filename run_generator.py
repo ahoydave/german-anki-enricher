@@ -4,92 +4,113 @@ Script to run the German Anki generator on new_words.txt and append to added_wor
 """
 
 import os
-import subprocess
+import random
 import sys
-from pathlib import Path
+from datetime import datetime
+import genanki
+from dotenv import load_dotenv
+from german_anki_generator import read_words_from_file
+
+def load_environment():
+    load_dotenv()
+    api_key = os.getenv('ANTHROPIC_API_KEY')
+    if not api_key:
+        print("Error: ANTHROPIC_API_KEY not found in environment variables.")
+        print("Please create a .env file with: ANTHROPIC_API_KEY=your-api-key")
+        sys.exit(1)
+    return api_key
+
+def load_existing_words(added_words_file) -> set[str]:
+    existing_words = set()
+    if os.path.exists(added_words_file):
+        with open(added_words_file, 'r', encoding='utf-8') as f:
+            for line in f:
+                line = line.strip()
+                if line and not line.startswith('#'):
+                    existing_words.add(line)
+    return existing_words
 
 
 def main():
-    # Define file paths
     new_words_file = "new_words.txt"
     added_words_file = "added_words.txt"
-    output_file = "generated_deck.apkg"
     
-    # Check if new_words.txt exists
+    timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+    output_file = f"generated_{timestamp}.apkg"
+    
     if not os.path.exists(new_words_file):
         print(f"Error: {new_words_file} not found.")
         print(f"Please create {new_words_file} with your German/English words (one per line).")
         sys.exit(1)
+
+    api_key = load_environment()
     
-    # Check if new_words.txt is empty
-    with open(new_words_file, 'r', encoding='utf-8') as f:
-        words = [line.strip() for line in f if line.strip() and not line.startswith('#')]
+    print(f"Reading words from {new_words_file}...")
+    words_to_process = read_words_from_file(new_words_file)
+    print(f"Found {len(words_to_process)} words to process.")
     
-    if not words:
+    if not words_to_process:
         print(f"Error: {new_words_file} is empty or contains no valid words.")
         sys.exit(1)
     
-    print(f"Found {len(words)} words in {new_words_file}")
-    print(f"Running German Anki generator...")
+    existing_words = load_existing_words(added_words_file)
+    print(f"Found {len(existing_words)} existing words in {added_words_file}")
     
-    # Run the German Anki generator
-    try:
-        cmd = [
-            "uv", "run", "python", "german_anki_generator.py", 
-            new_words_file, 
-            "--output", output_file
-        ]
+    print(f"\nProcessing words...")
+    german_words_to_add = []
+    
+    from german_anki_generator import get_word_info_and_examples, create_card, create_anki_model, export_deck
+    
+    model = create_anki_model()
+    deck_id = random.randrange(1 << 30, 1 << 31)
+    deck = genanki.Deck(deck_id, 'German Vocabulary')
+    
+    for i, word in enumerate(words_to_process, 1):
+        print(f"\nProcessing {i}/{len(words_to_process)}: {word}")
         
-        result = subprocess.run(cmd, check=True, capture_output=True, text=True)
-        print("Generator output:")
-        print(result.stdout)
-        
-        if result.stderr:
-            print("Generator warnings/errors:")
-            print(result.stderr)
+        try:
+            print(f"  Getting word info...")
+            word_info = get_word_info_and_examples(word, api_key)
+            canonical = word_info['german']
+            print(f"  ✓ Got: {word_info['german']} → {word_info['english']} ({word_info['word_type']})")
             
-    except subprocess.CalledProcessError as e:
-        print(f"Error running generator: {e}")
-        print(f"stdout: {e.stdout}")
-        print(f"stderr: {e.stderr}")
-        sys.exit(1)
-    except FileNotFoundError:
-        print("Error: 'uv' command not found. Please make sure uv is installed and in your PATH.")
-        sys.exit(1)
-    
-    # Append words to added_words.txt
-    print(f"Appending words to {added_words_file}...")
-    
-    try:
-        # Read existing content if file exists
-        existing_words = set()
-        if os.path.exists(added_words_file):
-            with open(added_words_file, 'r', encoding='utf-8') as f:
-                existing_words = {line.strip() for line in f if line.strip() and not line.startswith('#')}
-        
-        # Append new words (avoid duplicates)
-        new_words_to_add = []
-        for word in words:
-            if word not in existing_words:
-                new_words_to_add.append(word)
-                existing_words.add(word)
-        
-        if new_words_to_add:
-            with open(added_words_file, 'a', encoding='utf-8') as f:
-                for word in new_words_to_add:
-                    f.write(f"{word}\n")
-            print(f"Added {len(new_words_to_add)} new words to {added_words_file}")
-        else:
-            print("All words were already in added_words.txt")
+            if canonical in existing_words:
+                print(f"  - Skipped: already exists")
+                continue
             
-    except Exception as e:
-        print(f"Error updating {added_words_file}: {e}")
-        sys.exit(1)
+            print(f"  Creating card...")
+            audio_files, _ = create_card(word, api_key, model, deck, 'audio')
+            print(f"  ✓ Card created with {len(audio_files)} audio files")
+            
+            german_words_to_add.append(canonical)
+            existing_words.add(canonical)
+            
+        except Exception as e:
+            print(f"  ✗ Failed: {e}")
+            if (i > 1):
+                if (len(german_words_to_add) > 0):
+                    print(f"Processed {i-1} words before the error. Exporting deck...")
+                else:
+                    print(f"Processed {i} words before the error. Nothing to export")
+            break
+    
+    
+    if german_words_to_add:
+        print(f"\nExporting deck...")
+        export_deck(deck, output_file, 'audio')
+
+        print(f"Updating {added_words_file}...")
+        with open(added_words_file, 'a', encoding='utf-8') as f:
+            f.write(f"# {output_file}\n")
+            for german_word in german_words_to_add:
+                f.write(f"{german_word}\n")
     
     print(f"\nSummary:")
-    print(f"  Generated deck: {output_file}")
-    print(f"  Updated: {added_words_file}")
-    print(f"  Processed: {len(words)} words")
+    print(f"  Total words processed: {len(words_to_process)}")
+    if (len(german_words_to_add) > 0):
+        print(f"  New words added: {len(german_words_to_add)}")
+    else:
+        print(f"  No new words added")
 
 
 if __name__ == "__main__":

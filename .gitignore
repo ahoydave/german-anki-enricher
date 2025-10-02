@@ -1,3 +1,4 @@
 .env
 audio/
 *.apkg
+__pycache__/

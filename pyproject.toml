@@ -3,9 +3,9 @@ name = "german-anki-generator"
 version = "1.0.0"
 description = "Generate German vocabulary Anki cards with examples and audio"
 authors = [
-    {name = "David Jacka", email = "david@example.com"}
+    {name = "David Jacka", email = "ahoy.dave@gmail.com"}
 ]
-readme = "README_anki_generator.md"
+readme = "README.md"
 requires-python = ">=3.9"
 dependencies = [
     "genanki>=0.13.1",
