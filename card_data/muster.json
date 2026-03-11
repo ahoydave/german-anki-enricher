@@ -1,0 +1,25 @@
+{
+  "canonical": "Muster",
+  "word_type": "noun",
+  "article": "das",
+  "plural": "Muster",
+  "english": "pattern / sample / model / example",
+  "notes": "Can refer to a visual pattern (e.g. on fabric), a sample/specimen, or a model/example to follow.",
+  "sentences": [
+    {
+      "german": "Das Kleid hat ein schönes Muster aus Blumen.",
+      "english": "The dress has a beautiful floral pattern.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Können Sie mir ein Muster des Stoffes schicken?",
+      "english": "Can you send me a sample of the fabric?",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Er gilt als Muster an Fleiß und Disziplin.",
+      "english": "He is considered a model of diligence and discipline.",
+      "purpose": "meaning"
+    }
+  ]
+}

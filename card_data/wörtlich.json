@@ -1,0 +1,19 @@
+{
+  "canonical": "wörtlich",
+  "word_type": "adjective",
+  "english": "literal / word-for-word / verbatim",
+  "adjective_forms": "wörtlich, wörtlicher, am wörtlichsten",
+  "notes": "Often used as an adverb meaning 'literally'. Common in contexts of translation, quotation, or interpretation.",
+  "sentences": [
+    {
+      "german": "Das ist wörtlich gemeint, kein Witz.",
+      "english": "That is meant literally, no joke.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Sie hat den Satz wörtlich übersetzt, was keinen Sinn ergab.",
+      "english": "She translated the sentence word for word, which made no sense.",
+      "purpose": "meaning"
+    }
+  ]
+}

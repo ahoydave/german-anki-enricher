@@ -1,0 +1,20 @@
+{
+  "canonical": "Benutzer",
+  "word_type": "noun",
+  "article": "der",
+  "plural": "Benutzer",
+  "english": "user",
+  "notes": "Refers to a person who uses something, especially a computer system or software. The plural form is identical to the singular.",
+  "sentences": [
+    {
+      "german": "Der Benutzer muss sich zuerst mit seinem Passwort anmelden.",
+      "english": "The user must first log in with their password.",
+      "purpose": "present"
+    },
+    {
+      "german": "Viele Benutzer haben sich über den neuen Update beschwert.",
+      "english": "Many users complained about the new update.",
+      "purpose": "present"
+    }
+  ]
+}

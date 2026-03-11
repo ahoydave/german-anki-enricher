@@ -1,0 +1,20 @@
+{
+  "canonical": "Pension",
+  "word_type": "noun",
+  "article": "die",
+  "plural": "Pensionen",
+  "english": "guesthouse / boarding house / pension (retirement pay)",
+  "notes": "Has two main meanings: 1) a small family-run hotel or guesthouse, 2) retirement/pension (the payment received after retiring). The retirement meaning is often used in the phrase 'in Rente/Pension gehen'.",
+  "sentences": [
+    {
+      "german": "Wir haben letzte Woche in einer kleinen Pension am See übernachtet.",
+      "english": "Last week we stayed overnight in a small guesthouse by the lake.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Nach 40 Jahren Arbeit geht sie nächsten Monat in Pension.",
+      "english": "After 40 years of work, she is retiring next month.",
+      "purpose": "meaning"
+    }
+  ]
+}

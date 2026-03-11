@@ -1,0 +1,19 @@
+{
+  "canonical": "erwachsen",
+  "word_type": "adjective",
+  "english": "adult / grown-up / mature",
+  "adjective_forms": "erwachsen, erwachsener, am erwachsensten",
+  "notes": "'erwachsen' can also be used as a verb (erwachsen aus + Dativ = to arise/result from), but its primary and most common use is as an adjective meaning 'adult' or 'grown-up'.",
+  "sentences": [
+    {
+      "german": "Meine Tochter ist jetzt erwachsen und lebt allein.",
+      "english": "My daughter is now grown-up and lives alone.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Er verhält sich sehr erwachsen für sein Alter.",
+      "english": "He behaves very maturely for his age.",
+      "purpose": "meaning"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "canonical": "überall",
+  "word_type": "adverb",
+  "english": "everywhere / all over",
+  "sentences": [
+    {
+      "german": "Überall in der Stadt gibt es Baustellen.",
+      "english": "There are construction sites everywhere in the city.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Sie hat überall nach ihrem Schlüssel gesucht.",
+      "english": "She looked everywhere for her key.",
+      "purpose": "meaning"
+    }
+  ]
+}

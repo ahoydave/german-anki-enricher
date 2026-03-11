@@ -1,0 +1,18 @@
+{
+  "canonical": "begabt",
+  "word_type": "adjective",
+  "english": "talented / gifted",
+  "adjective_forms": "begabt, begabter, am begabtesten",
+  "sentences": [
+    {
+      "german": "Sie ist sehr begabt und spielt Klavier wie eine Profi.",
+      "english": "She is very talented and plays the piano like a professional.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Er ist der begabteste Schüler in der Klasse.",
+      "english": "He is the most gifted student in the class.",
+      "purpose": "meaning"
+    }
+  ]
+}

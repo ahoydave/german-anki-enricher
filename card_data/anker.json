@@ -1,0 +1,20 @@
+{
+  "canonical": "Anker",
+  "word_type": "noun",
+  "article": "der",
+  "plural": "Anker",
+  "english": "anchor",
+  "notes": "The plural form is identical to the singular: der Anker, die Anker.",
+  "sentences": [
+    {
+      "german": "Das Schiff wirft den Anker, um nicht wegzutreiben.",
+      "english": "The ship drops the anchor so it doesn't drift away.",
+      "purpose": "present"
+    },
+    {
+      "german": "Der Anker liegt auf dem Meeresgrund.",
+      "english": "The anchor lies on the seabed.",
+      "purpose": "meaning"
+    }
+  ]
+}

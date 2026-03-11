@@ -1,0 +1,20 @@
+{
+  "canonical": "Geldstrafe",
+  "word_type": "noun",
+  "article": "die",
+  "plural": "Geldstrafen",
+  "english": "fine / monetary penalty",
+  "notes": "Compound noun: Geld (money) + Strafe (punishment/penalty). Used for financial penalties imposed by courts or authorities.",
+  "sentences": [
+    {
+      "german": "Er musste eine hohe Geldstrafe zahlen, weil er zu schnell gefahren war.",
+      "english": "He had to pay a large fine because he had been driving too fast.",
+      "purpose": "present"
+    },
+    {
+      "german": "Das Gericht verhängte eine Geldstrafe von 500 Euro.",
+      "english": "The court imposed a fine of 500 euros.",
+      "purpose": "meaning"
+    }
+  ]
+}

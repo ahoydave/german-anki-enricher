@@ -1,0 +1,29 @@
+{
+  "canonical": "zulassen",
+  "word_type": "verb",
+  "english": "to allow / to permit / to admit",
+  "is_reflexive": false,
+  "also_non_reflexive": false,
+  "perfekt": "hat zugelassen",
+  "praeteritum": "ließ zu",
+  "verb_case": "akkusativ",
+  "prepositions": [],
+  "notes": "Separable verb (zu- prefix). Can mean allowing a person or thing, permitting an action, or admitting someone to a course/profession.",
+  "sentences": [
+    {
+      "german": "Die Schule lässt keine Handys im Unterricht zu.",
+      "english": "The school does not allow mobile phones in class.",
+      "purpose": "present"
+    },
+    {
+      "german": "Der Richter hat das Beweismittel nicht zugelassen.",
+      "english": "The judge did not admit the piece of evidence.",
+      "purpose": "perfekt"
+    },
+    {
+      "german": "Das Wetter lässt eine Wanderung heute leider nicht zu.",
+      "english": "Unfortunately, the weather does not permit a hike today.",
+      "purpose": "meaning"
+    }
+  ]
+}

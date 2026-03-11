@@ -1,0 +1,43 @@
+{
+  "canonical": "zugeben",
+  "word_type": "verb",
+  "english": "to admit / to confess / to acknowledge",
+  "is_reflexive": false,
+  "also_non_reflexive": false,
+  "perfekt": "hat zugegeben",
+  "praeteritum": "gab zu",
+  "verb_case": "akkusativ",
+  "notes": "Separable verb (zu- is the separable prefix). Often used with 'dass'-clauses. Can also mean 'to add' (e.g. an ingredient), but the dominant meaning is 'to admit'.",
+  "sentences": [
+    {
+      "german": "Ich muss zugeben, dass ich einen Fehler gemacht habe.",
+      "english": "I have to admit that I made a mistake.",
+      "purpose": "present"
+    },
+    {
+      "german": "Er hat endlich zugegeben, dass er gelogen hat.",
+      "english": "He finally admitted that he had lied.",
+      "purpose": "perfekt"
+    },
+    {
+      "german": "Sie gab zu, die Antwort nicht zu wissen.",
+      "english": "She admitted not knowing the answer.",
+      "purpose": "present"
+    }
+  ],
+  "cloze_text": "Er {{c1::gibt}} zu, dass er einen Fehler gemacht hat.\nSie hat endlich {{c2::zugegeben}}, dass sie gelogen hat.\nEr {{c3::gab}} zu, die Antwort nicht zu wissen.",
+  "cloze_sentences": [
+    {
+      "text": "Er {{c1::gibt}} zu, dass er einen Fehler gemacht hat.",
+      "hint": "admits (he, present) — separable verb"
+    },
+    {
+      "text": "Sie hat endlich {{c1::zugegeben}}, dass sie gelogen hat.",
+      "hint": "admitted (Perfekt participle)"
+    },
+    {
+      "text": "Er {{c1::gab}} zu, die Antwort nicht zu wissen.",
+      "hint": "admitted (Präteritum, er form)"
+    }
+  ]
+}

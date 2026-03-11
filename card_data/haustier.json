@@ -1,0 +1,25 @@
+{
+  "canonical": "Haustier",
+  "word_type": "noun",
+  "article": "das",
+  "plural": "Haustiere",
+  "english": "pet / domestic animal",
+  "notes": "Compound noun: Haus (house) + Tier (animal). Refers to animals kept at home as companions.",
+  "sentences": [
+    {
+      "german": "Mein Haustier ist eine Katze.",
+      "english": "My pet is a cat.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Viele Kinder wünschen sich ein Haustier.",
+      "english": "Many children wish for a pet.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Welche Haustiere darf man in dieser Wohnung halten?",
+      "english": "Which pets are allowed in this apartment?",
+      "purpose": "present"
+    }
+  ]
+}

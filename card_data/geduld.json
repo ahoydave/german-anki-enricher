@@ -1,0 +1,20 @@
+{
+  "canonical": "Geduld",
+  "word_type": "noun",
+  "english": "patience",
+  "article": "die",
+  "plural": "keine Pluralform",
+  "notes": "Uncountable noun; no plural form used in practice.",
+  "sentences": [
+    {
+      "german": "Du brauchst viel Geduld, wenn du Kinder unterrichtest.",
+      "english": "You need a lot of patience when you teach children.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Meine Geduld ist am Ende.",
+      "english": "My patience is at an end.",
+      "purpose": "meaning"
+    }
+  ]
+}

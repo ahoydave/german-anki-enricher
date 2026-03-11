@@ -1,0 +1,46 @@
+{
+  "canonical": "sich verstecken",
+  "word_type": "verb",
+  "english": "to hide (oneself) / to conceal oneself",
+  "is_reflexive": true,
+  "also_non_reflexive": true,
+  "perfekt": "hat versteckt",
+  "praeteritum": "versteckte mich",
+  "verb_case": "null",
+  "prepositions": [
+    "sich verstecken vor + dativ",
+    "sich verstecken hinter + dativ"
+  ],
+  "notes": "The reflexive form means to hide oneself. The non-reflexive form 'verstecken' means to hide something/someone else (transitive, takes Akkusativ).",
+  "sentences": [
+    {
+      "german": "Das Kind versteckt sich hinter dem Sofa.",
+      "english": "The child hides behind the sofa.",
+      "purpose": "present"
+    },
+    {
+      "german": "Der Dieb hat sich vor der Polizei versteckt.",
+      "english": "The thief hid from the police.",
+      "purpose": "perfekt"
+    },
+    {
+      "german": "Sie versteckt sich vor dem Regen unter einem Baum.",
+      "english": "She hides from the rain under a tree.",
+      "purpose": "preposition"
+    }
+  ],
+  "non_reflexive_canonical": "verstecken",
+  "non_reflexive_english": "to hide something/someone (transitive)",
+  "non_reflexive_sentences": [
+    {
+      "german": "Er versteckt das Geschenk unter dem Bett.",
+      "english": "He hides the present under the bed.",
+      "purpose": "present"
+    },
+    {
+      "german": "Sie hat die Schlüssel in der Schublade versteckt.",
+      "english": "She hid the keys in the drawer.",
+      "purpose": "perfekt"
+    }
+  ]
+}

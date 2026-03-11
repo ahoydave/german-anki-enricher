@@ -1,0 +1,27 @@
+{
+  "canonical": "verdienen",
+  "word_type": "verb",
+  "english": "to earn / to deserve",
+  "is_reflexive": false,
+  "also_non_reflexive": false,
+  "perfekt": "hat verdient",
+  "praeteritum": "verdiente",
+  "verb_case": "akkusativ",
+  "sentences": [
+    {
+      "german": "Sie verdient 3000 Euro im Monat.",
+      "english": "She earns 3,000 euros a month.",
+      "purpose": "present"
+    },
+    {
+      "german": "Er hat sich eine Pause wirklich verdient.",
+      "english": "He really deserved a break.",
+      "purpose": "perfekt"
+    },
+    {
+      "german": "Das Buch verdient mehr Aufmerksamkeit.",
+      "english": "The book deserves more attention.",
+      "purpose": "meaning"
+    }
+  ]
+}

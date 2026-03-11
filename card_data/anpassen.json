@@ -1,0 +1,64 @@
+{
+  "canonical": "anpassen",
+  "word_type": "verb",
+  "english": "to adapt / to adjust / to tailor",
+  "is_reflexive": true,
+  "also_non_reflexive": true,
+  "perfekt": "hat angepasst",
+  "praeteritum": "passte an",
+  "verb_case": "akkusativ",
+  "prepositions": [
+    "sich anpassen an + akkusativ"
+  ],
+  "notes": "Used reflexively (sich anpassen an + Akkusativ) meaning to adapt oneself to something. Also used non-reflexively meaning to adjust or tailor something to something else.",
+  "sentences": [
+    {
+      "german": "Nach dem Umzug musste sie sich schnell an die neue Kultur anpassen.",
+      "english": "After moving, she had to adapt quickly to the new culture.",
+      "purpose": "present"
+    },
+    {
+      "german": "Er hat sich gut an seinen neuen Job angepasst.",
+      "english": "He has adapted well to his new job.",
+      "purpose": "perfekt"
+    },
+    {
+      "german": "Wir müssen uns an die veränderten Bedingungen anpassen.",
+      "english": "We need to adapt to the changed conditions.",
+      "purpose": "preposition"
+    }
+  ],
+  "non_reflexive_canonical": "anpassen",
+  "non_reflexive_english": "to adjust something / to tailor something (to fit)",
+  "non_reflexive_sentences": [
+    {
+      "german": "Der Schneider passt den Anzug an die Figur des Kunden an.",
+      "english": "The tailor adjusts the suit to the customer's figure.",
+      "purpose": "present"
+    },
+    {
+      "german": "Die Firma hat ihre Preise an den Markt angepasst.",
+      "english": "The company has adjusted its prices to the market.",
+      "purpose": "perfekt"
+    }
+  ],
+  "cloze_text": "Das Unternehmen {{c1::passt}} seine Strategie an die neuen Regeln an.\nEr hat sich gut an seinen neuen Job {{c2::angepasst}}.\nSie {{c3::passte}} sich schnell an das Leben in der neuen Stadt an.\nWir müssen uns {{c4::an}} die veränderten Bedingungen anpassen.",
+  "cloze_sentences": [
+    {
+      "text": "Das Unternehmen {{c1::passt}} seine Strategie an die neuen Regeln an.",
+      "hint": "adjusts (it, present)"
+    },
+    {
+      "text": "Er hat sich gut an seinen neuen Job {{c1::angepasst}}.",
+      "hint": "adapted (Perfekt participle)"
+    },
+    {
+      "text": "Sie {{c1::passte}} sich schnell an das Leben in der neuen Stadt an.",
+      "hint": "adapted (Präteritum)"
+    },
+    {
+      "text": "Wir müssen uns {{c1::an}} die veränderten Bedingungen anpassen.",
+      "hint": "to/an (preposition used with anpassen)"
+    }
+  ]
+}

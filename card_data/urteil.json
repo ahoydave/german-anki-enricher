@@ -1,0 +1,20 @@
+{
+  "canonical": "Urteil",
+  "word_type": "noun",
+  "article": "das",
+  "plural": "Urteile",
+  "english": "judgment / verdict / sentence (legal) / opinion",
+  "notes": "Used both in legal contexts (court verdict) and in everyday speech (opinion, assessment).",
+  "sentences": [
+    {
+      "german": "Das Gericht hat ein hartes Urteil gesprochen.",
+      "english": "The court handed down a harsh verdict.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Ich möchte kein vorschnelles Urteil über ihn fällen.",
+      "english": "I don't want to make a hasty judgment about him.",
+      "purpose": "meaning"
+    }
+  ]
+}

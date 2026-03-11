@@ -1,0 +1,31 @@
+{
+  "canonical": "forschen",
+  "word_type": "verb",
+  "english": "to research / to investigate / to do research",
+  "is_reflexive": false,
+  "also_non_reflexive": false,
+  "perfekt": "hat geforscht",
+  "praeteritum": "forschte",
+  "verb_case": "null",
+  "prepositions": [
+    "forschen nach + dativ"
+  ],
+  "notes": "Often used with 'nach' to indicate what is being researched or searched for.",
+  "sentences": [
+    {
+      "german": "Die Wissenschaftlerin forscht an der Universität über Klimawandel.",
+      "english": "The scientist does research at the university on climate change.",
+      "purpose": "present"
+    },
+    {
+      "german": "Er hat jahrelang nach einem Heilmittel geforscht.",
+      "english": "He researched a cure for years.",
+      "purpose": "perfekt"
+    },
+    {
+      "german": "Die Forscher forschen nach neuen Lösungen für das Problem.",
+      "english": "The researchers are investigating new solutions to the problem.",
+      "purpose": "preposition"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "canonical": "Zugriff haben",
+  "word_type": "phrase",
+  "english": "to have access (to something)",
+  "notes": "Common phrase used with 'auf + Akkusativ' to indicate having access to something. Often used in digital, legal, or professional contexts.",
+  "prepositions": [
+    "Zugriff haben auf + Akkusativ"
+  ],
+  "sentences": [
+    {
+      "german": "Nur autorisierte Mitarbeiter haben Zugriff auf die vertraulichen Dokumente.",
+      "english": "Only authorized employees have access to the confidential documents.",
+      "purpose": "meaning"
+    }
+  ]
+}

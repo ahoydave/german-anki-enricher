@@ -1,0 +1,20 @@
+{
+  "canonical": "Braten",
+  "word_type": "noun",
+  "article": "der",
+  "plural": "Braten",
+  "english": "roast / joint of meat",
+  "notes": "Can refer to the raw piece of meat prepared for roasting or the finished roasted meat. The plural form is identical to the singular.",
+  "sentences": [
+    {
+      "german": "Die Mutter hat einen Braten im Ofen.",
+      "english": "The mother has a roast in the oven.",
+      "purpose": "present"
+    },
+    {
+      "german": "Der Braten war so zart, dass er auf der Zunge zerschmolz.",
+      "english": "The roast was so tender that it melted on the tongue.",
+      "purpose": "meaning"
+    }
+  ]
+}

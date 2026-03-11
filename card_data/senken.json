@@ -1,0 +1,29 @@
+{
+  "canonical": "senken",
+  "word_type": "verb",
+  "english": "to lower / to reduce / to drop",
+  "is_reflexive": false,
+  "also_non_reflexive": false,
+  "perfekt": "hat gesenkt",
+  "praeteritum": "senkte",
+  "verb_case": "akkusativ",
+  "prepositions": [],
+  "notes": "Can also be used reflexively as 'sich senken' meaning 'to sink / to descend / to drop' (e.g. die Temperatur senkt sich). The non-reflexive form takes an accusative object.",
+  "sentences": [
+    {
+      "german": "Die Regierung will die Steuern senken.",
+      "english": "The government wants to lower taxes.",
+      "purpose": "present"
+    },
+    {
+      "german": "Das Unternehmen hat die Preise um zehn Prozent gesenkt.",
+      "english": "The company has reduced prices by ten percent.",
+      "purpose": "perfekt"
+    },
+    {
+      "german": "Er senkte den Blick, als er gefragt wurde.",
+      "english": "He lowered his gaze when he was asked.",
+      "purpose": "meaning"
+    }
+  ]
+}

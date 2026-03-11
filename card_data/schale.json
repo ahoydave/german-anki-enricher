@@ -1,0 +1,25 @@
+{
+  "canonical": "Schale",
+  "word_type": "noun",
+  "article": "die",
+  "plural": "Schalen",
+  "english": "bowl / shell / peel / skin (of fruit)",
+  "notes": "Has multiple meanings: a bowl/dish for serving food, the hard outer shell of an egg or nut, or the peel/skin of a fruit or vegetable.",
+  "sentences": [
+    {
+      "german": "Ich lege die Äpfel in eine große Schale.",
+      "english": "I put the apples in a large bowl.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Die Schale der Orange ist sehr dick.",
+      "english": "The peel of the orange is very thick.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Das Küken bricht die Schale des Eis auf.",
+      "english": "The chick breaks the shell of the egg.",
+      "purpose": "meaning"
+    }
+  ]
+}

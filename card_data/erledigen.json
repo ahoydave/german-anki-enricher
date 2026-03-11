@@ -1,0 +1,22 @@
+{
+  "canonical": "erledigen",
+  "word_type": "verb",
+  "english": "to complete / to take care of / to deal with / to finish (a task)",
+  "is_reflexive": false,
+  "also_non_reflexive": false,
+  "perfekt": "hat erledigt",
+  "praeteritum": "erledigte",
+  "verb_case": "akkusativ",
+  "sentences": [
+    {
+      "german": "Ich erledige meine Hausaufgaben nach der Schule.",
+      "english": "I do my homework after school.",
+      "purpose": "present"
+    },
+    {
+      "german": "Sie hat alle Aufgaben bis Freitag erledigt.",
+      "english": "She completed all the tasks by Friday.",
+      "purpose": "perfekt"
+    }
+  ]
+}

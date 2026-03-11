@@ -1,0 +1,20 @@
+{
+  "canonical": "Luftreiniger",
+  "word_type": "noun",
+  "article": "der",
+  "plural": "Luftreiniger",
+  "english": "air purifier",
+  "notes": "Compound noun: Luft (air) + Reiniger (cleaner/purifier). The plural form is identical to the singular.",
+  "sentences": [
+    {
+      "german": "Der Luftreiniger entfernt Staub und Pollen aus der Luft.",
+      "english": "The air purifier removes dust and pollen from the air.",
+      "purpose": "present"
+    },
+    {
+      "german": "In vielen Büros stehen heutzutage Luftreiniger, um die Luftqualität zu verbessern.",
+      "english": "Nowadays, air purifiers are found in many offices to improve air quality.",
+      "purpose": "present"
+    }
+  ]
+}

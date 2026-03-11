@@ -1,0 +1,20 @@
+{
+  "canonical": "Johannisbeere",
+  "word_type": "noun",
+  "article": "die",
+  "plural": "Johannisbeeren",
+  "english": "currant (blackcurrant / redcurrant)",
+  "notes": "Named after St. John's Day (Johannistag, 24 June), when the berries ripen. 'Schwarze Johannisbeere' = blackcurrant; 'rote Johannisbeere' = redcurrant.",
+  "sentences": [
+    {
+      "german": "Ich habe im Garten viele Johannisbeeren gepflückt.",
+      "english": "I picked a lot of currants in the garden.",
+      "purpose": "present"
+    },
+    {
+      "german": "Aus roten Johannisbeeren macht man oft Marmelade oder Saft.",
+      "english": "Red currants are often used to make jam or juice.",
+      "purpose": "meaning"
+    }
+  ]
+}

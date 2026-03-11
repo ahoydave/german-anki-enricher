@@ -1,0 +1,28 @@
+{
+  "canonical": "schmelzen",
+  "word_type": "verb",
+  "english": "to melt / to thaw / to dissolve",
+  "is_reflexive": false,
+  "also_non_reflexive": false,
+  "perfekt": "ist geschmolzen (intransitive) / hat geschmolzen (transitive)",
+  "praeteritum": "schmolz",
+  "verb_case": "akkusativ",
+  "notes": "Schmelzen is used both intransitively (something melts on its own, Perfekt with 'ist') and transitively (someone melts something, Perfekt with 'hat'). It is a strong verb with vowel change: schmelzen → schmilzt → schmolz → geschmolzen.",
+  "sentences": [
+    {
+      "german": "Im Frühling schmilzt der Schnee in der Sonne.",
+      "english": "In spring, the snow melts in the sun.",
+      "purpose": "present"
+    },
+    {
+      "german": "Die Butter ist in der heißen Pfanne schnell geschmolzen.",
+      "english": "The butter melted quickly in the hot pan.",
+      "purpose": "perfekt"
+    },
+    {
+      "german": "Der Koch hat die Schokolade im Wasserbad geschmolzen.",
+      "english": "The cook melted the chocolate in a double boiler.",
+      "purpose": "present"
+    }
+  ]
+}

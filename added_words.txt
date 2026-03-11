@@ -1,23 +1,160 @@
-# generated_20251007_121350.apkg
-gedreht
+Karibik
+Überleitung
+forschen
+Forscher
+Würfel
+Länge
+ruinieren
+Schiffbruch
+etwas im Blut haben
+Gentest
+atmen
+Atmung
+Atemzug
+schieß los!
+durchqueren
+Lieferung
+kein Land in Sicht
+Ausblick
+eng
+Verein
+Widerstandsfähigkeit
+ausprobieren
+Vertrauen
+Selbstvertrauen
+Selbstbewusstsein
+fassbar
+fassen
+Entschleunigung
+beschleunigen
+Welle
+Hügel
+steil
+Treppe
+kräftig
+kraftvoll
+Überblick
+Hanse
+Handel
+das kommt mir bekannt vor
+nachvollziehen
+raten
+die Art und Weise
+breit
+isoliert
+dicht
+poetisch
+speichern
+Wettervorhersage
+vorhersagen
+wörtlich
+überzeugen
+Überzeugung
+schwach
+auf jeden Fall
+bescheiden
+behandeln
+Vorurteil
+Urteil
+Diskriminierung
+eigentlich
+geduldig
+Geduld
+dulden
+ungeduldig
+sofortig
+inspirierend
+Vorschlag
+niedrig
+aufwachsen
+erwachsen
+Aberglaube
+überwältigen
+locker
+Reparatur
+Werkstatt
+lenken
+Grenze
+Entscheidung
+schießen
+Vorstellung
+sich vorstellen
+vorstellen
+Auswirkung
+Verantwortung
+verantwortlich
+Schuld
+schuldig
+Staub
+staubig
+Luftreiniger
+ruhig
+nachdenken über
+anpassen
+Kreislauf
+Nutzung
+Werkzeug
+Befehl
+befehlen
+stark
+bearbeiten
+Zugriff haben
+übernehmen
+überflüssig
+Krieg
+manipulieren
+scheinen
+sich verstecken
+verstecken
+stecken
+verdecken
+Forschung
+Halluzination
+erkennen
+frustriert
+missbrauchen
+risikoreich
+Risiko
+Gefahr
+befürchten
+weiterentwickeln
+faszinierend
+beängstigend
+sich Sorgen machen
+Überwachung
+überwachen
+Datenverarbeitung
+Benutzer
+Selbstoptimierung
+übereinstimmen
+zustimmen
+Anker
+segeln
+Segelboot
+Mast
+Deck
+Bug
+Heck
+Ruder
+Kajüte
+drehen
 Umgebung
-eingesetzt
-gehalten
-gebracht
+einsetzen
+halten
+bringen
 entdecken
-aufgestellt
+aufstellen
 umarmen
-geschaffen
+schaffen
 entfernt
 Ufer
 Großteil
-Rassen
+rasen
 drin
 dran
 Duft
 Geruch
 ermutigen
-aufgewachsen
 irgendwie
 überhaupt
 beobachten
@@ -25,106 +162,85 @@ Botschaft
 Übergabe
 öffentlicher Nahverkehr
 Helm
-unheimlicher Ort
 Angst haben
 Schloss
 stehlen
 besonders
-der Park
 befreien
-Ich muss zugeben
+zugeben
 Klimaanlage
 Stadtjunge
-verloren in der Wüste
-die Pension
-Orangenhaine
+Pension
 über
 geschäftig
 überall
 Haustier
-Berglöwen
 drinnen halten
 Katzenklo
 üblich
 verdienen
 unbegrenzt
-selbe
+selb
 neugierig
-Atmung
 Herzfrequenz
 beschäftigt
-die Paprika
-die Aubergine
-die Zitrone
-die Limette
-der Kohl
-der Pak Choi
-die Passionsfrucht
-die Drachenfrucht
+Paprika
+überzeugt
+selb-
+Aubergine
+Zitrone
+Limette
+Kohl
+Pak Choi
+Passionsfrucht
+Drachenfrucht
 sauer
-die Johannisbeeren
+Johannisbeere
 leuchtend rot
-die Cocktails
-die Schale
-der Braten
-die Kerne
+Schale
+Braten
+Kern
 Gelegenheit
-das Gedächtnis
-der Sklave
-die Geldstrafe
-das Bußgeld
-überlegt
-die Regierung
-die Verzierung
-die Wahl
-die Maus
+Gedächtnis
+Sklave
+Geldstrafe
+Bußgeld
+Regierung
+Verzierung
+Wahl
 unüblich
 Muster
-# generated_20251010_090126.apkg
 nun
-lassen
 brennen
 Täter
 nachlassen
-lesen
 verlassen
 zulassen
 entlassen
 schmelzen
 überlassen
-auflassen
-Anlassen
-die Nachricht
+Nachricht
 zurückschreiben
-Ausnahmen
 Sport treiben
 indem
 erfassen
-werden
-wären
-wurden
 lösen
 dauern
 während
 häufig
-die Umgangssprache
+Umgangssprache
 zurück
-der Ball
-die Fälle
 Wettbewerb
 Strafe
 Zutat
 sonst
 sogar
-Farm
 bewirtschaften
-das Gebäude
+Gebäude
 bauen
 riechen
-ein Geruch
-Vor einiger Zeit
+vor einiger Zeit
 anstrengend
-# generated_20251015_220448.apkg
 erfolgreich
 Beobachtung
 kaum
@@ -133,20 +249,15 @@ Ereignis
 Überlegung
 Gedankengang
 eine Frage stellen
-Stil
 Abwechslung
-der Fortschritt
-versteckt
-entfernen
+Fortschritt
 aufhören
-Was für
-das Mysterium
+was für
 erleben
-Fog
 kriegen
 kämpfen
 ersetzen
-Arbeitskräfte
+Arbeitskraft
 Bereich
 erzählen
 heben
@@ -165,37 +276,32 @@ modebewusst
 egoistisch
 ehrlich
 zuverlässig
-entlang gegangen
+entlanggehen
 rein von außen
 Tätigkeit
-# generated_20251015_221643.apkg
 betonen
 Ergebnis
 fest
 Herausforderung
-klingt
-Genossen
-gereinigt
+klingen
+Genosse
+reinigen
 steigen
-Männlich
 rasieren
 oben
 Seite
 entladen
-gefügt
+fügen
 entweder
 Spaß machen
 entlang
-sich vorstellen
 Leidenschaft
 Geräusch
 gewöhnlich
-# generated_20251022_092214.apkg
 entschieden
 schieben
-Scheiben
+Scheibe
 angenehm
-Bell
 unbedingt
 erkunden
 heimlich
@@ -203,8 +309,7 @@ ungezogen
 gutaussehend
 Gedanke
 in gewisser Weise
-der Staub
-ist kaputtgegangen
+kaputtgehen
 vor Kurzem
 Zustand
 Bedingung
@@ -212,7 +317,7 @@ festigen
 bestellen
 wahrscheinlich
 Gesellschaft
-der Preis
+Preis
 jedoch
 doch
 Verwaltung
@@ -222,30 +327,24 @@ heraus
 hinaus
 Vorhaben
 Absicht
-vervollständigen
-Taschen
-erfühlen
-unheimlich
 Versprechen
 erledigen
-verstecken
-einleiten
 ausgezeichnet
 ergänzen
 Ergänzung
-die Logik
 goldrichtig
 endlich
-geschrieben
+schreiben
 senken
 sich eignen
 bilden
 anrufen
 zuvor
-gewesen
+sein
 hin
-erledigt
-begonnen
+beginnen
 einsam
 ab und zu
 weise
+kaufen
+lachen

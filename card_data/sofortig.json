@@ -1,0 +1,19 @@
+{
+  "canonical": "sofortig",
+  "word_type": "adjective",
+  "english": "immediate / instant",
+  "adjective_forms": "sofortig, —, sofortigst-",
+  "notes": "Primarily used as an attributive adjective before nouns. As a predicate adjective it is rare; the adverb 'sofort' is preferred instead.",
+  "sentences": [
+    {
+      "german": "Wir brauchen eine sofortige Antwort auf diese Frage.",
+      "english": "We need an immediate answer to this question.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Der Arzt verlangte sofortige Maßnahmen.",
+      "english": "The doctor demanded immediate measures.",
+      "purpose": "meaning"
+    }
+  ]
+}

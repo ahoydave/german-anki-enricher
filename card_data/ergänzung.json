@@ -1,0 +1,20 @@
+{
+  "canonical": "Ergänzung",
+  "word_type": "noun",
+  "article": "die",
+  "plural": "Ergänzungen",
+  "english": "addition / supplement / complement",
+  "notes": "Derived from the verb 'ergänzen' (to complement, to add to). Used in grammar to mean 'complement' or 'object', and in everyday language for additions or supplements.",
+  "sentences": [
+    {
+      "german": "Die Ergänzung zum Vertrag wurde von beiden Seiten unterschrieben.",
+      "english": "The addition to the contract was signed by both parties.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "In der Grammatik ist das Objekt eine Ergänzung des Verbs.",
+      "english": "In grammar, the object is a complement of the verb.",
+      "purpose": "meaning"
+    }
+  ]
+}

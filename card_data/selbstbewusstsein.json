@@ -1,0 +1,20 @@
+{
+  "canonical": "Selbstbewusstsein",
+  "word_type": "noun",
+  "article": "das",
+  "plural": "Selbstbewusstseine",
+  "english": "self-confidence / self-awareness",
+  "notes": "The plural form is rarely used. The word combines 'selbst' (self) and 'Bewusstsein' (consciousness/awareness). In everyday usage it most commonly means self-confidence.",
+  "sentences": [
+    {
+      "german": "Sie hat ein starkes Selbstbewusstsein und traut sich viel zu.",
+      "english": "She has strong self-confidence and believes she can do a lot.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Nach dem Erfolg ist sein Selbstbewusstsein deutlich gewachsen.",
+      "english": "After the success, his self-confidence grew noticeably.",
+      "purpose": "meaning"
+    }
+  ]
+}

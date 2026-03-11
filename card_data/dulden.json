@@ -1,0 +1,22 @@
+{
+  "canonical": "dulden",
+  "word_type": "verb",
+  "english": "to tolerate / to put up with / to endure",
+  "is_reflexive": false,
+  "also_non_reflexive": false,
+  "perfekt": "hat geduldet",
+  "praeteritum": "duldete",
+  "verb_case": "akkusativ",
+  "sentences": [
+    {
+      "german": "Der Chef duldet keine Unpünktlichkeit im Büro.",
+      "english": "The boss tolerates no unpunctuality in the office.",
+      "purpose": "present"
+    },
+    {
+      "german": "Die Eltern haben das schlechte Benehmen ihres Kindes lange geduldet.",
+      "english": "The parents tolerated their child's bad behaviour for a long time.",
+      "purpose": "perfekt"
+    }
+  ]
+}

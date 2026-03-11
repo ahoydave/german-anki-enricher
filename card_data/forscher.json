@@ -1,0 +1,20 @@
+{
+  "canonical": "Forscher",
+  "word_type": "noun",
+  "article": "der",
+  "plural": "Forscher",
+  "english": "researcher / scientist / explorer",
+  "notes": "Refers to someone who conducts research or scientific investigation. The plural form is identical to the singular.",
+  "sentences": [
+    {
+      "german": "Der Forscher arbeitet in einem Labor an der Universität.",
+      "english": "The researcher works in a laboratory at the university.",
+      "purpose": "present"
+    },
+    {
+      "german": "Die Forscher haben eine neue Methode zur Krebsbehandlung entdeckt.",
+      "english": "The researchers have discovered a new method for treating cancer.",
+      "purpose": "present"
+    }
+  ]
+}

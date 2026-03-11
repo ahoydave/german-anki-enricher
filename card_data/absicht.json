@@ -1,0 +1,25 @@
+{
+  "canonical": "Absicht",
+  "word_type": "noun",
+  "article": "die",
+  "plural": "Absichten",
+  "english": "intention / purpose / intent",
+  "notes": "Often used in the phrase 'mit Absicht' (on purpose) or 'ohne Absicht' (unintentionally).",
+  "sentences": [
+    {
+      "german": "Es war keine böse Absicht – er wollte dir nicht wehtun.",
+      "english": "It was no bad intention – he didn't want to hurt you.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Sie hat die Absicht, nächstes Jahr nach Berlin zu ziehen.",
+      "english": "She intends to move to Berlin next year.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Er hat das mit Absicht gemacht.",
+      "english": "He did that on purpose.",
+      "purpose": "meaning"
+    }
+  ]
+}

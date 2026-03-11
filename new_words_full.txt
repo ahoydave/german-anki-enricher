@@ -1,0 +1,349 @@
+# From lesson notes (words_source.md)
+die Karibik
+die Überleitung
+forschen
+der Forscher
+der Würfel
+die Länge
+ruinieren
+der Schiffbruch
+du hast das im Blut
+der Gentest
+atmen
+die Atmung
+der Atemzug
+schieß los!
+durchqueren
+die Lieferung
+kein Land in Sicht
+der Ausblick
+eng
+der Verein
+die Widerstandsfähigkeit
+ausprobieren
+das Vertrauen
+das Selbstvertrauen
+das Selbstbewusstsein
+fassbar
+fassen
+die Entschleunigung
+beschleunigen
+die Welle
+der Hügel
+steil
+die Treppe
+kräftig
+kraftvoll
+der Überblick
+die Hanse
+der Handel
+das kommt mir bekannt vor
+nachvollziehen
+raten
+die Art und Weise
+breit
+isoliert
+dicht
+poetisch
+speichern
+die Wettervorhersage
+vorhersagen
+wörtlich
+überzeugt
+die Überzeugung
+überzeugen
+schwach
+auf jeden Fall
+bescheiden
+behandeln
+das Vorurteil
+das Urteil
+die Diskriminierung
+eigentlich
+geduldig
+die Geduld
+dulden
+ungeduldig
+sofortig
+inspirierend
+der Vorschlag
+niedrig
+aufwachsen
+erwachsen
+der Aberglaube
+überwältigen
+locker
+die Reparatur
+die Werkstatt
+lenken
+die Grenze
+die Entscheidung
+schießen
+die Vorstellung
+sich vorstellen
+die Auswirkung
+die Verantwortung
+verantwortlich
+die Schuld
+schuldig
+der Staub
+staubig
+der Luftreiniger
+ruhig
+nachdenken über
+anpassen
+der Kreislauf
+die Nutzung
+das Werkzeug
+der Befehl
+befehlen
+stark
+bearbeiten
+Zugriff haben
+übernehmen
+überflüssig
+der Krieg
+manipulieren
+scheinen
+verstecken
+stecken
+verdecken
+die Forschung
+die Halluzination
+erkennen
+frustriert
+missbrauchen
+risikoreich
+das Risiko
+die Gefahr
+befürchten
+weiterentwickeln
+faszinierend
+beängstigend
+sich Sorgen machen
+die Überwachung
+überwachen
+die Datenverarbeitung
+der Benutzer
+die Selbstoptimierung
+übereinstimmen
+zustimmen
+der Anker
+segeln
+das Segelboot
+der Mast
+das Deck
+der Bug
+das Heck
+das Ruder
+die Kajüte
+
+# From old_added_words.txt (B1/B2 words not already above)
+gedreht
+Umgebung
+eingesetzt
+gehalten
+gebracht
+entdecken
+aufgestellt
+umarmen
+geschaffen
+entfernt
+Ufer
+Großteil
+Rassen
+drin
+dran
+Duft
+Geruch
+ermutigen
+irgendwie
+überhaupt
+beobachten
+Botschaft
+Übergabe
+öffentlicher Nahverkehr
+Helm
+Angst haben
+Schloss
+stehlen
+besonders
+befreien
+Ich muss zugeben
+Klimaanlage
+Stadtjunge
+die Pension
+über
+geschäftig
+überall
+Haustier
+drinnen halten
+Katzenklo
+üblich
+verdienen
+unbegrenzt
+selbe
+neugierig
+Herzfrequenz
+beschäftigt
+die Paprika
+die Aubergine
+die Zitrone
+die Limette
+der Kohl
+der Pak Choi
+die Passionsfrucht
+die Drachenfrucht
+sauer
+die Johannisbeeren
+leuchtend rot
+die Schale
+der Braten
+die Kerne
+Gelegenheit
+das Gedächtnis
+der Sklave
+die Geldstrafe
+das Bußgeld
+die Regierung
+die Verzierung
+die Wahl
+unüblich
+Muster
+nun
+brennen
+Täter
+nachlassen
+verlassen
+zulassen
+entlassen
+schmelzen
+überlassen
+die Nachricht
+zurückschreiben
+Sport treiben
+indem
+erfassen
+lösen
+dauern
+während
+häufig
+die Umgangssprache
+zurück
+Wettbewerb
+Strafe
+Zutat
+sonst
+sogar
+bewirtschaften
+das Gebäude
+bauen
+riechen
+Vor einiger Zeit
+anstrengend
+erfolgreich
+Beobachtung
+kaum
+austauschbar
+Ereignis
+Überlegung
+Gedankengang
+eine Frage stellen
+Abwechslung
+der Fortschritt
+aufhören
+Was für
+erleben
+kriegen
+kämpfen
+ersetzen
+Arbeitskräfte
+Bereich
+erzählen
+heben
+bestimmt
+sympathisch
+lieb
+hübsch
+höflich
+begabt
+selbstbewusst
+fleißig
+hilfsbereit
+mutig
+bewusst
+modebewusst
+egoistisch
+ehrlich
+zuverlässig
+entlang gegangen
+rein von außen
+Tätigkeit
+betonen
+Ergebnis
+fest
+Herausforderung
+klingt
+Genossen
+gereinigt
+steigen
+rasieren
+oben
+Seite
+entladen
+gefügt
+entweder
+Spaß machen
+entlang
+Leidenschaft
+Geräusch
+gewöhnlich
+entschieden
+schieben
+Scheiben
+angenehm
+unbedingt
+erkunden
+heimlich
+ungezogen
+gutaussehend
+Gedanke
+in gewisser Weise
+ist kaputtgegangen
+vor Kurzem
+Zustand
+Bedingung
+festigen
+bestellen
+wahrscheinlich
+Gesellschaft
+der Preis
+jedoch
+doch
+Verwaltung
+hinein
+herein
+heraus
+hinaus
+Vorhaben
+Absicht
+Versprechen
+erledigen
+ausgezeichnet
+ergänzen
+Ergänzung
+goldrichtig
+endlich
+geschrieben
+senken
+sich eignen
+bilden
+anrufen
+zuvor
+gewesen
+hin
+erledigt
+begonnen
+einsam
+ab und zu
+weise

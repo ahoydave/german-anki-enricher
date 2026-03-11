@@ -1,0 +1,31 @@
+{
+  "canonical": "ersetzen",
+  "word_type": "verb",
+  "english": "to replace / to substitute / to compensate for",
+  "is_reflexive": false,
+  "also_non_reflexive": false,
+  "perfekt": "hat ersetzt",
+  "praeteritum": "ersetzte",
+  "verb_case": "akkusativ",
+  "prepositions": [
+    "ersetzen durch + akkusativ"
+  ],
+  "notes": "Separable: no (non-separable prefix 'er-'). Can mean replacing one thing with another (ersetzen durch) or compensating someone for a loss.",
+  "sentences": [
+    {
+      "german": "Der Techniker ersetzt die alte Batterie durch eine neue.",
+      "english": "The technician replaces the old battery with a new one.",
+      "purpose": "present"
+    },
+    {
+      "german": "Das Unternehmen hat den alten Computer durch ein modernes Gerät ersetzt.",
+      "english": "The company has replaced the old computer with a modern device.",
+      "purpose": "perfekt"
+    },
+    {
+      "german": "Die Versicherung ersetzt den Schaden durch einen Geldbetrag.",
+      "english": "The insurance compensates for the damage with a sum of money.",
+      "purpose": "preposition"
+    }
+  ]
+}

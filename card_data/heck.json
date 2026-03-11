@@ -1,0 +1,20 @@
+{
+  "canonical": "Heck",
+  "word_type": "noun",
+  "article": "das",
+  "plural": "Hecks / Hecke",
+  "english": "stern (of a ship) / rear / tail (of a vehicle or aircraft)",
+  "notes": "Refers to the back end of a ship, car, or aircraft. The plural 'Hecks' is used for vehicles; 'Hecke' is rarer and more nautical.",
+  "sentences": [
+    {
+      "german": "Das Heck des Schiffes tauchte langsam ins Wasser.",
+      "english": "The stern of the ship slowly sank into the water.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Am Heck des Autos war ein großer Kratzer.",
+      "english": "There was a big scratch on the rear of the car.",
+      "purpose": "meaning"
+    }
+  ]
+}

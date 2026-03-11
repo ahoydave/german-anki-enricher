@@ -1,0 +1,31 @@
+{
+  "canonical": "befreien",
+  "word_type": "verb",
+  "english": "to free / to liberate / to release",
+  "is_reflexive": false,
+  "also_non_reflexive": false,
+  "perfekt": "hat befreit",
+  "praeteritum": "befreite",
+  "verb_case": "akkusativ",
+  "prepositions": [
+    "befreien von + dativ"
+  ],
+  "notes": "Can also be used reflexively as 'sich befreien' (to free oneself), but the primary form is non-reflexive transitive.",
+  "sentences": [
+    {
+      "german": "Die Feuerwehr befreit den Mann aus dem brennenden Auto.",
+      "english": "The fire brigade frees the man from the burning car.",
+      "purpose": "present"
+    },
+    {
+      "german": "Die Soldaten haben die Stadt von der Besatzung befreit.",
+      "english": "The soldiers have liberated the city from the occupation.",
+      "purpose": "perfekt"
+    },
+    {
+      "german": "Er hat sich von seiner Angst befreit.",
+      "english": "He freed himself from his fear.",
+      "purpose": "preposition"
+    }
+  ]
+}

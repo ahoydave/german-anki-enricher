@@ -1,0 +1,19 @@
+{
+  "canonical": "wahrscheinlich",
+  "word_type": "adverb",
+  "english": "probably / likely",
+  "adjective_forms": "wahrscheinlich, wahrscheinlicher, am wahrscheinlichsten",
+  "notes": "Can function both as an adverb (probably) and as an adjective (likely/probable). As an adjective: 'Das ist sehr wahrscheinlich.' As an adverb modifying a whole sentence: 'Wahrscheinlich kommt er heute nicht.'",
+  "sentences": [
+    {
+      "german": "Er kommt wahrscheinlich morgen an.",
+      "english": "He will probably arrive tomorrow.",
+      "purpose": "present"
+    },
+    {
+      "german": "Sie hat wahrscheinlich den Bus verpasst.",
+      "english": "She probably missed the bus.",
+      "purpose": "perfekt"
+    }
+  ]
+}

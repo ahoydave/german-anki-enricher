@@ -1,0 +1,26 @@
+{
+  "canonical": "bestellen",
+  "word_type": "verb",
+  "english": "to order (food, goods) / to book / to pass on (a message)",
+  "is_reflexive": false,
+  "perfekt": "hat bestellt",
+  "praeteritum": "bestellte",
+  "verb_case": "akkusativ",
+  "sentences": [
+    {
+      "german": "Ich bestelle ein Buch im Internet.",
+      "english": "I order a book on the internet.",
+      "purpose": "present"
+    },
+    {
+      "german": "Wir haben im Restaurant Pasta bestellt.",
+      "english": "We ordered pasta at the restaurant.",
+      "purpose": "perfekt"
+    },
+    {
+      "german": "Kannst du ihm bitte einen Gruß bestellen?",
+      "english": "Can you please pass on a greeting to him?",
+      "purpose": "meaning"
+    }
+  ]
+}

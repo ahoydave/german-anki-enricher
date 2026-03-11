@@ -1,0 +1,28 @@
+{
+  "canonical": "überlassen",
+  "word_type": "verb",
+  "english": "to leave (something to someone) / to hand over / to entrust / to let someone have",
+  "is_reflexive": false,
+  "also_non_reflexive": false,
+  "perfekt": "hat überlassen",
+  "praeteritum": "überließ",
+  "verb_case": "dativ",
+  "notes": "Separable? No – 'überlassen' is an inseparable verb (unstressed prefix 'über-'). Takes dative for the person and accusative for the thing: jemandem (Dativ) etwas (Akkusativ) überlassen. Also used reflexively in 'sich selbst überlassen sein' (to be left to oneself).",
+  "sentences": [
+    {
+      "german": "Er überlässt seiner Schwester die Entscheidung.",
+      "english": "He leaves the decision to his sister.",
+      "purpose": "present"
+    },
+    {
+      "german": "Die Eltern haben dem Kind die Wahl überlassen.",
+      "english": "The parents left the choice to the child.",
+      "purpose": "perfekt"
+    },
+    {
+      "german": "Sie hat mir ihre Wohnung für den Sommer überlassen.",
+      "english": "She let me have her apartment for the summer.",
+      "purpose": "meaning"
+    }
+  ]
+}

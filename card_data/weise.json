@@ -1,0 +1,19 @@
+{
+  "canonical": "weise",
+  "word_type": "adjective",
+  "english": "wise / prudent / sagacious",
+  "adjective_forms": "weise, weiser, am weisesten",
+  "notes": "Can also appear as a suffix '-weise' forming adverbs (e.g. 'glücklicherweise', 'stufenweise'). As a standalone adjective, it describes wisdom or sound judgment.",
+  "sentences": [
+    {
+      "german": "Der alte Mann gab mir einen weisen Rat.",
+      "english": "The old man gave me a wise piece of advice.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Es wäre weiser, jetzt eine Pause zu machen.",
+      "english": "It would be wiser to take a break now.",
+      "purpose": "meaning"
+    }
+  ]
+}

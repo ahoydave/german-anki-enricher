@@ -1,0 +1,22 @@
+{
+  "canonical": "zurückschreiben",
+  "word_type": "verb",
+  "english": "to write back / to reply (in writing)",
+  "is_reflexive": false,
+  "also_non_reflexive": false,
+  "perfekt": "hat zurückgeschrieben",
+  "praeteritum": "schrieb zurück",
+  "verb_case": "dativ",
+  "sentences": [
+    {
+      "german": "Ich schreibe ihr morgen zurück.",
+      "english": "I will write back to her tomorrow.",
+      "purpose": "present"
+    },
+    {
+      "german": "Er hat auf die E-Mail sofort zurückgeschrieben.",
+      "english": "He wrote back to the email immediately.",
+      "purpose": "perfekt"
+    }
+  ]
+}

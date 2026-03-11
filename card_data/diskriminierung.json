@@ -1,0 +1,20 @@
+{
+  "canonical": "Diskriminierung",
+  "word_type": "noun",
+  "article": "die",
+  "plural": "Diskriminierungen",
+  "english": "discrimination",
+  "notes": "Refers to the unfair treatment of people based on characteristics such as race, gender, religion, or age.",
+  "sentences": [
+    {
+      "german": "Diskriminierung am Arbeitsplatz ist in Deutschland verboten.",
+      "english": "Discrimination in the workplace is prohibited in Germany.",
+      "purpose": "present"
+    },
+    {
+      "german": "Viele Menschen kämpfen gegen Diskriminierungen aufgrund ihrer Herkunft.",
+      "english": "Many people fight against discrimination based on their origin.",
+      "purpose": "meaning"
+    }
+  ]
+}

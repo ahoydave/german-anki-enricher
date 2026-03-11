@@ -1,0 +1,29 @@
+{
+  "canonical": "zustimmen",
+  "word_type": "verb",
+  "english": "to agree / to consent / to approve",
+  "is_reflexive": false,
+  "also_non_reflexive": false,
+  "perfekt": "hat zugestimmt",
+  "praeteritum": "stimmte zu",
+  "verb_case": "dativ",
+  "prepositions": [],
+  "notes": "Separable verb (zu- prefix). Takes dative for the person or thing agreed with.",
+  "sentences": [
+    {
+      "german": "Alle Mitglieder stimmen dem Vorschlag zu.",
+      "english": "All members agree to the proposal.",
+      "purpose": "present"
+    },
+    {
+      "german": "Sie hat dem Plan schließlich zugestimmt.",
+      "english": "She finally agreed to the plan.",
+      "purpose": "perfekt"
+    },
+    {
+      "german": "Ich stimme dir vollkommen zu.",
+      "english": "I completely agree with you.",
+      "purpose": "meaning"
+    }
+  ]
+}

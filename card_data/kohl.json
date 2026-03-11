@@ -1,0 +1,20 @@
+{
+  "canonical": "Kohl",
+  "word_type": "noun",
+  "article": "der",
+  "plural": "Kohle (rare/regional) / Kohlsorten",
+  "english": "cabbage / (colloquial) nonsense, rubbish",
+  "notes": "Primarily means cabbage (the vegetable). In colloquial German, 'das ist doch alles Kohl' means 'that's all nonsense'. Also a famous German surname (Helmut Kohl).",
+  "sentences": [
+    {
+      "german": "Ich kaufe heute Kohl auf dem Markt.",
+      "english": "I am buying cabbage at the market today.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Red das nicht – das ist doch alles Kohl!",
+      "english": "Don't say that – that's all nonsense!",
+      "purpose": "meaning"
+    }
+  ]
+}

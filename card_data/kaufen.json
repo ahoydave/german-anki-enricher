@@ -1,0 +1,24 @@
+{
+  "canonical": "kaufen",
+  "word_type": "verb",
+  "english": "to buy / to purchase",
+  "is_reflexive": false,
+  "also_non_reflexive": false,
+  "perfekt": "hat gekauft",
+  "praeteritum": "kaufte",
+  "verb_case": "akkusativ",
+  "prepositions": [],
+  "notes": "",
+  "sentences": [
+    {
+      "german": "Ich kaufe jeden Morgen Brot.",
+      "english": "I buy bread every morning.",
+      "purpose": "present"
+    },
+    {
+      "german": "Sie hat ein neues Auto gekauft.",
+      "english": "She bought a new car.",
+      "purpose": "perfekt"
+    }
+  ]
+}

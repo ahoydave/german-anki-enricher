@@ -1,0 +1,25 @@
+{
+  "canonical": "Umgebung",
+  "word_type": "noun",
+  "article": "die",
+  "plural": "Umgebungen",
+  "english": "surroundings / environment / vicinity / area",
+  "notes": "Refers to the area or environment around a person or place. Can mean the immediate physical surroundings or the broader environment/context.",
+  "sentences": [
+    {
+      "german": "Die Umgebung der Stadt ist sehr grün und ruhig.",
+      "english": "The surroundings of the city are very green and quiet.",
+      "purpose": "present"
+    },
+    {
+      "german": "Er kennt die Umgebung gut, weil er dort aufgewachsen ist.",
+      "english": "He knows the area well because he grew up there.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "In der Umgebung des Bahnhofs gibt es viele Restaurants.",
+      "english": "In the vicinity of the train station there are many restaurants.",
+      "purpose": "present"
+    }
+  ]
+}

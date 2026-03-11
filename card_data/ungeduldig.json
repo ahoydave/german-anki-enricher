@@ -1,0 +1,18 @@
+{
+  "canonical": "ungeduldig",
+  "word_type": "adjective",
+  "english": "impatient",
+  "adjective_forms": "ungeduldig, ungeduldiger, am ungeduldigsten",
+  "sentences": [
+    {
+      "german": "Die Kinder werden ungeduldig, weil sie auf das Essen warten.",
+      "english": "The children are getting impatient because they are waiting for the food.",
+      "purpose": "present"
+    },
+    {
+      "german": "Er schaute ungeduldig auf die Uhr.",
+      "english": "He looked impatiently at the clock.",
+      "purpose": "meaning"
+    }
+  ]
+}

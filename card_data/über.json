@@ -1,0 +1,23 @@
+{
+  "canonical": "über",
+  "word_type": "preposition",
+  "english": "over / above / about / via / more than",
+  "notes": "Takes accusative when indicating movement or direction (über die Brücke gehen), and dative when indicating a static position (über dem Tisch hängen). Also used figuratively to mean 'about' (sprechen über + accusative) or 'via/through'.",
+  "sentences": [
+    {
+      "german": "Das Flugzeug fliegt über die Stadt.",
+      "english": "The plane flies over the city.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Das Bild hängt über dem Sofa.",
+      "english": "The picture hangs above the sofa.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Wir reden über das neue Projekt.",
+      "english": "We are talking about the new project.",
+      "purpose": "meaning"
+    }
+  ]
+}

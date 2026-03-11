@@ -1,0 +1,18 @@
+{
+  "canonical": "niedrig",
+  "word_type": "adjective",
+  "english": "low / short (in height) / inferior (in rank or quality)",
+  "adjective_forms": "niedrig, niedriger, am niedrigsten",
+  "sentences": [
+    {
+      "german": "Die Decke in diesem Keller ist sehr niedrig.",
+      "english": "The ceiling in this basement is very low.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Die Temperaturen sind im Winter besonders niedrig.",
+      "english": "The temperatures are particularly low in winter.",
+      "purpose": "meaning"
+    }
+  ]
+}

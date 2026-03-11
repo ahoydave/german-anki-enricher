@@ -1,0 +1,20 @@
+{
+  "canonical": "Überwachung",
+  "word_type": "noun",
+  "article": "die",
+  "plural": "Überwachungen",
+  "english": "surveillance / monitoring / supervision",
+  "notes": "Derived from the verb 'überwachen'. Often used in contexts of security, data privacy, or workplace monitoring.",
+  "sentences": [
+    {
+      "german": "Die Überwachung durch Kameras ist in vielen Städten normal geworden.",
+      "english": "Surveillance by cameras has become normal in many cities.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Der Arzt ordnete eine ständige Überwachung des Patienten an.",
+      "english": "The doctor ordered constant monitoring of the patient.",
+      "purpose": "meaning"
+    }
+  ]
+}

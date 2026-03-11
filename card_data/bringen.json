@@ -1,0 +1,51 @@
+{
+  "canonical": "bringen",
+  "word_type": "verb",
+  "english": "to bring / to take / to deliver",
+  "is_reflexive": false,
+  "also_non_reflexive": false,
+  "perfekt": "hat gebracht",
+  "praeteritum": "brachte",
+  "verb_case": "akkusativ",
+  "prepositions": [
+    "bringen zu + dativ",
+    "bringen in + akkusativ"
+  ],
+  "notes": "'gebracht' is the past participle of 'bringen', an irregular (mixed) verb.",
+  "sentences": [
+    {
+      "german": "Er bringt seiner Mutter jeden Sonntag Blumen.",
+      "english": "He brings his mother flowers every Sunday.",
+      "purpose": "present"
+    },
+    {
+      "german": "Sie hat mir einen Kaffee gebracht.",
+      "english": "She brought me a coffee.",
+      "purpose": "perfekt"
+    },
+    {
+      "german": "Der Stress hat ihn in eine schwierige Situation gebracht.",
+      "english": "The stress brought him into a difficult situation.",
+      "purpose": "preposition"
+    }
+  ],
+  "cloze_text": "Er {{c1::bringt}} seiner Mutter jeden Sonntag Blumen.\nSie hat mir einen Kaffee {{c2::gebracht}}.\nEr {{c3::brachte}} seinem Freund ein Geschenk.\nDer Stress hat ihn {{c4::in}} eine schwierige Situation gebracht.",
+  "cloze_sentences": [
+    {
+      "text": "Er {{c1::bringt}} seiner Mutter jeden Sonntag Blumen.",
+      "hint": "brings (he, present)"
+    },
+    {
+      "text": "Sie hat mir einen Kaffee {{c1::gebracht}}.",
+      "hint": "brought (Perfekt participle)"
+    },
+    {
+      "text": "Er {{c1::brachte}} seinem Freund ein Geschenk.",
+      "hint": "brought (Präteritum)"
+    },
+    {
+      "text": "Der Stress hat ihn {{c1::in}} eine schwierige Situation gebracht.",
+      "hint": "into (preposition used with bringen for situations)"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical": "einsam",
+  "word_type": "adjective",
+  "english": "lonely / solitary / isolated",
+  "adjective_forms": "einsam, einsamer, am einsamsten",
+  "sentences": [
+    {
+      "german": "Seit er in die neue Stadt gezogen ist, fühlt er sich sehr einsam.",
+      "english": "Since he moved to the new city, he feels very lonely.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Das alte Haus steht einsam auf dem Hügel.",
+      "english": "The old house stands alone on the hill.",
+      "purpose": "meaning"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical": "oben",
+  "word_type": "adverb",
+  "english": "above / up / at the top / upstairs",
+  "notes": "Indicates a position that is higher up or at the top. Opposite of 'unten'. Can refer to physical location (upstairs, at the top) or figurative position (higher up in a hierarchy).",
+  "sentences": [
+    {
+      "german": "Die Bücher stehen oben im Regal.",
+      "english": "The books are at the top of the shelf.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Meine Eltern wohnen oben, im dritten Stock.",
+      "english": "My parents live upstairs, on the third floor.",
+      "purpose": "meaning"
+    }
+  ]
+}

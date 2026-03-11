@@ -1,0 +1,18 @@
+{
+  "canonical": "poetisch",
+  "word_type": "adjective",
+  "english": "poetic / poetical",
+  "adjective_forms": "poetisch, poetischer, am poetischsten",
+  "sentences": [
+    {
+      "german": "Ihre Beschreibung des Sonnenuntergangs war sehr poetisch.",
+      "english": "Her description of the sunset was very poetic.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Er drückt sich immer auf eine poetische Weise aus.",
+      "english": "He always expresses himself in a poetic way.",
+      "purpose": "meaning"
+    }
+  ]
+}

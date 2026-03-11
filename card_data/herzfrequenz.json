@@ -1,0 +1,20 @@
+{
+  "canonical": "Herzfrequenz",
+  "word_type": "noun",
+  "article": "die",
+  "plural": "Herzfrequenzen",
+  "english": "heart rate / cardiac frequency",
+  "notes": "Compound noun: Herz (heart) + Frequenz (frequency). Often used in medical and fitness contexts. Synonym: Herzschlagrate, Pulsfrequenz.",
+  "sentences": [
+    {
+      "german": "Beim Sport steigt die Herzfrequenz stark an.",
+      "english": "During exercise, the heart rate increases significantly.",
+      "purpose": "present"
+    },
+    {
+      "german": "Der Arzt hat meine Herzfrequenz gemessen und sie war normal.",
+      "english": "The doctor measured my heart rate and it was normal.",
+      "purpose": "perfekt"
+    }
+  ]
+}

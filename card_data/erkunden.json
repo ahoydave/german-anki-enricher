@@ -1,0 +1,22 @@
+{
+  "canonical": "erkunden",
+  "word_type": "verb",
+  "english": "to explore / to scout / to reconnoitre",
+  "is_reflexive": false,
+  "also_non_reflexive": false,
+  "perfekt": "hat erkundet",
+  "praeteritum": "erkundete",
+  "verb_case": "akkusativ",
+  "sentences": [
+    {
+      "german": "Wir erkunden die alte Stadt zu Fuß.",
+      "english": "We are exploring the old city on foot.",
+      "purpose": "present"
+    },
+    {
+      "german": "Die Kinder haben den Wald in der Nähe erkundet.",
+      "english": "The children have explored the forest nearby.",
+      "purpose": "perfekt"
+    }
+  ]
+}

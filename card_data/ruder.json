@@ -1,0 +1,25 @@
+{
+  "canonical": "Ruder",
+  "word_type": "noun",
+  "article": "das",
+  "plural": "Ruder",
+  "english": "oar / rudder / helm (figuratively: the reins of power)",
+  "notes": "Can mean an oar (for rowing) or a rudder/helm (for steering a ship). The phrase 'am Ruder sein' means to be in charge/at the helm.",
+  "sentences": [
+    {
+      "german": "Der Matrose hielt das Ruder fest, damit das Schiff auf Kurs blieb.",
+      "english": "The sailor held the rudder firmly so that the ship stayed on course.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Die Ruderer zogen die Ruder gleichzeitig durchs Wasser.",
+      "english": "The rowers pulled the oars through the water at the same time.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Nach den Wahlen übernahm die neue Partei das Ruder.",
+      "english": "After the elections, the new party took the helm.",
+      "purpose": "meaning"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "canonical": "bescheiden",
+  "word_type": "adjective",
+  "english": "modest / humble / unassuming",
+  "adjective_forms": "bescheiden, bescheidener, am bescheidensten",
+  "notes": "Can describe a person's character (humble, modest) or living conditions (modest, simple). Also exists as a verb 'bescheiden' (to inform/decide officially), but the adjective is far more common.",
+  "sentences": [
+    {
+      "german": "Er ist trotz seines Erfolgs sehr bescheiden geblieben.",
+      "english": "He has remained very modest despite his success.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Sie leben in bescheidenen Verhältnissen, aber sie sind glücklich.",
+      "english": "They live in modest circumstances, but they are happy.",
+      "purpose": "meaning"
+    }
+  ]
+}

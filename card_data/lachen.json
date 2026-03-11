@@ -1,0 +1,31 @@
+{
+  "canonical": "lachen",
+  "word_type": "verb",
+  "english": "to laugh",
+  "is_reflexive": false,
+  "also_non_reflexive": false,
+  "perfekt": "hat gelacht",
+  "praeteritum": "lachte",
+  "verb_case": "null",
+  "prepositions": [
+    "lachen über + akkusativ"
+  ],
+  "notes": "",
+  "sentences": [
+    {
+      "german": "Die Kinder lachen laut.",
+      "english": "The children laugh loudly.",
+      "purpose": "present"
+    },
+    {
+      "german": "Er hat über den Witz gelacht.",
+      "english": "He laughed at the joke.",
+      "purpose": "perfekt"
+    },
+    {
+      "german": "Sie lachen über die Situation.",
+      "english": "They laugh about the situation.",
+      "purpose": "preposition"
+    }
+  ]
+}

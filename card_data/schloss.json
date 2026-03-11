@@ -1,0 +1,20 @@
+{
+  "canonical": "Schloss",
+  "word_type": "noun",
+  "article": "das",
+  "plural": "Schlösser",
+  "english": "castle / lock (on a door)",
+  "notes": "Two distinct meanings: 1) a castle or palace, 2) a lock (on a door, suitcase, etc.)",
+  "sentences": [
+    {
+      "german": "Das alte Schloss auf dem Hügel ist ein beliebtes Touristenziel.",
+      "english": "The old castle on the hill is a popular tourist destination.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Das Schloss an der Tür ist kaputt, deshalb kann ich nicht abschließen.",
+      "english": "The lock on the door is broken, so I can't lock up.",
+      "purpose": "meaning"
+    }
+  ]
+}

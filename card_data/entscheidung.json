@@ -1,0 +1,20 @@
+{
+  "canonical": "Entscheidung",
+  "word_type": "noun",
+  "article": "die",
+  "plural": "Entscheidungen",
+  "english": "decision / choice",
+  "notes": "Derived from the verb 'entscheiden'. Common collocations: eine Entscheidung treffen (to make a decision), eine schwierige Entscheidung (a difficult decision).",
+  "sentences": [
+    {
+      "german": "Er hat eine schwierige Entscheidung getroffen.",
+      "english": "He made a difficult decision.",
+      "purpose": "present"
+    },
+    {
+      "german": "Die Entscheidung des Richters war überraschend.",
+      "english": "The judge's decision was surprising.",
+      "purpose": "meaning"
+    }
+  ]
+}

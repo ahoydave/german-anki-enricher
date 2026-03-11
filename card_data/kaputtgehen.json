@@ -1,0 +1,23 @@
+{
+  "canonical": "kaputtgehen",
+  "word_type": "verb",
+  "english": "to break / to stop working / to fall apart",
+  "is_reflexive": false,
+  "also_non_reflexive": false,
+  "perfekt": "ist kaputtgegangen",
+  "praeteritum": "ging kaputt",
+  "verb_case": "null",
+  "notes": "Separable verb (kaputt + gehen). Always conjugated with 'sein' in Perfekt. Used for objects that break or stop functioning.",
+  "sentences": [
+    {
+      "german": "Mein Fahrrad geht immer kaputt, wenn ich es am meisten brauche.",
+      "english": "My bicycle always breaks when I need it the most.",
+      "purpose": "present"
+    },
+    {
+      "german": "Das alte Radio ist gestern kaputtgegangen.",
+      "english": "The old radio broke yesterday.",
+      "purpose": "perfekt"
+    }
+  ]
+}

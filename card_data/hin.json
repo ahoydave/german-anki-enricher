@@ -1,0 +1,18 @@
+{
+  "canonical": "hin",
+  "word_type": "adverb",
+  "english": "there (direction away from speaker) / gone / along",
+  "notes": "Used to indicate direction away from the speaker. Often used as a separable prefix in verbs (hingehen, hinfahren, etc.). Also used in expressions like 'hin und her' (back and forth) or 'hin und wieder' (now and then). Colloquially means 'ruined/gone' (e.g. Das ist hin = That's done for).",
+  "sentences": [
+    {
+      "german": "Ich gehe hin und schaue mir das an.",
+      "english": "I'll go there and have a look.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Hin und wieder besuche ich meine Großeltern.",
+      "english": "Now and then I visit my grandparents.",
+      "purpose": "meaning"
+    }
+  ]
+}

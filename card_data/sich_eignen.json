@@ -1,0 +1,31 @@
+{
+  "canonical": "sich eignen",
+  "word_type": "verb",
+  "english": "to be suitable / to be fit for / to lend itself to",
+  "is_reflexive": true,
+  "also_non_reflexive": false,
+  "perfekt": "hat sich geeignet",
+  "praeteritum": "eignete mich",
+  "verb_case": "null",
+  "prepositions": [
+    "sich eignen für + akkusativ",
+    "sich eignen als + nominativ"
+  ],
+  "sentences": [
+    {
+      "german": "Dieses Buch eignet sich gut für Anfänger.",
+      "english": "This book is well suited for beginners.",
+      "purpose": "present"
+    },
+    {
+      "german": "Der Raum hat sich nicht als Büro geeignet.",
+      "english": "The room did not prove suitable as an office.",
+      "purpose": "perfekt"
+    },
+    {
+      "german": "Er eignet sich als Lehrer, weil er sehr geduldig ist.",
+      "english": "He is suited to be a teacher because he is very patient.",
+      "purpose": "preposition"
+    }
+  ]
+}

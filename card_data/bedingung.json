@@ -1,0 +1,20 @@
+{
+  "canonical": "Bedingung",
+  "word_type": "noun",
+  "article": "die",
+  "plural": "Bedingungen",
+  "english": "condition / requirement / term",
+  "notes": "Often used in plural (Bedingungen) when referring to terms of a contract or living/working conditions.",
+  "sentences": [
+    {
+      "german": "Das ist eine wichtige Bedingung für den Vertrag.",
+      "english": "That is an important condition for the contract.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Die Arbeitsbedingungen in dieser Firma sind sehr gut.",
+      "english": "The working conditions in this company are very good.",
+      "purpose": "meaning"
+    }
+  ]
+}

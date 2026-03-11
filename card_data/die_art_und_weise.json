@@ -1,0 +1,14 @@
+{
+  "canonical": "die Art und Weise",
+  "word_type": "phrase",
+  "english": "the way / the manner",
+  "article": "die",
+  "notes": "Fixed phrase combining 'Art' (type/kind) and 'Weise' (manner/way). Often used with 'wie' or a genitive attribute. Equivalent to 'the way in which' or 'the manner in which'.",
+  "sentences": [
+    {
+      "german": "Ich mag die Art und Weise, wie er mit anderen Menschen spricht.",
+      "english": "I like the way he talks to other people.",
+      "purpose": "meaning"
+    }
+  ]
+}

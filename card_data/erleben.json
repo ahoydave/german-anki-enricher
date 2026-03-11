@@ -1,0 +1,28 @@
+{
+  "canonical": "erleben",
+  "word_type": "verb",
+  "english": "to experience / to witness / to live through",
+  "is_reflexive": false,
+  "also_non_reflexive": false,
+  "perfekt": "hat erlebt",
+  "praeteritum": "erlebte",
+  "verb_case": "akkusativ",
+  "notes": "Separable prefix: no – 'erleben' is a non-separable verb with the inseparable prefix 'er-'.",
+  "sentences": [
+    {
+      "german": "Wir erleben gerade eine sehr schwierige Zeit.",
+      "english": "We are currently experiencing a very difficult time.",
+      "purpose": "present"
+    },
+    {
+      "german": "Sie hat auf ihrer Reise viele aufregende Dinge erlebt.",
+      "english": "She experienced many exciting things on her trip.",
+      "purpose": "perfekt"
+    },
+    {
+      "german": "Er hat noch nie so ein schönes Konzert erlebt.",
+      "english": "He has never witnessed such a beautiful concert.",
+      "purpose": "meaning"
+    }
+  ]
+}

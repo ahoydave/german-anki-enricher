@@ -1,0 +1,32 @@
+{
+  "canonical": "Gefahr",
+  "word_type": "noun",
+  "article": "die",
+  "plural": "Gefahren",
+  "english": "danger / risk / hazard",
+  "notes": "Common phrase: 'in Gefahr sein' (to be in danger); 'auf eigene Gefahr' (at one's own risk).",
+  "sentences": [
+    {
+      "german": "Die Gefahr eines Unfalls ist auf dieser Straße sehr hoch.",
+      "english": "The danger of an accident is very high on this road.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Die Feuerwehr hat die Menschen vor der Gefahr gewarnt.",
+      "english": "The fire brigade warned the people about the danger.",
+      "purpose": "present"
+    }
+  ],
+  "cloze_text": "{{c1::die}} {{c2::Gefahr}} eines Unfalls ist auf dieser Straße sehr hoch.\nAuf dieser Straße gibt es viele {{c3::Gefahren}}, deshalb muss man vorsichtig fahren.",
+  "cloze_sentences": [
+    {
+      "text": "Auf dieser Straße ist {{c1::die}} {{c2::Gefahr}} eines Unfalls sehr hoch.",
+      "hint_c1": "the (article — der/die/das?)",
+      "hint_c2": "danger (the word for danger)"
+    },
+    {
+      "text": "Auf dieser Straße gibt es viele {{c1::Gefahren}}, deshalb muss man vorsichtig fahren.",
+      "hint_c1": "dangers (plural form)"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "canonical": "überzeugt",
+  "word_type": "adjective",
+  "english": "convinced / persuaded / committed (to a belief)",
+  "adjective_forms": "überzeugt, überzeugter, am überzeugsten",
+  "notes": "Past participle of 'überzeugen' used as an adjective. Can mean 'convinced' (persuaded of something) or 'committed/devout' (e.g. a committed socialist). Often followed by 'von + dativ'.",
+  "sentences": [
+    {
+      "german": "Er ist fest überzeugt, dass er recht hat.",
+      "english": "He is firmly convinced that he is right.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Sie ist eine überzeugte Vegetarierin.",
+      "english": "She is a committed vegetarian.",
+      "purpose": "meaning"
+    }
+  ]
+}

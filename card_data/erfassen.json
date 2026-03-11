@@ -1,0 +1,28 @@
+{
+  "canonical": "erfassen",
+  "word_type": "verb",
+  "english": "to capture / to record / to grasp / to comprehend / to seize",
+  "is_reflexive": false,
+  "also_non_reflexive": false,
+  "perfekt": "hat erfasst",
+  "praeteritum": "erfasste",
+  "verb_case": "akkusativ",
+  "notes": "Can mean both physically capturing/seizing something and mentally grasping/understanding it, as well as recording data in a system.",
+  "sentences": [
+    {
+      "german": "Die Polizei erfasst alle Daten der Unfallbeteiligten.",
+      "english": "The police record all data of those involved in the accident.",
+      "purpose": "present"
+    },
+    {
+      "german": "Das System hat die neuen Kundendaten noch nicht erfasst.",
+      "english": "The system has not yet recorded the new customer data.",
+      "purpose": "perfekt"
+    },
+    {
+      "german": "Er hat die Bedeutung des Problems sofort erfasst.",
+      "english": "He immediately grasped the significance of the problem.",
+      "purpose": "meaning"
+    }
+  ]
+}

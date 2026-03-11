@@ -1,0 +1,46 @@
+{
+  "canonical": "sich Sorgen machen",
+  "word_type": "phrase",
+  "english": "to worry / to be worried",
+  "is_reflexive": true,
+  "also_non_reflexive": false,
+  "perfekt": "hat sich Sorgen gemacht",
+  "praeteritum": "machte mir Sorgen",
+  "verb_case": "akkusativ",
+  "prepositions": [
+    "sich Sorgen machen um + akkusativ"
+  ],
+  "notes": "The reflexive pronoun changes with the subject (mir, dir, sich, uns, euch, sich). 'Sorgen' is always plural here. Often followed by 'um' to specify what one is worried about.",
+  "sentences": [
+    {
+      "german": "Ich mache mir Sorgen um meine Mutter.",
+      "english": "I am worried about my mother.",
+      "purpose": "present"
+    },
+    {
+      "german": "Er hat sich den ganzen Tag Sorgen gemacht.",
+      "english": "He worried all day long.",
+      "purpose": "perfekt"
+    },
+    {
+      "german": "Sie macht sich Sorgen um ihre Gesundheit.",
+      "english": "She worries about her health.",
+      "purpose": "preposition"
+    }
+  ],
+  "cloze_text": "Sie {{c1::macht sich Sorgen}} um ihre kleine Schwester.\nEr hat sich den ganzen Tag {{c2::Sorgen gemacht}}.\nIch {{c3::mache mir Sorgen}} {{c4::um}} seine Gesundheit.",
+  "cloze_sentences": [
+    {
+      "text": "Meine Mutter {{c1::macht sich Sorgen}} um mich, wenn ich spät nach Hause komme.",
+      "hint": "worries / is worried (she, present — full reflexive phrase)"
+    },
+    {
+      "text": "Er hat sich die ganze Nacht {{c1::Sorgen gemacht}}, weil sein Freund krank war.",
+      "hint": "worried (Perfekt participle portion of the phrase)"
+    },
+    {
+      "text": "Ich {{c1::mache mir Sorgen}} {{c2::um}} meinen kleinen Bruder.",
+      "hint": "c1: worry / am worried (I, present — full reflexive phrase); c2: about (preposition used with this phrase)"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "canonical": "schreiben",
+  "word_type": "verb",
+  "english": "to write",
+  "is_reflexive": false,
+  "also_non_reflexive": false,
+  "perfekt": "hat geschrieben",
+  "praeteritum": "schrieb",
+  "verb_case": "akkusativ",
+  "prepositions": [
+    "schreiben an + akkusativ",
+    "schreiben über + akkusativ"
+  ],
+  "notes": "'geschrieben' is the past participle of 'schreiben'. Used with 'haben' to form the Perfekt.",
+  "sentences": [
+    {
+      "german": "Ich schreibe jeden Tag in mein Tagebuch.",
+      "english": "I write in my diary every day.",
+      "purpose": "present"
+    },
+    {
+      "german": "Sie hat ihrem Freund einen langen Brief geschrieben.",
+      "english": "She wrote her friend a long letter.",
+      "purpose": "perfekt"
+    },
+    {
+      "german": "Er schreibt gerade einen Artikel über das Klimaproblem.",
+      "english": "He is currently writing an article about the climate problem.",
+      "purpose": "preposition"
+    }
+  ]
+}

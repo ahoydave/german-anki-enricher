@@ -1,0 +1,20 @@
+{
+  "canonical": "Limette",
+  "word_type": "noun",
+  "article": "die",
+  "plural": "Limetten",
+  "english": "lime (citrus fruit)",
+  "notes": "A small green citrus fruit, similar to a lemon but more acidic and aromatic. Common in cocktails and Asian cuisine.",
+  "sentences": [
+    {
+      "german": "Ich presse eine Limette für den Cocktail aus.",
+      "english": "I squeeze a lime for the cocktail.",
+      "purpose": "present"
+    },
+    {
+      "german": "Die Limetten im Supermarkt waren sehr günstig.",
+      "english": "The limes at the supermarket were very cheap.",
+      "purpose": "present"
+    }
+  ]
+}

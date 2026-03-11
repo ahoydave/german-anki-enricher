@@ -1,0 +1,18 @@
+{
+  "canonical": "erfolgreich",
+  "word_type": "adjective",
+  "english": "successful / successfully",
+  "adjective_forms": "erfolgreich, erfolgreicher, am erfolgreichsten",
+  "sentences": [
+    {
+      "german": "Sie ist eine sehr erfolgreiche Unternehmerin.",
+      "english": "She is a very successful entrepreneur.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Das Projekt wurde erfolgreich abgeschlossen.",
+      "english": "The project was completed successfully.",
+      "purpose": "meaning"
+    }
+  ]
+}

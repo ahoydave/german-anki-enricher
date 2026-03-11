@@ -1,0 +1,18 @@
+{
+  "canonical": "höflich",
+  "word_type": "adjective",
+  "english": "polite / courteous",
+  "adjective_forms": "höflich, höflicher, am höflichsten",
+  "sentences": [
+    {
+      "german": "Er ist immer sehr höflich zu seinen Kollegen.",
+      "english": "He is always very polite to his colleagues.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Sie hat höflich um Hilfe gebeten.",
+      "english": "She politely asked for help.",
+      "purpose": "meaning"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical": "kräftig",
+  "word_type": "adjective",
+  "english": "strong / powerful / vigorous / hearty",
+  "adjective_forms": "kräftig, kräftiger, am kräftigsten",
+  "sentences": [
+    {
+      "german": "Er hat einen kräftigen Händedruck.",
+      "english": "He has a firm handshake.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Sie trinkt jeden Morgen eine kräftige Brühe.",
+      "english": "She drinks a hearty broth every morning.",
+      "purpose": "meaning"
+    }
+  ]
+}

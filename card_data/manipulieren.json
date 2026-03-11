@@ -1,0 +1,37 @@
+{
+  "canonical": "manipulieren",
+  "word_type": "verb",
+  "english": "to manipulate / to tamper with",
+  "is_reflexive": false,
+  "also_non_reflexive": false,
+  "perfekt": "hat manipuliert",
+  "praeteritum": "manipulierte",
+  "verb_case": "akkusativ",
+  "sentences": [
+    {
+      "german": "Er manipuliert die Daten, um bessere Ergebnisse zu zeigen.",
+      "english": "He manipulates the data to show better results.",
+      "purpose": "present"
+    },
+    {
+      "german": "Die Politikerin hat die Öffentlichkeit mit falschen Informationen manipuliert.",
+      "english": "The politician manipulated the public with false information.",
+      "purpose": "perfekt"
+    }
+  ],
+  "cloze_text": "Er {{c1::manipuliert}} die Daten, um bessere Ergebnisse zu zeigen.\nDie Politikerin hat die Öffentlichkeit mit falschen Informationen {{c2::manipuliert}}.\nDer Chef {{c3::manipulierte}} seine Mitarbeiter, damit sie länger arbeiteten.",
+  "cloze_sentences": [
+    {
+      "text": "Er {{c1::manipuliert}} die Daten, um bessere Ergebnisse zu zeigen.",
+      "hint": "manipulates (he, present)"
+    },
+    {
+      "text": "Die Politikerin hat die Öffentlichkeit mit falschen Informationen {{c1::manipuliert}}.",
+      "hint": "manipulated (Perfekt participle)"
+    },
+    {
+      "text": "Der Chef {{c1::manipulierte}} seine Mitarbeiter, damit sie länger arbeiteten.",
+      "hint": "manipulated (Präteritum)"
+    }
+  ]
+}

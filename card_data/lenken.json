@@ -1,0 +1,31 @@
+{
+  "canonical": "lenken",
+  "word_type": "verb",
+  "english": "to steer / to direct / to guide",
+  "is_reflexive": false,
+  "also_non_reflexive": false,
+  "perfekt": "hat gelenkt",
+  "praeteritum": "lenkte",
+  "verb_case": "akkusativ",
+  "prepositions": [
+    "lenken auf + akkusativ"
+  ],
+  "notes": "Used for steering vehicles, directing attention, or guiding people/things toward something.",
+  "sentences": [
+    {
+      "german": "Der Fahrer lenkt das Auto vorsichtig durch die enge Straße.",
+      "english": "The driver steers the car carefully through the narrow street.",
+      "purpose": "present"
+    },
+    {
+      "german": "Die Lehrerin hat das Gespräch in eine andere Richtung gelenkt.",
+      "english": "The teacher directed the conversation in a different direction.",
+      "purpose": "perfekt"
+    },
+    {
+      "german": "Er lenkte die Aufmerksamkeit der Gruppe auf das Problem.",
+      "english": "He directed the group's attention to the problem.",
+      "purpose": "preposition"
+    }
+  ]
+}

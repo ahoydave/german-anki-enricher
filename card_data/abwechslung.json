@@ -1,0 +1,20 @@
+{
+  "canonical": "Abwechslung",
+  "word_type": "noun",
+  "article": "die",
+  "plural": "Abwechslungen",
+  "english": "variety / change / diversion",
+  "notes": "Often used in the phrase 'zur Abwechslung' meaning 'for a change'.",
+  "sentences": [
+    {
+      "german": "Ich brauche etwas Abwechslung in meinem Alltag.",
+      "english": "I need some variety in my everyday life.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Zur Abwechslung haben wir heute ein anderes Restaurant ausprobiert.",
+      "english": "For a change, we tried a different restaurant today.",
+      "purpose": "meaning"
+    }
+  ]
+}

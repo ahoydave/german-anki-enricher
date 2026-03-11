@@ -1,0 +1,20 @@
+{
+  "canonical": "Passionsfrucht",
+  "word_type": "noun",
+  "article": "die",
+  "plural": "Passionsfrüchte",
+  "english": "passion fruit",
+  "notes": "Compound noun from 'Passion' (passion) + 'Frucht' (fruit). Also sometimes called 'Maracuja' in German.",
+  "sentences": [
+    {
+      "german": "Die Passionsfrucht schmeckt süß und leicht säuerlich.",
+      "english": "The passion fruit tastes sweet and slightly sour.",
+      "purpose": "present"
+    },
+    {
+      "german": "Im Supermarkt kann man frische Passionsfrüchte kaufen.",
+      "english": "You can buy fresh passion fruits at the supermarket.",
+      "purpose": "present"
+    }
+  ]
+}

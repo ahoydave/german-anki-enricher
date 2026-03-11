@@ -1,0 +1,31 @@
+{
+  "canonical": "fügen",
+  "word_type": "verb",
+  "english": "to join / to add / to submit (sich fügen: to comply, to resign oneself)",
+  "is_reflexive": false,
+  "also_non_reflexive": false,
+  "perfekt": "hat gefügt",
+  "praeteritum": "fügte",
+  "verb_case": "akkusativ",
+  "prepositions": [
+    "sich fügen in + akkusativ"
+  ],
+  "notes": "'gefügt' is the past participle of 'fügen'. The reflexive form 'sich fügen' means to comply with or resign oneself to something. The non-reflexive 'fügen' means to join or fit pieces together.",
+  "sentences": [
+    {
+      "german": "Der Schreiner fügte die Holzteile sorgfältig zusammen.",
+      "english": "The carpenter carefully joined the wooden pieces together.",
+      "purpose": "present"
+    },
+    {
+      "german": "Er hat sich in sein Schicksal gefügt.",
+      "english": "He has resigned himself to his fate.",
+      "purpose": "perfekt"
+    },
+    {
+      "german": "Sie fügte sich in die Entscheidung der Gruppe.",
+      "english": "She complied with the group's decision.",
+      "purpose": "preposition"
+    }
+  ]
+}

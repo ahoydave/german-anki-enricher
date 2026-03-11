@@ -1,0 +1,13 @@
+{
+  "canonical": "vor einiger Zeit",
+  "word_type": "phrase",
+  "english": "some time ago / a while ago",
+  "notes": "Temporal adverbial phrase used with past tenses (Perfekt or Präteritum). 'Einiger' is an indefinite determiner meaning 'some', agreeing with 'Zeit' (feminine dative after 'vor').",
+  "sentences": [
+    {
+      "german": "Vor einiger Zeit habe ich einen neuen Job angefangen.",
+      "english": "Some time ago, I started a new job.",
+      "purpose": "meaning"
+    }
+  ]
+}

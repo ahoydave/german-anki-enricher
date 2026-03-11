@@ -1,0 +1,19 @@
+{
+  "canonical": "fassbar",
+  "word_type": "adjective",
+  "english": "comprehensible / conceivable / tangible / graspable",
+  "adjective_forms": "fassbar, fassbarer, am fassbarsten",
+  "notes": "Often used in negative form 'nicht fassbar' or 'unfassbar' (incomprehensible, unbelievable). Can describe something mentally graspable or physically tangible.",
+  "sentences": [
+    {
+      "german": "Das Konzept ist für Kinder kaum fassbar.",
+      "english": "The concept is barely comprehensible for children.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Der Verlust war für sie nicht fassbar.",
+      "english": "The loss was incomprehensible to her.",
+      "purpose": "meaning"
+    }
+  ]
+}

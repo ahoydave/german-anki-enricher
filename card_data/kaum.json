@@ -1,0 +1,17 @@
+{
+  "canonical": "kaum",
+  "word_type": "adverb",
+  "english": "hardly / barely / scarcely",
+  "sentences": [
+    {
+      "german": "Ich kann kaum glauben, dass du schon hier bist.",
+      "english": "I can hardly believe that you are already here.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Er hat kaum geschlafen, weil er so aufgeregt war.",
+      "english": "He barely slept because he was so excited.",
+      "purpose": "meaning"
+    }
+  ]
+}

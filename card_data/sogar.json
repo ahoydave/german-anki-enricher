@@ -1,0 +1,18 @@
+{
+  "canonical": "sogar",
+  "word_type": "adverb",
+  "english": "even / in fact",
+  "notes": "Used to emphasize that something is surprising or unexpected. It highlights that something goes beyond what was expected.",
+  "sentences": [
+    {
+      "german": "Er spricht sogar Japanisch.",
+      "english": "He even speaks Japanese.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Das war sogar besser als erwartet.",
+      "english": "That was even better than expected.",
+      "purpose": "meaning"
+    }
+  ]
+}

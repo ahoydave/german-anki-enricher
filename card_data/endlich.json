@@ -1,0 +1,18 @@
+{
+  "canonical": "endlich",
+  "word_type": "adverb",
+  "english": "finally / at last",
+  "notes": "Can also be used as an adjective meaning 'finite' in mathematical or philosophical contexts, but the adverbial use is by far the most common.",
+  "sentences": [
+    {
+      "german": "Endlich ist der Sommer da!",
+      "english": "Finally, summer is here!",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Ich habe endlich meine Hausaufgaben fertig gemacht.",
+      "english": "I have finally finished my homework.",
+      "purpose": "meaning"
+    }
+  ]
+}

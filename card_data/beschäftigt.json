@@ -1,0 +1,19 @@
+{
+  "canonical": "beschäftigt",
+  "word_type": "adjective",
+  "english": "busy / occupied / employed",
+  "adjective_forms": "beschäftigt, beschäftigter, am beschäftigtsten",
+  "notes": "Derived from the verb 'beschäftigen'. Can mean 'busy' (having a lot to do), 'occupied' (engaged with something), or 'employed' (working for a company).",
+  "sentences": [
+    {
+      "german": "Ich bin gerade sehr beschäftigt und kann nicht ans Telefon gehen.",
+      "english": "I am very busy right now and cannot answer the phone.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Sie ist als Lehrerin bei einer Schule in Berlin beschäftigt.",
+      "english": "She is employed as a teacher at a school in Berlin.",
+      "purpose": "meaning"
+    }
+  ]
+}

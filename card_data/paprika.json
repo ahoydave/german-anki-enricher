@@ -1,0 +1,20 @@
+{
+  "canonical": "Paprika",
+  "word_type": "noun",
+  "article": "die",
+  "plural": "Paprika (or Paprikas)",
+  "english": "bell pepper / paprika (spice)",
+  "notes": "Can refer to the vegetable (bell pepper) or the spice (paprika powder). The plural is often 'Paprika' or 'Paprikas'. The spice 'Paprika' is also used as an uncountable noun.",
+  "sentences": [
+    {
+      "german": "Ich schneide die Paprika in kleine Stücke für den Salat.",
+      "english": "I am cutting the bell pepper into small pieces for the salad.",
+      "purpose": "present"
+    },
+    {
+      "german": "Sie würzt die Suppe mit einem Teelöffel Paprika.",
+      "english": "She seasons the soup with a teaspoon of paprika.",
+      "purpose": "meaning"
+    }
+  ]
+}

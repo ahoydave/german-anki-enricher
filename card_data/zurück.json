@@ -1,0 +1,18 @@
+{
+  "canonical": "zurück",
+  "word_type": "adverb",
+  "english": "back / backwards",
+  "notes": "Used as a directional adverb meaning 'back' or 'return'. Commonly used as a separable verb prefix (e.g. zurückgehen, zurückkommen).",
+  "sentences": [
+    {
+      "german": "Ich gehe jetzt zurück nach Hause.",
+      "english": "I am going back home now.",
+      "purpose": "present"
+    },
+    {
+      "german": "Kannst du einen Schritt zurückgehen?",
+      "english": "Can you take a step back?",
+      "purpose": "present"
+    }
+  ]
+}

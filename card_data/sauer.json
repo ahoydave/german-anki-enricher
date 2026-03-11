@@ -1,0 +1,18 @@
+{
+  "canonical": "sauer",
+  "word_type": "adjective",
+  "english": "sour / angry / annoyed / acidic",
+  "adjective_forms": "sauer, saurer, am sauersten",
+  "sentences": [
+    {
+      "german": "Diese Zitronen schmecken sehr sauer.",
+      "english": "These lemons taste very sour.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Mein Chef war sauer auf mich, weil ich zu spät kam.",
+      "english": "My boss was angry with me because I arrived late.",
+      "purpose": "meaning"
+    }
+  ]
+}

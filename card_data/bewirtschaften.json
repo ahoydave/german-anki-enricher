@@ -1,0 +1,22 @@
+{
+  "canonical": "bewirtschaften",
+  "word_type": "verb",
+  "english": "to farm / to cultivate / to manage (land, fields, a business)",
+  "is_reflexive": false,
+  "also_non_reflexive": false,
+  "perfekt": "hat bewirtschaftet",
+  "praeteritum": "bewirtschaftete",
+  "verb_case": "akkusativ",
+  "sentences": [
+    {
+      "german": "Die Familie bewirtschaftet seit Generationen einen großen Bauernhof.",
+      "english": "The family has been farming a large farm for generations.",
+      "purpose": "present"
+    },
+    {
+      "german": "Er hat das Land viele Jahre lang allein bewirtschaftet.",
+      "english": "He managed the land on his own for many years.",
+      "purpose": "perfekt"
+    }
+  ]
+}

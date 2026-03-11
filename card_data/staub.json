@@ -1,0 +1,20 @@
+{
+  "canonical": "Staub",
+  "word_type": "noun",
+  "article": "der",
+  "plural": "Stäube",
+  "english": "dust",
+  "notes": "The plural 'Stäube' is rarely used in everyday language; 'Staub' is mostly used as an uncountable noun. Common phrases: 'Staub saugen' (to vacuum), 'Staub wischen' (to dust).",
+  "sentences": [
+    {
+      "german": "Auf dem Regal liegt viel Staub.",
+      "english": "There is a lot of dust on the shelf.",
+      "purpose": "present"
+    },
+    {
+      "german": "Sie wischt jeden Samstag den Staub von den Möbeln.",
+      "english": "She dusts the furniture every Saturday.",
+      "purpose": "present"
+    }
+  ]
+}

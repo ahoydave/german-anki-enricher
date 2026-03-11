@@ -1,0 +1,20 @@
+{
+  "canonical": "Grenze",
+  "word_type": "noun",
+  "article": "die",
+  "plural": "Grenzen",
+  "english": "border / boundary / limit",
+  "notes": "Used for national borders, physical boundaries, and abstract limits.",
+  "sentences": [
+    {
+      "german": "Die Grenze zwischen Deutschland und Frankreich ist offen.",
+      "english": "The border between Germany and France is open.",
+      "purpose": "present"
+    },
+    {
+      "german": "Es gibt Grenzen, die man nicht überschreiten sollte.",
+      "english": "There are limits that one should not exceed.",
+      "purpose": "meaning"
+    }
+  ]
+}

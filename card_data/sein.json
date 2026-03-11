@@ -1,0 +1,28 @@
+{
+  "canonical": "sein",
+  "word_type": "verb",
+  "english": "to be / to have been (past participle of sein)",
+  "is_reflexive": false,
+  "also_non_reflexive": false,
+  "perfekt": "ist gewesen",
+  "praeteritum": "war",
+  "verb_case": "null",
+  "notes": "'gewesen' is the past participle of 'sein'. It is used to form the Perfekt and Plusquamperfekt. As an auxiliary verb, 'sein' takes 'ist' in the Perfekt (not 'hat').",
+  "sentences": [
+    {
+      "german": "Er ist gestern in Berlin gewesen.",
+      "english": "He was in Berlin yesterday.",
+      "purpose": "perfekt"
+    },
+    {
+      "german": "Sie war müde, weil sie die ganze Nacht wach gewesen war.",
+      "english": "She was tired because she had been awake all night.",
+      "purpose": "perfekt"
+    },
+    {
+      "german": "Das Wetter ist heute schön gewesen.",
+      "english": "The weather has been nice today.",
+      "purpose": "perfekt"
+    }
+  ]
+}

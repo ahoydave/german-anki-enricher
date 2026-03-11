@@ -1,0 +1,18 @@
+{
+  "canonical": "fleißig",
+  "word_type": "adjective",
+  "english": "hardworking / diligent / industrious",
+  "adjective_forms": "fleißig, fleißiger, am fleißigsten",
+  "sentences": [
+    {
+      "german": "Sie ist eine fleißige Schülerin und lernt jeden Tag.",
+      "english": "She is a hardworking student and studies every day.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Er hat fleißig für die Prüfung gelernt und eine gute Note bekommen.",
+      "english": "He studied diligently for the exam and got a good grade.",
+      "purpose": "meaning"
+    }
+  ]
+}

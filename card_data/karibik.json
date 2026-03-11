@@ -1,0 +1,20 @@
+{
+  "canonical": "Karibik",
+  "word_type": "noun",
+  "english": "the Caribbean",
+  "article": "die",
+  "plural": "—",
+  "notes": "Proper noun referring to the Caribbean region. Used almost exclusively with the definite article 'die'. No plural form.",
+  "sentences": [
+    {
+      "german": "Im Winter träume ich davon, in die Karibik zu reisen.",
+      "english": "In winter I dream of travelling to the Caribbean.",
+      "purpose": "present"
+    },
+    {
+      "german": "Die Karibik ist bekannt für ihre türkisblauen Strände und das warme Klima.",
+      "english": "The Caribbean is known for its turquoise beaches and warm climate.",
+      "purpose": "meaning"
+    }
+  ]
+}

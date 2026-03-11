@@ -1,0 +1,27 @@
+{
+  "canonical": "überwachen",
+  "word_type": "verb",
+  "english": "to monitor / to supervise / to surveil",
+  "is_reflexive": false,
+  "also_non_reflexive": false,
+  "perfekt": "hat überwacht",
+  "praeteritum": "überwachte",
+  "verb_case": "akkusativ",
+  "sentences": [
+    {
+      "german": "Die Polizei überwacht den Verdächtigen rund um die Uhr.",
+      "english": "The police monitor the suspect around the clock.",
+      "purpose": "present"
+    },
+    {
+      "german": "Die Kameras haben den gesamten Bereich überwacht.",
+      "english": "The cameras have monitored the entire area.",
+      "purpose": "perfekt"
+    },
+    {
+      "german": "Der Manager überwacht die Arbeit seiner Mitarbeiter sehr genau.",
+      "english": "The manager supervises his employees' work very closely.",
+      "purpose": "meaning"
+    }
+  ]
+}

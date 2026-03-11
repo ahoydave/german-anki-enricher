@@ -1,0 +1,31 @@
+{
+  "canonical": "reinigen",
+  "word_type": "verb",
+  "english": "to clean / to cleanse / to purify",
+  "is_reflexive": false,
+  "also_non_reflexive": false,
+  "perfekt": "hat gereinigt",
+  "praeteritum": "reinigte",
+  "verb_case": "akkusativ",
+  "prepositions": [
+    "reinigen von + dativ"
+  ],
+  "notes": "'gereinigt' is the past participle of 'reinigen'. It can also be used as an adjective meaning 'cleaned/cleansed'.",
+  "sentences": [
+    {
+      "german": "Sie reinigt das Badezimmer jeden Samstag.",
+      "english": "She cleans the bathroom every Saturday.",
+      "purpose": "present"
+    },
+    {
+      "german": "Er hat seinen Mantel in der Reinigung gereinigt.",
+      "english": "He had his coat cleaned at the dry cleaner's.",
+      "purpose": "perfekt"
+    },
+    {
+      "german": "Das Wasser wird von Schadstoffen gereinigt.",
+      "english": "The water is purified of pollutants.",
+      "purpose": "preposition"
+    }
+  ]
+}

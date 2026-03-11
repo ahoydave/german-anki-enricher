@@ -1,0 +1,25 @@
+{
+  "canonical": "Überzeugung",
+  "word_type": "noun",
+  "article": "die",
+  "plural": "Überzeugungen",
+  "english": "conviction / belief / persuasion",
+  "notes": "Derived from the verb 'überzeugen' (to convince). Can refer to a deeply held belief or the act of convincing someone.",
+  "sentences": [
+    {
+      "german": "Er handelt immer nach seiner Überzeugung.",
+      "english": "He always acts according to his convictions.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Sie hat die Überzeugung, dass Bildung der Schlüssel zum Erfolg ist.",
+      "english": "She holds the conviction that education is the key to success.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Die Überzeugungen der Menschen können sich im Laufe des Lebens verändern.",
+      "english": "People's beliefs can change over the course of a lifetime.",
+      "purpose": "present"
+    }
+  ]
+}

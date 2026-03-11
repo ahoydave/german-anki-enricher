@@ -1,0 +1,20 @@
+{
+  "canonical": "Ergebnis",
+  "word_type": "noun",
+  "article": "das",
+  "plural": "Ergebnisse",
+  "english": "result / outcome / score",
+  "notes": "Commonly used for test results, sports scores, and outcomes of processes or discussions.",
+  "sentences": [
+    {
+      "german": "Das Ergebnis der Prüfung war besser als erwartet.",
+      "english": "The result of the exam was better than expected.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Die Ergebnisse der Studie werden nächste Woche veröffentlicht.",
+      "english": "The results of the study will be published next week.",
+      "purpose": "meaning"
+    }
+  ]
+}

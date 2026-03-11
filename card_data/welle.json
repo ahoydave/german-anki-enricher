@@ -1,0 +1,20 @@
+{
+  "canonical": "Welle",
+  "word_type": "noun",
+  "article": "die",
+  "plural": "Wellen",
+  "english": "wave (water) / wave (physics, signal) / shaft (mechanical)",
+  "notes": "Used for waves in water, electromagnetic/sound waves, and also for rotating shafts in machinery.",
+  "sentences": [
+    {
+      "german": "Die Wellen am Strand waren heute sehr hoch.",
+      "english": "The waves at the beach were very high today.",
+      "purpose": "present"
+    },
+    {
+      "german": "Eine neue Welle der Begeisterung erfasste das Publikum.",
+      "english": "A new wave of enthusiasm swept through the audience.",
+      "purpose": "meaning"
+    }
+  ]
+}

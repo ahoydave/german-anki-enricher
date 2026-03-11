@@ -1,0 +1,28 @@
+{
+  "canonical": "nachlassen",
+  "word_type": "verb",
+  "english": "to decrease / to diminish / to ease up / to slacken / to let up",
+  "is_reflexive": false,
+  "also_non_reflexive": false,
+  "perfekt": "hat nachgelassen",
+  "praeteritum": "ließ nach",
+  "verb_case": "null",
+  "notes": "Separable verb (nach- + lassen). Used both intransitively (pain, wind, interest decreases) and transitively (to reduce a price, to slacken a rope). The intransitive meaning is by far the most common.",
+  "sentences": [
+    {
+      "german": "Der Regen lässt langsam nach.",
+      "english": "The rain is slowly letting up.",
+      "purpose": "present"
+    },
+    {
+      "german": "Die Schmerzen haben nach der Behandlung nachgelassen.",
+      "english": "The pain has eased after the treatment.",
+      "purpose": "perfekt"
+    },
+    {
+      "german": "Sein Interesse an dem Projekt lässt immer mehr nach.",
+      "english": "His interest in the project is decreasing more and more.",
+      "purpose": "meaning"
+    }
+  ]
+}

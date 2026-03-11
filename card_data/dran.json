@@ -1,0 +1,18 @@
+{
+  "canonical": "dran",
+  "word_type": "adverb",
+  "english": "one's turn / at it / involved / in a situation",
+  "notes": "Colloquial short form of 'daran'. Used in phrases like 'du bist dran' (it's your turn), 'früh dran sein' (to be early), 'schlecht dran sein' (to be in a bad situation). Very common in spoken German.",
+  "sentences": [
+    {
+      "german": "Du bist dran – würfel jetzt!",
+      "english": "It's your turn – roll the dice now!",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Wir sind früh dran, der Zug fährt erst in einer Stunde.",
+      "english": "We are early, the train doesn't leave for another hour.",
+      "purpose": "meaning"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "canonical": "Strafe",
+  "word_type": "noun",
+  "article": "die",
+  "plural": "Strafen",
+  "english": "punishment / penalty / fine",
+  "sentences": [
+    {
+      "german": "Die Strafe für das Vergehen war eine hohe Geldbuße.",
+      "english": "The punishment for the offence was a heavy fine.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Er musste eine Strafe von 200 Euro zahlen, weil er zu schnell gefahren war.",
+      "english": "He had to pay a fine of 200 euros because he had been driving too fast.",
+      "purpose": "meaning"
+    }
+  ]
+}

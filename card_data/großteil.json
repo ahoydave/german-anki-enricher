@@ -1,0 +1,20 @@
+{
+  "canonical": "Großteil",
+  "word_type": "noun",
+  "article": "der",
+  "plural": "Großteile",
+  "english": "majority / large part / bulk",
+  "notes": "Usually used in the phrase 'ein Großteil' or 'zum Großteil' (for the most part). Takes genitive after it: 'ein Großteil der Bevölkerung'.",
+  "sentences": [
+    {
+      "german": "Ein Großteil der Schüler hat die Prüfung bestanden.",
+      "english": "A large part of the students passed the exam.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Zum Großteil sind die Arbeiten bereits erledigt.",
+      "english": "For the most part, the tasks are already done.",
+      "purpose": "meaning"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "canonical": "heben",
+  "word_type": "verb",
+  "english": "to lift / to raise",
+  "is_reflexive": false,
+  "also_non_reflexive": false,
+  "perfekt": "hat gehoben",
+  "praeteritum": "hob",
+  "verb_case": "akkusativ",
+  "sentences": [
+    {
+      "german": "Er hebt die schwere Kiste vom Boden.",
+      "english": "He lifts the heavy box from the floor.",
+      "purpose": "present"
+    },
+    {
+      "german": "Die Feuerwehrleute haben das Auto aus dem Graben gehoben.",
+      "english": "The firefighters lifted the car out of the ditch.",
+      "purpose": "perfekt"
+    }
+  ]
+}

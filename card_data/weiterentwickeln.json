@@ -1,0 +1,24 @@
+{
+  "canonical": "weiterentwickeln",
+  "word_type": "verb",
+  "english": "to develop further / to advance / to evolve",
+  "is_reflexive": false,
+  "also_non_reflexive": false,
+  "perfekt": "hat weiterentwickelt",
+  "praeteritum": "entwickelte weiter",
+  "verb_case": "akkusativ",
+  "prepositions": [],
+  "notes": "Separable verb (weiter- + entwickeln). Can also be used reflexively (sich weiterentwickeln) meaning 'to develop oneself / to evolve', but the non-reflexive transitive use is equally common.",
+  "sentences": [
+    {
+      "german": "Das Unternehmen möchte seine Produkte weiterentwickeln.",
+      "english": "The company wants to develop its products further.",
+      "purpose": "present"
+    },
+    {
+      "german": "Die Technologie hat sich in den letzten Jahren stark weiterentwickelt.",
+      "english": "The technology has advanced significantly in recent years.",
+      "purpose": "perfekt"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "canonical": "Überlegung",
+  "word_type": "noun",
+  "english": "consideration / deliberation / reflection",
+  "article": "die",
+  "plural": "Überlegungen",
+  "notes": "Derived from the verb 'überlegen' (to consider/think over). Commonly used in phrases like 'nach reiflicher Überlegung' (after careful consideration).",
+  "sentences": [
+    {
+      "german": "Nach langer Überlegung hat sie sich für den neuen Job entschieden.",
+      "english": "After long deliberation, she decided to take the new job.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Wir müssen alle Überlegungen sorgfältig abwägen, bevor wir eine Entscheidung treffen.",
+      "english": "We need to carefully weigh all considerations before making a decision.",
+      "purpose": "meaning"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical": "häufig",
+  "word_type": "adjective",
+  "english": "frequent / common / often",
+  "adjective_forms": "häufig, häufiger, am häufigsten",
+  "sentences": [
+    {
+      "german": "Erkältungen sind im Winter sehr häufig.",
+      "english": "Colds are very common in winter.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Er macht häufig Fehler bei der Rechtschreibung.",
+      "english": "He frequently makes spelling mistakes.",
+      "purpose": "meaning"
+    }
+  ]
+}

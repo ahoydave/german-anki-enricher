@@ -1,0 +1,21 @@
+{
+  "canonical": "Sport treiben",
+  "word_type": "phrase",
+  "english": "to do sports / to exercise",
+  "perfekt": "hat Sport getrieben",
+  "praeteritum": "trieb Sport",
+  "verb_case": "akkusativ",
+  "notes": "Fixed phrase using 'treiben' with 'Sport'. The noun 'Sport' is the accusative object. Commonly used in everyday German to express engaging in physical activity.",
+  "sentences": [
+    {
+      "german": "Ich treibe dreimal pro Woche Sport.",
+      "english": "I do sports three times a week.",
+      "purpose": "present"
+    },
+    {
+      "german": "Sie hat ihr ganzes Leben lang regelmäßig Sport getrieben.",
+      "english": "She did sports regularly her whole life.",
+      "purpose": "perfekt"
+    }
+  ]
+}

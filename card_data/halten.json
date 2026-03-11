@@ -1,0 +1,52 @@
+{
+  "canonical": "halten",
+  "word_type": "verb",
+  "english": "to hold / to keep / to stop / to give (a speech)",
+  "is_reflexive": false,
+  "also_non_reflexive": false,
+  "perfekt": "hat gehalten",
+  "praeteritum": "hielt",
+  "verb_case": "akkusativ",
+  "prepositions": [
+    "halten für + akkusativ",
+    "halten von + dativ",
+    "halten an + dativ"
+  ],
+  "notes": "Strong verb with vowel change: halten → hält (present, 2nd/3rd person singular). 'gehalten' is the past participle. Very versatile verb: can mean to hold physically, to keep (animals), to stop (a vehicle), or to deliver (a speech).",
+  "sentences": [
+    {
+      "german": "Er hält die Tasse fest in der Hand.",
+      "english": "He holds the cup firmly in his hand.",
+      "purpose": "present"
+    },
+    {
+      "german": "Sie hat eine lange Rede gehalten.",
+      "english": "She gave a long speech.",
+      "purpose": "perfekt"
+    },
+    {
+      "german": "Ich halte ihn für einen ehrlichen Menschen.",
+      "english": "I consider him to be an honest person.",
+      "purpose": "preposition"
+    }
+  ],
+  "cloze_text": "Er {{c1::hält}} die Tasse fest in der Hand.\nSie hat eine lange Rede {{c2::gehalten}}.\nDer Bus {{c3::hielt}} an der Ecke an.\nIch {{c4::halte}} ihn {{c5::für}} einen guten Freund.",
+  "cloze_sentences": [
+    {
+      "text": "Er {{c1::hält}} die Tasse fest in der Hand.",
+      "hint": "holds (he, present)"
+    },
+    {
+      "text": "Sie hat eine lange Rede {{c1::gehalten}}.",
+      "hint": "given/held (Perfekt participle)"
+    },
+    {
+      "text": "Der Bus {{c1::hielt}} an der Ecke an.",
+      "hint": "stopped (Präteritum)"
+    },
+    {
+      "text": "Ich halte ihn {{c1::für}} einen guten Freund.",
+      "hint": "for (preposition used with halten to express opinion)"
+    }
+  ]
+}

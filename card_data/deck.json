@@ -1,0 +1,20 @@
+{
+  "canonical": "Deck",
+  "word_type": "noun",
+  "article": "das",
+  "plural": "Decks",
+  "english": "deck (of a ship) / deck (of a bus, building)",
+  "notes": "Refers to the deck of a ship, a double-decker bus, or a multi-story structure. Also used in card games (Kartendeck).",
+  "sentences": [
+    {
+      "german": "Die Passagiere standen auf dem Deck des Schiffes und schauten aufs Meer.",
+      "english": "The passengers stood on the deck of the ship and looked out at the sea.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Wir saßen auf dem oberen Deck des Busses.",
+      "english": "We sat on the upper deck of the bus.",
+      "purpose": "meaning"
+    }
+  ]
+}

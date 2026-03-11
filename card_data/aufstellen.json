@@ -1,0 +1,29 @@
+{
+  "canonical": "aufstellen",
+  "word_type": "verb",
+  "english": "to set up / to put up / to draw up / to establish / to nominate",
+  "is_reflexive": false,
+  "also_non_reflexive": false,
+  "perfekt": "hat aufgestellt",
+  "praeteritum": "stellte auf",
+  "verb_case": "akkusativ",
+  "prepositions": [],
+  "notes": "'aufgestellt' is the past participle of 'aufstellen'. The verb has multiple meanings: physically setting something up (e.g. a tent, a sign), drawing up a list or plan, and nominating a candidate.",
+  "sentences": [
+    {
+      "german": "Die Kinder stellen das Zelt im Garten auf.",
+      "english": "The children are setting up the tent in the garden.",
+      "purpose": "present"
+    },
+    {
+      "german": "Die Mannschaft hat eine neue Taktik aufgestellt.",
+      "english": "The team has drawn up a new tactic.",
+      "purpose": "perfekt"
+    },
+    {
+      "german": "Die Partei hat ihn als Kandidaten aufgestellt.",
+      "english": "The party nominated him as a candidate.",
+      "purpose": "meaning"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "canonical": "nachdenken über",
+  "word_type": "verb",
+  "english": "to think about / to reflect on / to ponder",
+  "is_reflexive": false,
+  "also_non_reflexive": false,
+  "perfekt": "hat nachgedacht",
+  "praeteritum": "dachte nach",
+  "verb_case": "akkusativ",
+  "prepositions": [
+    "nachdenken über + akkusativ"
+  ],
+  "notes": "Separable verb (nach|denken). Always used with 'über + Akkusativ' when an object is mentioned. The prefix 'nach-' is separated in main clauses.",
+  "sentences": [
+    {
+      "german": "Ich denke oft über meine Zukunft nach.",
+      "english": "I often think about my future.",
+      "purpose": "present"
+    },
+    {
+      "german": "Sie hat lange über das Problem nachgedacht.",
+      "english": "She thought about the problem for a long time.",
+      "purpose": "perfekt"
+    },
+    {
+      "german": "Er denkt gerade über den Vorschlag nach.",
+      "english": "He is currently thinking about the proposal.",
+      "purpose": "preposition"
+    }
+  ],
+  "cloze_text": "Sie {{c1::denkt}} oft über ihre Arbeit nach.\nEr hat lange über die Frage {{c2::nachgedacht}}.\nSie {{c3::dachte}} den ganzen Abend über das Problem nach.\nWir denken oft {{c4::über}} unsere Pläne nach.",
+  "cloze_sentences": [
+    {
+      "text": "Sie {{c1::denkt}} oft über ihre Arbeit nach.",
+      "hint": "thinks (she, present) — separable verb"
+    },
+    {
+      "text": "Er hat lange über die Frage {{c1::nachgedacht}}.",
+      "hint": "thought about (Perfekt participle)"
+    },
+    {
+      "text": "Ich {{c1::dachte}} den ganzen Abend über das Problem nach.",
+      "hint": "thought about (Präteritum, ich form)"
+    },
+    {
+      "text": "Wir denken oft {{c1::über}} unsere Pläne nach.",
+      "hint": "about (preposition used with nachdenken)"
+    }
+  ]
+}

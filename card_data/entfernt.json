@@ -1,0 +1,19 @@
+{
+  "canonical": "entfernt",
+  "word_type": "adjective",
+  "english": "distant / remote / far away",
+  "adjective_forms": "entfernt, entfernter, am entferntesten",
+  "notes": "'entfernt' is the past participle of 'entfernen' (to remove) used as an adjective meaning distant or remote. It can also describe a distant relationship, e.g. 'ein entfernter Verwandter' (a distant relative).",
+  "sentences": [
+    {
+      "german": "Das Dorf ist sehr entfernt von der nächsten Stadt.",
+      "english": "The village is very far from the nearest town.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Er ist nur ein entfernter Bekannter von mir.",
+      "english": "He is only a distant acquaintance of mine.",
+      "purpose": "meaning"
+    }
+  ]
+}

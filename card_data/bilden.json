@@ -1,0 +1,31 @@
+{
+  "canonical": "bilden",
+  "word_type": "verb",
+  "english": "to form / to educate / to constitute",
+  "is_reflexive": false,
+  "also_non_reflexive": false,
+  "perfekt": "hat gebildet",
+  "praeteritum": "bildete",
+  "verb_case": "akkusativ",
+  "prepositions": [
+    "sich bilden aus + dativ"
+  ],
+  "notes": "Can be used reflexively as 'sich bilden' meaning 'to educate oneself' or 'to form/develop'. Also used in 'sich eine Meinung bilden' (to form an opinion).",
+  "sentences": [
+    {
+      "german": "Die Schüler bilden eine Gruppe für das Projekt.",
+      "english": "The students form a group for the project.",
+      "purpose": "present"
+    },
+    {
+      "german": "Die Kinder haben in der Schule eine gute Meinung gebildet.",
+      "english": "The children formed a good opinion at school.",
+      "purpose": "perfekt"
+    },
+    {
+      "german": "Wasser bildet sich aus Wasserstoff und Sauerstoff.",
+      "english": "Water is formed from hydrogen and oxygen.",
+      "purpose": "preposition"
+    }
+  ]
+}

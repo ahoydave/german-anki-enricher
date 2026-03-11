@@ -1,0 +1,22 @@
+{
+  "canonical": "ruinieren",
+  "word_type": "verb",
+  "english": "to ruin / to destroy / to wreck",
+  "is_reflexive": false,
+  "also_non_reflexive": false,
+  "perfekt": "hat ruiniert",
+  "praeteritum": "ruinierte",
+  "verb_case": "akkusativ",
+  "sentences": [
+    {
+      "german": "Der Regen ruiniert meine neuen Schuhe.",
+      "english": "The rain is ruining my new shoes.",
+      "purpose": "present"
+    },
+    {
+      "german": "Der Skandal hat seine Karriere ruiniert.",
+      "english": "The scandal has ruined his career.",
+      "purpose": "perfekt"
+    }
+  ]
+}

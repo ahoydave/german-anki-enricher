@@ -1,0 +1,20 @@
+{
+  "canonical": "Verzierung",
+  "word_type": "noun",
+  "article": "die",
+  "plural": "Verzierungen",
+  "english": "decoration / ornament / embellishment",
+  "notes": "Derived from the verb 'verzieren' (to decorate). Often used in contexts of art, architecture, baking, and music (ornaments/trills).",
+  "sentences": [
+    {
+      "german": "Die Torte hat wunderschöne Verzierungen aus Zuckerguss.",
+      "english": "The cake has beautiful decorations made of icing.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Die Verzierungen an der alten Kirche sind sehr kunstvoll.",
+      "english": "The ornaments on the old church are very artistic.",
+      "purpose": "meaning"
+    }
+  ]
+}

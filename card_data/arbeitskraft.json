@@ -1,0 +1,20 @@
+{
+  "canonical": "Arbeitskraft",
+  "word_type": "noun",
+  "article": "die",
+  "plural": "Arbeitskräfte",
+  "english": "worker / employee / workforce / labour",
+  "notes": "Can refer to an individual worker or, in the plural, to the workforce as a whole.",
+  "sentences": [
+    {
+      "german": "Das Unternehmen sucht dringend neue Arbeitskräfte.",
+      "english": "The company urgently needs new workers.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Gut ausgebildete Arbeitskräfte sind für die Wirtschaft sehr wichtig.",
+      "english": "Well-trained workers are very important for the economy.",
+      "purpose": "meaning"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "canonical": "Gedankengang",
+  "word_type": "noun",
+  "article": "der",
+  "plural": "Gedankengänge",
+  "english": "train of thought / line of reasoning / thought process",
+  "notes": "Compound noun: Gedanken (thoughts) + Gang (course/walk). Refers to a sequence or chain of thoughts or reasoning.",
+  "sentences": [
+    {
+      "german": "Ich kann deinem Gedankengang gut folgen.",
+      "english": "I can easily follow your train of thought.",
+      "purpose": "present"
+    },
+    {
+      "german": "Der Philosoph erklärte seinen Gedankengang sehr klar.",
+      "english": "The philosopher explained his line of reasoning very clearly.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Ihre Gedankengänge waren schwer zu verstehen.",
+      "english": "Her trains of thought were difficult to understand.",
+      "purpose": "present"
+    }
+  ]
+}

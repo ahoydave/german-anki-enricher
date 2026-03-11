@@ -1,0 +1,23 @@
+{
+  "canonical": "entlanggehen",
+  "word_type": "verb",
+  "english": "to walk along / to go along",
+  "is_reflexive": false,
+  "also_non_reflexive": false,
+  "perfekt": "ist entlanggegangen",
+  "praeteritum": "ging entlang",
+  "verb_case": "akkusativ",
+  "notes": "Separable verb (entlang- prefix). 'entlang' can follow the noun in accusative (die Straße entlanggehen) or precede it with dative (entlang der Straße gehen). The input 'entlang gegangen' is the past participle written as two words; the correct spelling is 'entlanggegangen' (one word).",
+  "sentences": [
+    {
+      "german": "Wir gehen die Straße entlang zum Park.",
+      "english": "We walk along the street to the park.",
+      "purpose": "present"
+    },
+    {
+      "german": "Er ist den Fluss entlanggegangen und hat die Natur genossen.",
+      "english": "He walked along the river and enjoyed nature.",
+      "purpose": "perfekt"
+    }
+  ]
+}

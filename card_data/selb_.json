@@ -1,0 +1,19 @@
+{
+  "canonical": "selb-",
+  "word_type": "adjective",
+  "english": "same (the very same, identical)",
+  "adjective_forms": "selbe, selber, selbes (declined like definite article; no comparative/superlative)",
+  "notes": "Always used with a definite article or demonstrative pronoun; never used predicatively. It emphasizes identity/sameness. Closely related to 'derselbe/dieselbe/dasselbe' (written as one word). 'Selbe' alone is the inflected stem form, e.g. 'der selbe Mann' or more commonly 'derselbe Mann'.",
+  "sentences": [
+    {
+      "german": "Wir wohnen in derselben Straße.",
+      "english": "We live on the same street.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Er macht jeden Tag denselben Fehler.",
+      "english": "He makes the same mistake every day.",
+      "purpose": "meaning"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "canonical": "ermutigen",
+  "word_type": "verb",
+  "english": "to encourage / to motivate",
+  "is_reflexive": false,
+  "also_non_reflexive": false,
+  "perfekt": "hat ermutigt",
+  "praeteritum": "ermutigte",
+  "verb_case": "akkusativ",
+  "prepositions": [
+    "ermutigen zu + dativ"
+  ],
+  "notes": "Takes an accusative object (the person being encouraged) and often the preposition 'zu' with a dative noun or infinitive clause.",
+  "sentences": [
+    {
+      "german": "Die Lehrerin ermutigt ihre Schüler, mehr Fragen zu stellen.",
+      "english": "The teacher encourages her students to ask more questions.",
+      "purpose": "present"
+    },
+    {
+      "german": "Sein Lob hat mich sehr ermutigt.",
+      "english": "His praise encouraged me a lot.",
+      "purpose": "perfekt"
+    },
+    {
+      "german": "Der Trainer ermutigt die Spieler zu mehr Einsatz.",
+      "english": "The coach encourages the players to put in more effort.",
+      "purpose": "preposition"
+    }
+  ]
+}

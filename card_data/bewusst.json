@@ -1,0 +1,19 @@
+{
+  "canonical": "bewusst",
+  "word_type": "adjective",
+  "english": "conscious / aware / deliberate / intentional",
+  "adjective_forms": "bewusst, bewusster, am bewusstesten",
+  "notes": "Can function as a predicate adjective (sich bewusst sein + Genitiv = to be aware of something) or as an attributive adjective. Also used as an adverb meaning 'deliberately' or 'consciously'.",
+  "sentences": [
+    {
+      "german": "Er ist sich der Gefahr bewusst.",
+      "english": "He is aware of the danger.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Sie hat bewusst auf Zucker verzichtet.",
+      "english": "She deliberately avoided sugar.",
+      "purpose": "meaning"
+    }
+  ]
+}

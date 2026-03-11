@@ -1,0 +1,19 @@
+{
+  "canonical": "ehrlich",
+  "word_type": "adjective",
+  "english": "honest / sincere / frank",
+  "adjective_forms": "ehrlich, ehrlicher, am ehrlichsten",
+  "notes": "Can be used as both an adjective and an adverb. The phrase 'ehrlich gesagt' means 'honestly speaking / to be honest'.",
+  "sentences": [
+    {
+      "german": "Er ist immer ehrlich zu seinen Freunden.",
+      "english": "He is always honest with his friends.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Ehrlich gesagt, verstehe ich das Problem nicht.",
+      "english": "To be honest, I don't understand the problem.",
+      "purpose": "meaning"
+    }
+  ]
+}

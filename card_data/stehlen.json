@@ -1,0 +1,23 @@
+{
+  "canonical": "stehlen",
+  "word_type": "verb",
+  "english": "to steal",
+  "is_reflexive": false,
+  "also_non_reflexive": false,
+  "perfekt": "hat gestohlen",
+  "praeteritum": "stahl",
+  "verb_case": "akkusativ",
+  "notes": "Strong verb with vowel change: stehlen → stiehlt (present, 3rd person singular). Also used reflexively in the phrase 'sich stehlen' meaning to sneak away.",
+  "sentences": [
+    {
+      "german": "Jemand hat mein Fahrrad gestohlen.",
+      "english": "Someone stole my bicycle.",
+      "purpose": "perfekt"
+    },
+    {
+      "german": "Der Dieb stiehlt Geldbörsen auf dem Markt.",
+      "english": "The thief steals wallets at the market.",
+      "purpose": "present"
+    }
+  ]
+}

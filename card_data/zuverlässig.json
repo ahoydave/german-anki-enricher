@@ -1,0 +1,19 @@
+{
+  "canonical": "zuverlässig",
+  "word_type": "adjective",
+  "english": "reliable / dependable / trustworthy",
+  "adjective_forms": "zuverlässig, zuverlässiger, am zuverlässigsten",
+  "notes": "Commonly used to describe people, machines, or services that can be counted on.",
+  "sentences": [
+    {
+      "german": "Mein Kollege ist sehr zuverlässig und kommt immer pünktlich.",
+      "english": "My colleague is very reliable and always arrives on time.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Dieses Auto funktioniert zuverlässig, auch bei schlechtem Wetter.",
+      "english": "This car works reliably, even in bad weather.",
+      "purpose": "meaning"
+    }
+  ]
+}

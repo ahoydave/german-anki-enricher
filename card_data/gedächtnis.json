@@ -1,0 +1,20 @@
+{
+  "canonical": "Gedächtnis",
+  "word_type": "noun",
+  "article": "das",
+  "plural": "Gedächtnisse",
+  "english": "memory / remembrance",
+  "notes": "Refers to the faculty of memory or the act of remembrance. 'Zum Gedächtnis' means 'in memory of'.",
+  "sentences": [
+    {
+      "german": "Er hat ein sehr gutes Gedächtnis für Namen.",
+      "english": "He has a very good memory for names.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Die Feier fand zum Gedächtnis der Opfer statt.",
+      "english": "The ceremony took place in memory of the victims.",
+      "purpose": "meaning"
+    }
+  ]
+}

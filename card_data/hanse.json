@@ -1,0 +1,20 @@
+{
+  "canonical": "Hanse",
+  "word_type": "noun",
+  "article": "die",
+  "plural": "—",
+  "english": "Hanseatic League (medieval trading alliance of Northern European cities)",
+  "notes": "Proper noun referring to the medieval merchant confederation (c. 13th–17th century) centered in Northern Germany and the Baltic region. Used without plural. Often also called 'Hansebund' or 'Hanseatic League' in English.",
+  "sentences": [
+    {
+      "german": "Die Hanse war ein mächtiger Zusammenschluss von Handelsstädten im Mittelalter.",
+      "english": "The Hanseatic League was a powerful alliance of trading cities in the Middle Ages.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Lübeck galt lange Zeit als die führende Stadt der Hanse.",
+      "english": "Lübeck was long considered the leading city of the Hanseatic League.",
+      "purpose": "meaning"
+    }
+  ]
+}

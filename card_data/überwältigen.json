@@ -1,0 +1,22 @@
+{
+  "canonical": "überwältigen",
+  "word_type": "verb",
+  "english": "to overwhelm / to overpower",
+  "is_reflexive": false,
+  "also_non_reflexive": false,
+  "perfekt": "hat überwältigt",
+  "praeteritum": "überwältigte",
+  "verb_case": "akkusativ",
+  "sentences": [
+    {
+      "german": "Die Schönheit der Landschaft überwältigt mich jedes Mal.",
+      "english": "The beauty of the landscape overwhelms me every time.",
+      "purpose": "present"
+    },
+    {
+      "german": "Die Polizei hat den Täter schnell überwältigt.",
+      "english": "The police quickly overpowered the perpetrator.",
+      "purpose": "perfekt"
+    }
+  ]
+}

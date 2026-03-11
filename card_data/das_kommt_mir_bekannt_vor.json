@@ -1,0 +1,13 @@
+{
+  "canonical": "das kommt mir bekannt vor",
+  "word_type": "phrase",
+  "english": "that seems familiar to me / I've seen/heard that before",
+  "notes": "Fixed phrase using the verb 'vorkommen' (to seem, to appear). The dative pronoun changes depending on the subject (e.g. 'das kommt dir bekannt vor', 'das kommt ihm bekannt vor'). 'Vorkommen' is a separable verb: prefix 'vor-' splits off in main clauses.",
+  "sentences": [
+    {
+      "german": "Das kommt mir bekannt vor – habe ich dich schon mal getroffen?",
+      "english": "That seems familiar to me – have I met you before?",
+      "purpose": "meaning"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "canonical": "atmen",
+  "word_type": "verb",
+  "english": "to breathe",
+  "is_reflexive": false,
+  "also_non_reflexive": false,
+  "perfekt": "hat geatmet",
+  "praeteritum": "atmete",
+  "verb_case": "null",
+  "sentences": [
+    {
+      "german": "Der Patient atmet ruhig und gleichmäßig.",
+      "english": "The patient is breathing calmly and evenly.",
+      "purpose": "present"
+    },
+    {
+      "german": "Nach dem Rennen hat er tief geatmet.",
+      "english": "After the race, he breathed deeply.",
+      "purpose": "perfekt"
+    }
+  ]
+}

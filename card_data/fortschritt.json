@@ -1,0 +1,20 @@
+{
+  "canonical": "Fortschritt",
+  "word_type": "noun",
+  "article": "der",
+  "plural": "Fortschritte",
+  "english": "progress / advance",
+  "notes": "Often used in the plural 'Fortschritte machen' (to make progress).",
+  "sentences": [
+    {
+      "german": "Der technische Fortschritt verändert unser Leben.",
+      "english": "Technological progress is changing our lives.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Sie hat große Fortschritte beim Deutschlernen gemacht.",
+      "english": "She has made great progress in learning German.",
+      "purpose": "present"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "canonical": "Gelegenheit",
+  "word_type": "noun",
+  "article": "die",
+  "plural": "Gelegenheiten",
+  "english": "opportunity / occasion / chance",
+  "notes": "Common phrase: 'bei Gelegenheit' (at some point, when the opportunity arises); 'Gelegenheit macht Diebe' (opportunity makes a thief – proverb)",
+  "sentences": [
+    {
+      "german": "Ich hatte keine Gelegenheit, ihn anzurufen.",
+      "english": "I had no opportunity to call him.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Bei dieser Gelegenheit möchte ich mich bei allen bedanken.",
+      "english": "On this occasion, I would like to thank everyone.",
+      "purpose": "meaning"
+    }
+  ]
+}

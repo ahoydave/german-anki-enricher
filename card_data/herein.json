@@ -1,0 +1,18 @@
+{
+  "canonical": "herein",
+  "word_type": "adverb",
+  "english": "come in / in here (direction from outside to inside)",
+  "notes": "Used to indicate movement from outside to inside, often as an interjection meaning 'come in!' when someone knocks. Commonly used as a prefix in separable verbs like 'hereinkommen', 'hereinlassen', 'hereintreten'.",
+  "sentences": [
+    {
+      "german": "Herein!",
+      "english": "Come in!",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Er kam herein und setzte sich ans Fenster.",
+      "english": "He came in and sat down by the window.",
+      "purpose": "present"
+    }
+  ]
+}

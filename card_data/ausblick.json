@@ -1,0 +1,20 @@
+{
+  "canonical": "Ausblick",
+  "word_type": "noun",
+  "article": "der",
+  "plural": "Ausblicke",
+  "english": "view / outlook / prospect",
+  "notes": "Can refer to a physical view (e.g. from a window or mountain) or a figurative outlook/prospect for the future.",
+  "sentences": [
+    {
+      "german": "Von unserem Hotelzimmer haben wir einen wunderschönen Ausblick auf das Meer.",
+      "english": "From our hotel room, we have a beautiful view of the sea.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Die Ausblicke für die Wirtschaft sind im nächsten Jahr positiv.",
+      "english": "The prospects for the economy are positive next year.",
+      "purpose": "meaning"
+    }
+  ]
+}

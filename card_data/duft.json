@@ -1,0 +1,20 @@
+{
+  "canonical": "Duft",
+  "word_type": "noun",
+  "article": "der",
+  "plural": "Düfte",
+  "english": "scent / fragrance / aroma",
+  "notes": "Refers to a pleasant smell, often of flowers, perfume, or food.",
+  "sentences": [
+    {
+      "german": "Der Duft der Rosen füllt den ganzen Garten.",
+      "english": "The scent of the roses fills the entire garden.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Ich liebe den Duft von frisch gebackenem Brot.",
+      "english": "I love the aroma of freshly baked bread.",
+      "purpose": "meaning"
+    }
+  ]
+}

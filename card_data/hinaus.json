@@ -1,0 +1,18 @@
+{
+  "canonical": "hinaus",
+  "word_type": "adverb",
+  "english": "out / outside / beyond",
+  "notes": "Directional adverb indicating movement outward or beyond a boundary. Often used as a separable prefix in verbs like 'hinausgehen', 'hinauswerfen'. Also used in phrases like 'über etwas hinaus' (beyond something).",
+  "sentences": [
+    {
+      "german": "Er ging hinaus in den Garten.",
+      "english": "He went outside into the garden.",
+      "purpose": "present"
+    },
+    {
+      "german": "Über diesen Preis hinaus kann ich nichts anbieten.",
+      "english": "Beyond this price, I cannot offer anything.",
+      "purpose": "meaning"
+    }
+  ]
+}

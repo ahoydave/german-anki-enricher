@@ -1,0 +1,25 @@
+{
+  "canonical": "Vorhaben",
+  "word_type": "noun",
+  "english": "plan / project / intention",
+  "article": "das",
+  "plural": "Vorhaben",
+  "notes": "The plural form is identical to the singular. It is a nominalized infinitive from 'vorhaben' (to plan/intend).",
+  "sentences": [
+    {
+      "german": "Was ist dein Vorhaben für das nächste Jahr?",
+      "english": "What is your plan for next year?",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Das Vorhaben, eine neue Schule zu bauen, wurde genehmigt.",
+      "english": "The project to build a new school was approved.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Sie hat alle ihre Vorhaben erfolgreich umgesetzt.",
+      "english": "She successfully implemented all her plans.",
+      "purpose": "present"
+    }
+  ]
+}

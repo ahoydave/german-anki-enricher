@@ -1,0 +1,18 @@
+{
+  "canonical": "geduldig",
+  "word_type": "adjective",
+  "english": "patient / tolerant",
+  "adjective_forms": "geduldig, geduldiger, am geduldigsten",
+  "sentences": [
+    {
+      "german": "Die Lehrerin ist sehr geduldig mit ihren Schülern.",
+      "english": "The teacher is very patient with her students.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Er hat geduldig auf seinen Freund gewartet.",
+      "english": "He waited patiently for his friend.",
+      "purpose": "meaning"
+    }
+  ]
+}

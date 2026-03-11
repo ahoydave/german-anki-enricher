@@ -1,0 +1,20 @@
+{
+  "canonical": "Würfel",
+  "word_type": "noun",
+  "article": "der",
+  "plural": "Würfel",
+  "english": "dice / cube",
+  "notes": "Can refer to a gaming die or a geometric cube shape. Also used in cooking for diced pieces (e.g. Zuckerwürfel = sugar cube).",
+  "sentences": [
+    {
+      "german": "Er wirft den Würfel und hofft auf eine Sechs.",
+      "english": "He throws the dice and hopes for a six.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Ein Würfel hat sechs gleich große Flächen.",
+      "english": "A cube has six equally sized faces.",
+      "purpose": "meaning"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "canonical": "Atemzug",
+  "word_type": "noun",
+  "article": "der",
+  "plural": "Atemzüge",
+  "english": "breath / single breath",
+  "notes": "Refers to a single act of breathing. Common in the phrase 'in einem Atemzug' meaning 'in the same breath' or 'in one go'.",
+  "sentences": [
+    {
+      "german": "Er nahm einen tiefen Atemzug, bevor er zu sprechen begann.",
+      "english": "He took a deep breath before he began to speak.",
+      "purpose": "present"
+    },
+    {
+      "german": "Sie nannte seine beiden Fehler in einem Atemzug.",
+      "english": "She mentioned his two mistakes in the same breath.",
+      "purpose": "meaning"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "canonical": "scheinen",
+  "word_type": "verb",
+  "english": "to seem / to appear / to shine (of the sun or light)",
+  "is_reflexive": false,
+  "also_non_reflexive": false,
+  "perfekt": "hat geschienen",
+  "praeteritum": "schien",
+  "verb_case": "null",
+  "notes": "Has two distinct meanings: (1) to seem/appear (used with adjective or infinitive clause), (2) to shine (used for the sun, moon, or light). Both are common.",
+  "sentences": [
+    {
+      "german": "Er scheint sehr müde zu sein.",
+      "english": "He seems to be very tired.",
+      "purpose": "present"
+    },
+    {
+      "german": "Die Sonne hat den ganzen Tag geschienen.",
+      "english": "The sun shone all day.",
+      "purpose": "perfekt"
+    },
+    {
+      "german": "Das Problem scheint gelöst zu sein.",
+      "english": "The problem appears to be solved.",
+      "purpose": "meaning"
+    }
+  ],
+  "cloze_text": "Er {{c1::scheint}} sehr müde zu sein.\nDie Sonne hat den ganzen Tag {{c2::geschienen}}.\nGestern {{c3::schien}} die Sonne den ganzen Tag.",
+  "cloze_sentences": [
+    {
+      "text": "Er {{c1::scheint}} sehr müde zu sein.",
+      "hint": "seems/appears (he, present)"
+    },
+    {
+      "text": "Die Sonne hat den ganzen Tag {{c1::geschienen}}.",
+      "hint": "shone (Perfekt participle)"
+    },
+    {
+      "text": "Gestern {{c1::schien}} die Sonne den ganzen Tag.",
+      "hint": "shone (Präteritum)"
+    },
+    {
+      "text": "Das Projekt {{c1::scheint}} ein Erfolg zu sein.",
+      "hint": "seems/appears (it, present)"
+    }
+  ]
+}

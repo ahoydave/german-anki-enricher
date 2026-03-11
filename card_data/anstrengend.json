@@ -1,0 +1,18 @@
+{
+  "canonical": "anstrengend",
+  "word_type": "adjective",
+  "english": "exhausting / tiring / strenuous",
+  "adjective_forms": "anstrengend, anstrengender, am anstrengendsten",
+  "sentences": [
+    {
+      "german": "Der lange Arbeitstag war sehr anstrengend.",
+      "english": "The long workday was very exhausting.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Sport kann anstrengend sein, aber er ist gut für die Gesundheit.",
+      "english": "Exercise can be strenuous, but it is good for your health.",
+      "purpose": "meaning"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical": "risikoreich",
+  "word_type": "adjective",
+  "english": "risky / high-risk",
+  "adjective_forms": "risikoreich, risikoreicher, am risikoreichsten",
+  "sentences": [
+    {
+      "german": "Das Projekt ist sehr risikoreich, aber die möglichen Gewinne sind hoch.",
+      "english": "The project is very risky, but the potential profits are high.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Er vermeidet risikoreiche Investitionen und spart lieber sein Geld.",
+      "english": "He avoids high-risk investments and prefers to save his money.",
+      "purpose": "meaning"
+    }
+  ]
+}

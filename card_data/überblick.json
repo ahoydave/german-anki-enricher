@@ -1,0 +1,20 @@
+{
+  "canonical": "Überblick",
+  "word_type": "noun",
+  "article": "der",
+  "plural": "Überblicke",
+  "english": "overview / survey / bird's-eye view",
+  "notes": "Often used in the phrase 'einen Überblick geben/haben/bekommen' (to give/have/get an overview).",
+  "sentences": [
+    {
+      "german": "Der Lehrer gab uns einen kurzen Überblick über das Thema.",
+      "english": "The teacher gave us a brief overview of the topic.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Von hier oben hat man einen guten Überblick über die ganze Stadt.",
+      "english": "From up here, you have a good bird's-eye view of the whole city.",
+      "purpose": "meaning"
+    }
+  ]
+}

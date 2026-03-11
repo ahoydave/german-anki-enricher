@@ -1,0 +1,20 @@
+{
+  "canonical": "Gentest",
+  "word_type": "noun",
+  "article": "der",
+  "plural": "Gentests",
+  "english": "genetic test / DNA test",
+  "notes": "Compound noun from 'Gen' (gene) + 'Test' (test). Used in medical and forensic contexts.",
+  "sentences": [
+    {
+      "german": "Der Arzt empfahl einen Gentest, um das Risiko für Erbkrankheiten zu bestimmen.",
+      "english": "The doctor recommended a genetic test to determine the risk of hereditary diseases.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Die Ergebnisse des Gentests lagen nach zwei Wochen vor.",
+      "english": "The results of the genetic test were available after two weeks.",
+      "purpose": "meaning"
+    }
+  ]
+}

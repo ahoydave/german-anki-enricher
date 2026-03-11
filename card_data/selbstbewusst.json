@@ -1,0 +1,19 @@
+{
+  "canonical": "selbstbewusst",
+  "word_type": "adjective",
+  "english": "self-confident / self-assured",
+  "adjective_forms": "selbstbewusst, selbstbewusster, am selbstbewusstesten",
+  "notes": "Can also carry a philosophical meaning of 'self-aware' (conscious of oneself), but in everyday use it primarily means confident.",
+  "sentences": [
+    {
+      "german": "Sie tritt sehr selbstbewusst auf und überzeugt alle im Raum.",
+      "english": "She presents herself very confidently and convinces everyone in the room.",
+      "purpose": "present"
+    },
+    {
+      "german": "Nach dem Kurs war er viel selbstbewusster als vorher.",
+      "english": "After the course, he was much more self-confident than before.",
+      "purpose": "meaning"
+    }
+  ]
+}

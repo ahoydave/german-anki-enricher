@@ -1,0 +1,19 @@
+{
+  "canonical": "bestimmt",
+  "word_type": "adverb",
+  "english": "certainly / definitely / surely",
+  "adjective_forms": "bestimmt, bestimmter, am bestimmtesten",
+  "notes": "Can function as both an adverb (certainly, definitely) and an adjective (certain, specific, determined). As an adjective it is the past participle of 'bestimmen' (to determine/decide). Common adverbial use expresses certainty or strong expectation.",
+  "sentences": [
+    {
+      "german": "Er kommt bestimmt morgen.",
+      "english": "He will definitely come tomorrow.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Ich suche ein bestimmtes Buch.",
+      "english": "I am looking for a specific book.",
+      "purpose": "meaning"
+    }
+  ]
+}

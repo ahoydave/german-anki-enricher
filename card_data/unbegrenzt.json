@@ -1,0 +1,18 @@
+{
+  "canonical": "unbegrenzt",
+  "word_type": "adjective",
+  "english": "unlimited / boundless / infinite",
+  "adjective_forms": "unbegrenzt, unbegrenzter, am unbegrenztesten",
+  "sentences": [
+    {
+      "german": "Das Internet bietet unbegrenzte Möglichkeiten.",
+      "english": "The internet offers unlimited possibilities.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Der Vertrag gilt für eine unbegrenzte Zeit.",
+      "english": "The contract is valid for an unlimited period of time.",
+      "purpose": "meaning"
+    }
+  ]
+}

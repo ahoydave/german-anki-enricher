@@ -1,0 +1,29 @@
+{
+  "canonical": "stark",
+  "word_type": "adjective",
+  "english": "strong / powerful / intense / severe",
+  "adjective_forms": "stark, stärker, am stärksten",
+  "sentences": [
+    {
+      "german": "Er ist sehr stark und kann schwere Kisten tragen.",
+      "english": "He is very strong and can carry heavy boxes.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Der Kaffee ist heute besonders stark.",
+      "english": "The coffee is especially strong today.",
+      "purpose": "meaning"
+    }
+  ],
+  "cloze_text": "Er ist sehr {{c1::stark}} und kann schwere Kisten tragen.\nDer Kaffee ist heute besonders {{c2::stark}}.",
+  "cloze_sentences": [
+    {
+      "text": "Er ist sehr {{c1::stark}} und kann schwere Kisten tragen.",
+      "hint": "strong (predicative adjective)"
+    },
+    {
+      "text": "Der Wind war gestern besonders {{c1::stark}}.",
+      "hint": "strong / intense (predicative adjective)"
+    }
+  ]
+}

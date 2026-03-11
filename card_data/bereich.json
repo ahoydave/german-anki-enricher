@@ -1,0 +1,20 @@
+{
+  "canonical": "Bereich",
+  "word_type": "noun",
+  "article": "der",
+  "plural": "Bereiche",
+  "english": "area / region / field / domain / sector",
+  "notes": "Can refer to a physical area/zone or an abstract field/domain (e.g. a field of study or work).",
+  "sentences": [
+    {
+      "german": "Dieser Bereich des Parks ist für Kinder reserviert.",
+      "english": "This area of the park is reserved for children.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Sie arbeitet im Bereich der Medizin.",
+      "english": "She works in the field of medicine.",
+      "purpose": "meaning"
+    }
+  ]
+}

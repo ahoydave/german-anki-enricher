@@ -1,0 +1,20 @@
+{
+  "canonical": "Vorschlag",
+  "word_type": "noun",
+  "article": "der",
+  "plural": "Vorschläge",
+  "english": "suggestion / proposal",
+  "notes": "Formed from 'vor-' (forward/ahead) + 'Schlag' (strike/blow), originally meaning a first move or initiative.",
+  "sentences": [
+    {
+      "german": "Ich habe einen Vorschlag: Lass uns ins Kino gehen.",
+      "english": "I have a suggestion: let's go to the cinema.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Die Vorschläge der Mitarbeiter wurden in der Sitzung besprochen.",
+      "english": "The employees' proposals were discussed in the meeting.",
+      "purpose": "meaning"
+    }
+  ]
+}

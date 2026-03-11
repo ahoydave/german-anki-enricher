@@ -1,0 +1,51 @@
+{
+  "canonical": "drehen",
+  "word_type": "verb",
+  "english": "to turn / to rotate / to shoot (a film)",
+  "is_reflexive": false,
+  "also_non_reflexive": false,
+  "perfekt": "hat gedreht",
+  "praeteritum": "drehte",
+  "verb_case": "akkusativ",
+  "prepositions": [
+    "drehen an + dativ",
+    "drehen um + akkusativ"
+  ],
+  "notes": "'gedreht' is the past participle of 'drehen'. The verb can also be used reflexively (sich drehen = to spin/rotate oneself), but the base form is non-reflexive.",
+  "sentences": [
+    {
+      "german": "Er dreht den Schlüssel im Schloss.",
+      "english": "He turns the key in the lock.",
+      "purpose": "present"
+    },
+    {
+      "german": "Der Regisseur hat den Film in Berlin gedreht.",
+      "english": "The director shot the film in Berlin.",
+      "purpose": "perfekt"
+    },
+    {
+      "german": "Sie dreht an dem Knopf, um die Lautstärke zu ändern.",
+      "english": "She turns the knob to change the volume.",
+      "purpose": "preposition"
+    }
+  ],
+  "cloze_text": "Er {{c1::dreht}} den Schlüssel im Schloss.\nDer Regisseur hat den Film in Berlin {{c2::gedreht}}.\nSie {{c3::drehte}} das Rad langsam nach links.\nEr dreht {{c4::an}} dem Knopf, um die Lautstärke zu ändern.",
+  "cloze_sentences": [
+    {
+      "text": "Er {{c1::dreht}} den Schlüssel langsam nach rechts.",
+      "hint": "turns (he, present)"
+    },
+    {
+      "text": "Der Regisseur hat den Film in Berlin {{c1::gedreht}}.",
+      "hint": "shot/turned (Perfekt participle)"
+    },
+    {
+      "text": "Sie {{c1::drehte}} das Rad langsam nach links.",
+      "hint": "turned (Präteritum)"
+    },
+    {
+      "text": "Er dreht {{c1::an}} dem Knopf, um die Lautstärke zu ändern.",
+      "hint": "on/an (preposition used with drehen)"
+    }
+  ]
+}

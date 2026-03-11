@@ -1,0 +1,18 @@
+{
+  "canonical": "staubig",
+  "word_type": "adjective",
+  "english": "dusty",
+  "adjective_forms": "staubig, staubiger, am staubigsten",
+  "sentences": [
+    {
+      "german": "Die alten Bücher im Keller sind sehr staubig.",
+      "english": "The old books in the basement are very dusty.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Nach dem langen Weg durch die Wüste war sein Mantel staubig und schmutzig.",
+      "english": "After the long journey through the desert, his coat was dusty and dirty.",
+      "purpose": "meaning"
+    }
+  ]
+}

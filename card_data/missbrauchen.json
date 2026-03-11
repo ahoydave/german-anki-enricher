@@ -1,0 +1,27 @@
+{
+  "canonical": "missbrauchen",
+  "word_type": "verb",
+  "english": "to abuse / to misuse / to exploit",
+  "is_reflexive": false,
+  "also_non_reflexive": false,
+  "perfekt": "hat missbraucht",
+  "praeteritum": "missbrauchte",
+  "verb_case": "akkusativ",
+  "sentences": [
+    {
+      "german": "Er missbraucht seine Macht, um andere zu kontrollieren.",
+      "english": "He abuses his power to control others.",
+      "purpose": "present"
+    },
+    {
+      "german": "Sie hat das Vertrauen ihrer Freundin missbraucht.",
+      "english": "She abused her friend's trust.",
+      "purpose": "perfekt"
+    },
+    {
+      "german": "Manche Menschen missbrauchen das System, um Vorteile zu bekommen.",
+      "english": "Some people misuse the system to gain advantages.",
+      "purpose": "meaning"
+    }
+  ]
+}

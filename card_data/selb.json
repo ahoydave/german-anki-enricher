@@ -1,0 +1,19 @@
+{
+  "canonical": "selb",
+  "word_type": "adjective",
+  "english": "same (used in declined forms like 'derselbe', 'dieselbe', 'dasselbe')",
+  "adjective_forms": "selb- (only used in compound forms: derselbe, dieselbe, dasselbe, etc.)",
+  "notes": "'selbe' is a declined form of 'selb-', which only appears as part of compound pronouns/determiners: derselbe, dieselbe, dasselbe, denselben, etc. It means 'the same' and is not used independently. Not to be confused with 'gleich' (identical but separate objects) — 'derselbe' refers to the exact same object.",
+  "sentences": [
+    {
+      "german": "Wir gehen jeden Tag in dasselbe Café.",
+      "english": "We go to the same café every day.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Er trägt immer dieselbe Jacke.",
+      "english": "He always wears the same jacket.",
+      "purpose": "meaning"
+    }
+  ]
+}

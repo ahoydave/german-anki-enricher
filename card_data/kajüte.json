@@ -1,0 +1,20 @@
+{
+  "canonical": "Kajüte",
+  "word_type": "noun",
+  "article": "die",
+  "plural": "Kajüten",
+  "english": "cabin (on a ship)",
+  "notes": "Refers to a small room or sleeping quarters on a boat or ship.",
+  "sentences": [
+    {
+      "german": "Die Kajüte auf dem Segelboot ist sehr klein, aber gemütlich.",
+      "english": "The cabin on the sailing boat is very small but cozy.",
+      "purpose": "present"
+    },
+    {
+      "german": "Wir haben unsere Koffer in der Kajüte verstaut und sind dann an Deck gegangen.",
+      "english": "We stowed our suitcases in the cabin and then went up on deck.",
+      "purpose": "present"
+    }
+  ]
+}

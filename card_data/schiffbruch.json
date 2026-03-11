@@ -1,0 +1,20 @@
+{
+  "canonical": "Schiffbruch",
+  "word_type": "noun",
+  "article": "der",
+  "plural": "Schiffbrüche",
+  "english": "shipwreck / (figurative) failure, disaster",
+  "notes": "Used both literally for a ship sinking and figuratively in the phrase 'Schiffbruch erleiden' (to fail, to come to grief).",
+  "sentences": [
+    {
+      "german": "Das Schiff erlitt Schiffbruch und sank innerhalb weniger Stunden.",
+      "english": "The ship was wrecked and sank within a few hours.",
+      "purpose": "present"
+    },
+    {
+      "german": "Seine Pläne erlitten Schiffbruch, weil er zu wenig Geld hatte.",
+      "english": "His plans came to grief because he had too little money.",
+      "purpose": "meaning"
+    }
+  ]
+}

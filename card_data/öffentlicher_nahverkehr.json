@@ -1,0 +1,14 @@
+{
+  "canonical": "öffentlicher Nahverkehr",
+  "word_type": "phrase",
+  "english": "public transport / local public transportation",
+  "article": "der",
+  "notes": "Fixed phrase; 'Nahverkehr' is masculine. Often abbreviated as ÖPNV (öffentlicher Personennahverkehr). Refers to buses, trams, subways, and local trains within a city or region.",
+  "sentences": [
+    {
+      "german": "Der öffentliche Nahverkehr in Berlin ist sehr gut ausgebaut.",
+      "english": "Public transport in Berlin is very well developed.",
+      "purpose": "present"
+    }
+  ]
+}

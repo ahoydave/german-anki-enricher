@@ -1,0 +1,13 @@
+{
+  "canonical": "während",
+  "word_type": "conjunction",
+  "english": "while / whereas / during",
+  "notes": "Can function as both a subordinating conjunction (while/whereas) and a preposition governing the genitive case (during). As a conjunction it introduces a subordinate clause with the verb at the end.",
+  "sentences": [
+    {
+      "german": "Während ich koche, hört sie Musik.",
+      "english": "While I cook, she listens to music.",
+      "purpose": "meaning"
+    }
+  ]
+}

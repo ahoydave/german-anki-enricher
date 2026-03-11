@@ -1,0 +1,20 @@
+{
+  "canonical": "Lieferung",
+  "word_type": "noun",
+  "article": "die",
+  "plural": "Lieferungen",
+  "english": "delivery / shipment / supply",
+  "notes": "Refers to the act of delivering goods or the goods themselves being delivered.",
+  "sentences": [
+    {
+      "german": "Die Lieferung kommt morgen an.",
+      "english": "The delivery arrives tomorrow.",
+      "purpose": "present"
+    },
+    {
+      "german": "Wir haben drei Lieferungen pro Woche erwartet.",
+      "english": "We expected three deliveries per week.",
+      "purpose": "meaning"
+    }
+  ]
+}

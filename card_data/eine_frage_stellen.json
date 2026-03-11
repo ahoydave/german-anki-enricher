@@ -1,0 +1,13 @@
+{
+  "canonical": "eine Frage stellen",
+  "word_type": "phrase",
+  "english": "to ask a question",
+  "notes": "Fixed phrase using 'stellen' (not 'fragen'). The noun 'Frage' takes the indefinite article 'eine' in the base form. Can also be used as 'eine Frage an jemanden stellen' (to ask someone a question).",
+  "sentences": [
+    {
+      "german": "Darf ich Ihnen eine Frage stellen?",
+      "english": "May I ask you a question?",
+      "purpose": "present"
+    }
+  ]
+}

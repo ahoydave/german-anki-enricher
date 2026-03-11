@@ -1,0 +1,25 @@
+{
+  "canonical": "Verwaltung",
+  "word_type": "noun",
+  "article": "die",
+  "plural": "Verwaltungen",
+  "english": "administration / management / governance",
+  "notes": "Derived from the verb 'verwalten' (to administer/manage). Can refer to a government body, an administrative department, or the act of managing something.",
+  "sentences": [
+    {
+      "german": "Die Verwaltung der Stadt hat neue Regeln eingeführt.",
+      "english": "The city administration has introduced new rules.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Er arbeitet seit zehn Jahren in der öffentlichen Verwaltung.",
+      "english": "He has been working in public administration for ten years.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Die Verwaltung des Gebäudes liegt in den Händen einer privaten Firma.",
+      "english": "The management of the building is in the hands of a private company.",
+      "purpose": "meaning"
+    }
+  ]
+}

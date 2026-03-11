@@ -1,0 +1,28 @@
+{
+  "canonical": "dauern",
+  "word_type": "verb",
+  "english": "to last / to take (time)",
+  "is_reflexive": false,
+  "also_non_reflexive": false,
+  "perfekt": "hat gedauert",
+  "praeteritum": "dauerte",
+  "verb_case": "null",
+  "notes": "Impersonal verb typically used with 'es' or a time expression as subject. Also used in the older/regional sense of 'to feel sorry for someone' (jemanden dauert es), but the primary modern meaning is duration.",
+  "sentences": [
+    {
+      "german": "Die Fahrt dauert ungefähr zwei Stunden.",
+      "english": "The journey takes about two hours.",
+      "purpose": "present"
+    },
+    {
+      "german": "Das Konzert hat drei Stunden gedauert.",
+      "english": "The concert lasted three hours.",
+      "purpose": "perfekt"
+    },
+    {
+      "german": "Wie lange dauert es noch?",
+      "english": "How much longer will it take?",
+      "purpose": "present"
+    }
+  ]
+}

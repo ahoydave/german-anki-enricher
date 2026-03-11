@@ -1,0 +1,28 @@
+{
+  "canonical": "entdecken",
+  "word_type": "verb",
+  "english": "to discover / to find out / to spot",
+  "is_reflexive": false,
+  "also_non_reflexive": false,
+  "perfekt": "hat entdeckt",
+  "praeteritum": "entdeckte",
+  "verb_case": "akkusativ",
+  "notes": "Separable prefix: ent- is inseparable here; 'entdecken' is a non-separable verb.",
+  "sentences": [
+    {
+      "german": "Die Kinder entdecken einen geheimen Weg im Wald.",
+      "english": "The children discover a secret path in the forest.",
+      "purpose": "present"
+    },
+    {
+      "german": "Kolumbus hat Amerika im Jahr 1492 entdeckt.",
+      "english": "Columbus discovered America in 1492.",
+      "purpose": "perfekt"
+    },
+    {
+      "german": "Sie hat einen Fehler im Bericht entdeckt.",
+      "english": "She spotted a mistake in the report.",
+      "purpose": "meaning"
+    }
+  ]
+}

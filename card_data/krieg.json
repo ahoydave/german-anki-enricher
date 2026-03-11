@@ -1,0 +1,20 @@
+{
+  "canonical": "Krieg",
+  "word_type": "noun",
+  "article": "der",
+  "plural": "Kriege",
+  "english": "war / warfare",
+  "notes": "Often used in compound nouns, e.g. Bürgerkrieg (civil war), Weltkrieg (world war).",
+  "sentences": [
+    {
+      "german": "Der Krieg dauerte viele Jahre und zerstörte das ganze Land.",
+      "english": "The war lasted many years and destroyed the entire country.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Nach dem Krieg mussten die Menschen ihre Städte wieder aufbauen.",
+      "english": "After the war, people had to rebuild their cities.",
+      "purpose": "meaning"
+    }
+  ]
+}

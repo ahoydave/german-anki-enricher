@@ -1,0 +1,20 @@
+{
+  "canonical": "Geruch",
+  "word_type": "noun",
+  "article": "der",
+  "plural": "Gerüche",
+  "english": "smell / odour / scent",
+  "notes": "Can refer to both pleasant and unpleasant smells. Often used with adjectives like 'angenehm' (pleasant) or 'unangenehm' (unpleasant).",
+  "sentences": [
+    {
+      "german": "Der Geruch von frischem Brot macht mich hungrig.",
+      "english": "The smell of fresh bread makes me hungry.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Aus der Küche kamen verschiedene Gerüche.",
+      "english": "Various smells came from the kitchen.",
+      "purpose": "meaning"
+    }
+  ]
+}

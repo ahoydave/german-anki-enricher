@@ -1,0 +1,20 @@
+{
+  "canonical": "Täter",
+  "word_type": "noun",
+  "article": "der",
+  "plural": "Täter",
+  "english": "perpetrator / offender / culprit",
+  "notes": "Refers to a person who commits a crime or wrongful act. Feminine form: die Täterin.",
+  "sentences": [
+    {
+      "german": "Die Polizei hat den Täter nach zwei Tagen gefasst.",
+      "english": "The police caught the perpetrator after two days.",
+      "purpose": "present"
+    },
+    {
+      "german": "Die Täter wurden zu mehreren Jahren Gefängnis verurteilt.",
+      "english": "The offenders were sentenced to several years in prison.",
+      "purpose": "meaning"
+    }
+  ]
+}

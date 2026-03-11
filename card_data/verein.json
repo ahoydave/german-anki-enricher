@@ -1,0 +1,20 @@
+{
+  "canonical": "Verein",
+  "word_type": "noun",
+  "article": "der",
+  "plural": "Vereine",
+  "english": "club / association / society / organization",
+  "notes": "Refers to a registered or informal group of people united by a common interest, such as a sports club, charity, or hobby group.",
+  "sentences": [
+    {
+      "german": "Er ist Mitglied in einem Fußballverein.",
+      "english": "He is a member of a football club.",
+      "purpose": "present"
+    },
+    {
+      "german": "Die Vereine in unserer Stadt organisieren viele Veranstaltungen.",
+      "english": "The clubs in our city organize many events.",
+      "purpose": "present"
+    }
+  ]
+}

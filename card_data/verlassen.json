@@ -1,0 +1,50 @@
+{
+  "canonical": "verlassen",
+  "word_type": "verb",
+  "english": "to leave / to abandon / to rely on (sich verlassen auf)",
+  "is_reflexive": false,
+  "also_non_reflexive": false,
+  "perfekt": "hat verlassen",
+  "praeteritum": "verließ",
+  "verb_case": "akkusativ",
+  "prepositions": [
+    "sich verlassen auf + akkusativ"
+  ],
+  "notes": "Has two distinct uses: (1) non-reflexive 'verlassen' = to leave/abandon someone or something (akkusativ); (2) reflexive 'sich verlassen auf + akkusativ' = to rely/depend on someone or something.",
+  "sentences": [
+    {
+      "german": "Er hat seine Heimatstadt mit 18 Jahren verlassen.",
+      "english": "He left his hometown at the age of 18.",
+      "purpose": "perfekt"
+    },
+    {
+      "german": "Sie verlässt jeden Morgen um 7 Uhr das Haus.",
+      "english": "She leaves the house every morning at 7 o'clock.",
+      "purpose": "present"
+    },
+    {
+      "german": "Du kannst dich auf mich verlassen.",
+      "english": "You can rely on me.",
+      "purpose": "preposition"
+    }
+  ],
+  "cloze_text": "Sie {{c1::verlässt}} jeden Morgen um 7 Uhr das Haus.\nEr hat seine Heimatstadt mit 18 Jahren {{c2::verlassen}}.\nSie {{c3::verließ}} ihren Job und zog in eine andere Stadt.\nDu kannst dich {{c4::auf}} mich verlassen.",
+  "cloze_sentences": [
+    {
+      "text": "Sie {{c1::verlässt}} jeden Morgen um 7 Uhr das Haus.",
+      "hint": "leaves (she, present)"
+    },
+    {
+      "text": "Er hat seine Heimatstadt mit 18 Jahren {{c1::verlassen}}.",
+      "hint": "left (Perfekt participle)"
+    },
+    {
+      "text": "Sie {{c1::verließ}} ihren Job und zog in eine andere Stadt.",
+      "hint": "left/abandoned (Präteritum)"
+    },
+    {
+      "text": "Du kannst dich {{c1::auf}} mich verlassen.",
+      "hint": "on (preposition used with 'sich verlassen')"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "canonical": "steigen",
+  "word_type": "verb",
+  "english": "to climb / to rise / to increase / to get on (a vehicle)",
+  "is_reflexive": false,
+  "also_non_reflexive": false,
+  "perfekt": "ist gestiegen",
+  "praeteritum": "stieg",
+  "verb_case": "null",
+  "prepositions": [
+    "steigen auf + akkusativ",
+    "steigen in + akkusativ",
+    "steigen aus + dativ"
+  ],
+  "notes": "Strong verb (steigen, stieg, ist gestiegen). Used for physical climbing as well as abstract rising (prices, temperature). 'In den Bus steigen' = to get on the bus; 'aus dem Auto steigen' = to get out of the car.",
+  "sentences": [
+    {
+      "german": "Die Preise steigen jedes Jahr.",
+      "english": "Prices rise every year.",
+      "purpose": "present"
+    },
+    {
+      "german": "Er ist auf den Berg gestiegen.",
+      "english": "He climbed up the mountain.",
+      "purpose": "perfekt"
+    },
+    {
+      "german": "Sie steigt in den Bus ein.",
+      "english": "She gets on the bus.",
+      "purpose": "preposition"
+    }
+  ]
+}

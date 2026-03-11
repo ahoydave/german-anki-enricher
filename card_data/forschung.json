@@ -1,0 +1,32 @@
+{
+  "canonical": "Forschung",
+  "word_type": "noun",
+  "article": "die",
+  "plural": "Forschungen",
+  "english": "research / scientific inquiry",
+  "notes": "Usually used in the singular when referring to research as a general activity. The plural 'Forschungen' refers to specific research projects or findings.",
+  "sentences": [
+    {
+      "german": "Die Forschung auf dem Gebiet der Medizin hat in den letzten Jahren große Fortschritte gemacht.",
+      "english": "Research in the field of medicine has made great progress in recent years.",
+      "purpose": "present"
+    },
+    {
+      "german": "Die neuen Forschungen zeigen, dass Bewegung sehr wichtig für die Gesundheit ist.",
+      "english": "The new research findings show that exercise is very important for health.",
+      "purpose": "meaning"
+    }
+  ],
+  "cloze_text": "{{c1::die}} {{c2::Forschung}} auf dem Gebiet der Medizin hat in den letzten Jahren große Fortschritte gemacht.\nDie neuen {{c3::Forschungen}} zeigen, dass Bewegung sehr wichtig für die Gesundheit ist.",
+  "cloze_sentences": [
+    {
+      "text": "Auf dem Gebiet der Medizin hat {{c1::die}} {{c2::Forschung}} in den letzten Jahren große Fortschritte gemacht.",
+      "hint_c1": "the (article — der/die/das?)",
+      "hint_c2": "research (the word for research)"
+    },
+    {
+      "text": "Neue {{c1::Forschungen}} zeigen, dass Bewegung sehr wichtig für die Gesundheit ist.",
+      "hint_c1": "research findings (plural form)"
+    }
+  ]
+}

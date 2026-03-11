@@ -1,0 +1,20 @@
+{
+  "canonical": "Ereignis",
+  "word_type": "noun",
+  "english": "event / occurrence / incident",
+  "article": "das",
+  "plural": "Ereignisse",
+  "notes": "Refers to a notable or significant happening. Often used for important or memorable events.",
+  "sentences": [
+    {
+      "german": "Die Geburt meines Kindes war das schönste Ereignis meines Lebens.",
+      "english": "The birth of my child was the most beautiful event of my life.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "In der Stadt gab es gestern ein unerwartetes Ereignis.",
+      "english": "There was an unexpected occurrence in the city yesterday.",
+      "purpose": "present"
+    }
+  ]
+}

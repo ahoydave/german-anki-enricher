@@ -1,0 +1,31 @@
+{
+  "canonical": "lösen",
+  "word_type": "verb",
+  "english": "to solve / to loosen / to dissolve / to release",
+  "is_reflexive": false,
+  "also_non_reflexive": false,
+  "perfekt": "hat gelöst",
+  "praeteritum": "löste",
+  "verb_case": "akkusativ",
+  "prepositions": [
+    "sich lösen von + dativ"
+  ],
+  "notes": "Can be used both reflexively (sich lösen – to come loose, to dissolve) and non-reflexively (ein Problem lösen – to solve a problem). The reflexive form 'sich lösen' often means to detach or free oneself from something.",
+  "sentences": [
+    {
+      "german": "Er löst das schwierige Rätsel in wenigen Minuten.",
+      "english": "He solves the difficult puzzle in a few minutes.",
+      "purpose": "present"
+    },
+    {
+      "german": "Die Schüler haben alle Aufgaben gelöst.",
+      "english": "The students have solved all the tasks.",
+      "purpose": "perfekt"
+    },
+    {
+      "german": "Sie hat sich von ihrer alten Gewohnheit gelöst.",
+      "english": "She has freed herself from her old habit.",
+      "purpose": "preposition"
+    }
+  ]
+}

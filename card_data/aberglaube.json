@@ -1,0 +1,20 @@
+{
+  "canonical": "Aberglaube",
+  "word_type": "noun",
+  "article": "der",
+  "plural": "Aberglauben",
+  "english": "superstition",
+  "notes": "Usually used in singular only. Compound of 'aber' (here: away from, contrary to) + 'Glaube' (belief).",
+  "sentences": [
+    {
+      "german": "Es ist reiner Aberglaube, dass eine schwarze Katze Unglück bringt.",
+      "english": "It is pure superstition that a black cat brings bad luck.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Viele alte Aberglauben haben sich bis heute gehalten.",
+      "english": "Many old superstitions have survived to this day.",
+      "purpose": "meaning"
+    }
+  ]
+}

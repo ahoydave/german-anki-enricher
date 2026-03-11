@@ -1,0 +1,18 @@
+{
+  "canonical": "zuvor",
+  "word_type": "adverb",
+  "english": "before / previously / beforehand",
+  "notes": "Temporal adverb indicating something happened before a reference point in time. Often used in formal or written German.",
+  "sentences": [
+    {
+      "german": "Das hatte ich noch nie zuvor gesehen.",
+      "english": "I had never seen that before.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Er rief kurz zuvor an, um Bescheid zu geben.",
+      "english": "He called shortly beforehand to let us know.",
+      "purpose": "meaning"
+    }
+  ]
+}

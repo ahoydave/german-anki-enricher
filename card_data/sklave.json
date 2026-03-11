@@ -1,0 +1,20 @@
+{
+  "canonical": "Sklave",
+  "word_type": "noun",
+  "article": "der",
+  "plural": "Sklaven",
+  "english": "slave",
+  "notes": "Weak noun (n-Deklination): der Sklave, des Sklaven, dem Sklaven, den Sklaven.",
+  "sentences": [
+    {
+      "german": "Im alten Rom mussten viele Sklaven schwere Arbeit leisten.",
+      "english": "In ancient Rome, many slaves had to do hard labour.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Der Sklave kämpfte für seine Freiheit.",
+      "english": "The slave fought for his freedom.",
+      "purpose": "meaning"
+    }
+  ]
+}

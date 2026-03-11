@@ -1,0 +1,20 @@
+{
+  "canonical": "Bußgeld",
+  "word_type": "noun",
+  "article": "das",
+  "plural": "Bußgelder",
+  "english": "fine / penalty (monetary)",
+  "notes": "Refers to a monetary fine imposed for minor offences, e.g. traffic violations. Not to be confused with 'Strafe' (general punishment) or 'Geldstrafe' (criminal fine).",
+  "sentences": [
+    {
+      "german": "Er musste ein Bußgeld von 50 Euro zahlen, weil er zu schnell gefahren war.",
+      "english": "He had to pay a fine of 50 euros because he had been driving too fast.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Die Bußgelder für Falschparken sind in dieser Stadt sehr hoch.",
+      "english": "The fines for illegal parking are very high in this city.",
+      "purpose": "meaning"
+    }
+  ]
+}

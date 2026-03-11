@@ -1,0 +1,20 @@
+{
+  "canonical": "Geräusch",
+  "word_type": "noun",
+  "article": "das",
+  "plural": "Geräusche",
+  "english": "sound / noise",
+  "notes": "Refers to any sound or noise, often unspecific or background noise. Distinct from 'Lärm' (loud noise) and 'Klang' (musical/pleasant sound).",
+  "sentences": [
+    {
+      "german": "Ich habe ein seltsames Geräusch gehört.",
+      "english": "I heard a strange noise.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Die Geräusche aus der Küche haben mich geweckt.",
+      "english": "The noises from the kitchen woke me up.",
+      "purpose": "meaning"
+    }
+  ]
+}

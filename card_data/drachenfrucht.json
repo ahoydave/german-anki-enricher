@@ -1,0 +1,20 @@
+{
+  "canonical": "Drachenfrucht",
+  "word_type": "noun",
+  "article": "die",
+  "plural": "Drachenfrüchte",
+  "english": "dragon fruit / pitaya",
+  "notes": "Compound noun: Drachen (dragon) + Frucht (fruit). Refers to the tropical fruit from cactus plants, originally from Central America.",
+  "sentences": [
+    {
+      "german": "Die Drachenfrucht hat eine leuchtend rosa Schale und weißes Fruchtfleisch.",
+      "english": "The dragon fruit has a bright pink skin and white flesh.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Im Supermarkt kann man manchmal frische Drachenfrüchte kaufen.",
+      "english": "In the supermarket you can sometimes buy fresh dragon fruits.",
+      "purpose": "meaning"
+    }
+  ]
+}

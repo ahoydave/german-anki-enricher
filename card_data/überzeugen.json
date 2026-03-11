@@ -1,0 +1,31 @@
+{
+  "canonical": "überzeugen",
+  "word_type": "verb",
+  "english": "to convince / to persuade",
+  "is_reflexive": false,
+  "also_non_reflexive": false,
+  "perfekt": "hat überzeugt",
+  "praeteritum": "überzeugte",
+  "verb_case": "akkusativ",
+  "prepositions": [
+    "überzeugen von + dativ"
+  ],
+  "notes": "Can also be used reflexively as 'sich überzeugen von' meaning 'to convince oneself of / to verify'. The input 'überzeugt' is the past participle or third-person singular present form.",
+  "sentences": [
+    {
+      "german": "Er überzeugt seine Kollegen von seiner Idee.",
+      "english": "He convinces his colleagues of his idea.",
+      "purpose": "present"
+    },
+    {
+      "german": "Sie hat ihn schließlich überzeugt, mitzukommen.",
+      "english": "She finally convinced him to come along.",
+      "purpose": "perfekt"
+    },
+    {
+      "german": "Der Anwalt überzeugte das Gericht von der Unschuld seines Mandanten.",
+      "english": "The lawyer convinced the court of his client's innocence.",
+      "purpose": "preposition"
+    }
+  ]
+}

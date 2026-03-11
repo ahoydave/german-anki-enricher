@@ -1,0 +1,20 @@
+{
+  "canonical": "Versprechen",
+  "word_type": "noun",
+  "english": "promise / vow",
+  "article": "das",
+  "plural": "Versprechen",
+  "notes": "Also exists as a verb: 'versprechen' (to promise). The noun is derived from the verb and has the same form in singular and plural.",
+  "sentences": [
+    {
+      "german": "Er hat sein Versprechen gehalten und ist pünktlich gekommen.",
+      "english": "He kept his promise and arrived on time.",
+      "purpose": "present"
+    },
+    {
+      "german": "Sie hat ihm ein Versprechen gegeben, das sie nicht vergessen wird.",
+      "english": "She made him a promise that she will not forget.",
+      "purpose": "meaning"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "canonical": "faszinierend",
+  "word_type": "adjective",
+  "english": "fascinating / captivating",
+  "adjective_forms": "faszinierend, faszinierender, am faszinierendsten",
+  "sentences": [
+    {
+      "german": "Die Geschichte des alten Schlosses ist wirklich faszinierend.",
+      "english": "The history of the old castle is truly fascinating.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Er erzählte auf eine faszinierende Weise von seiner Reise.",
+      "english": "He spoke about his journey in a fascinating way.",
+      "purpose": "meaning"
+    }
+  ],
+  "cloze_text": "Die Geschichte des alten Schlosses ist wirklich {{c1::faszinierend}}.\nEr erzählte auf eine {{c2::faszinierende}} Weise von seiner Reise.",
+  "cloze_sentences": [
+    {
+      "text": "Die Geschichte des alten Schlosses ist wirklich {{c1::faszinierend}}.",
+      "hint": "fascinating (predicative adjective form)"
+    },
+    {
+      "text": "Er erzählte auf eine {{c1::faszinierende}} Weise von seiner Reise.",
+      "hint": "fascinating (attributive adjective, feminine accusative)"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "canonical": "Botschaft",
+  "word_type": "noun",
+  "article": "die",
+  "plural": "Botschaften",
+  "english": "message / embassy",
+  "notes": "Has two distinct meanings: 1) a message or news, 2) an embassy (diplomatic mission).",
+  "sentences": [
+    {
+      "german": "Er hat mir eine wichtige Botschaft hinterlassen.",
+      "english": "He left me an important message.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Sie arbeitet in der deutschen Botschaft in Paris.",
+      "english": "She works at the German embassy in Paris.",
+      "purpose": "meaning"
+    }
+  ]
+}

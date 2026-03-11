@@ -1,0 +1,28 @@
+{
+  "canonical": "schaffen",
+  "word_type": "verb",
+  "english": "to create / to manage (to do something) / to accomplish",
+  "is_reflexive": false,
+  "also_non_reflexive": false,
+  "perfekt": "hat geschaffen / hat geschafft",
+  "praeteritum": "schuf / schaffte",
+  "verb_case": "akkusativ",
+  "notes": "Two distinct verbs: 'schaffen' (strong, schuf, hat geschaffen) means 'to create'; 'schaffen' (weak, schaffte, hat geschafft) means 'to manage/accomplish'. The input 'geschaffen' is the past participle of the strong form (to create).",
+  "sentences": [
+    {
+      "german": "Der Künstler hat ein wunderschönes Gemälde geschaffen.",
+      "english": "The artist created a beautiful painting.",
+      "purpose": "perfekt"
+    },
+    {
+      "german": "Ich habe es endlich geschafft, die Prüfung zu bestehen.",
+      "english": "I finally managed to pass the exam.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Die neue Stelle schafft viele Möglichkeiten für junge Menschen.",
+      "english": "The new position creates many opportunities for young people.",
+      "purpose": "present"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "canonical": "Stadtjunge",
+  "word_type": "noun",
+  "english": "city boy / urban boy",
+  "article": "der",
+  "plural": "Stadtjungen",
+  "notes": "Compound noun: Stadt (city) + Junge (boy). Refers to a boy or young man who grew up in or is typical of city life.",
+  "sentences": [
+    {
+      "german": "Er ist ein echter Stadtjunge und kennt das Leben auf dem Land kaum.",
+      "english": "He is a real city boy and barely knows life in the countryside.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Die Stadtjungen in unserer Klasse hatten noch nie eine Kuh gesehen.",
+      "english": "The city boys in our class had never seen a cow before.",
+      "purpose": "meaning"
+    }
+  ]
+}

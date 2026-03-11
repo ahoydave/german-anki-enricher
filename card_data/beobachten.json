@@ -1,0 +1,42 @@
+{
+  "canonical": "beobachten",
+  "word_type": "verb",
+  "english": "to observe / to watch / to monitor",
+  "is_reflexive": false,
+  "also_non_reflexive": false,
+  "perfekt": "hat beobachtet",
+  "praeteritum": "beobachtete",
+  "verb_case": "akkusativ",
+  "sentences": [
+    {
+      "german": "Die Wissenschaftlerin beobachtet die Vögel im Park.",
+      "english": "The scientist observes the birds in the park.",
+      "purpose": "present"
+    },
+    {
+      "german": "Er hat das Verhalten der Kinder genau beobachtet.",
+      "english": "He observed the children's behaviour closely.",
+      "purpose": "perfekt"
+    },
+    {
+      "german": "Die Polizei beobachtet den Verdächtigen seit Wochen.",
+      "english": "The police have been monitoring the suspect for weeks.",
+      "purpose": "meaning"
+    }
+  ],
+  "cloze_text": "Die Wissenschaftlerin {{c1::beobachtet}} die Vögel im Park.\nEr hat das Verhalten der Kinder genau {{c2::beobachtet}}.\nSie {{c3::beobachtete}} den Hund im Garten sehr aufmerksam.",
+  "cloze_sentences": [
+    {
+      "text": "Die Wissenschaftlerin {{c1::beobachtet}} die Vögel im Park.",
+      "hint": "observes (she, present)"
+    },
+    {
+      "text": "Er hat das Verhalten der Kinder genau {{c1::beobachtet}}.",
+      "hint": "observed (Perfekt participle)"
+    },
+    {
+      "text": "Sie {{c1::beobachtete}} den Hund im Garten sehr aufmerksam.",
+      "hint": "observed (Präteritum)"
+    }
+  ]
+}

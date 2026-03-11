@@ -1,0 +1,31 @@
+{
+  "canonical": "einsetzen",
+  "word_type": "verb",
+  "english": "to use / to deploy / to employ / to insert / to set in",
+  "is_reflexive": false,
+  "also_non_reflexive": false,
+  "perfekt": "hat eingesetzt",
+  "praeteritum": "setzte ein",
+  "verb_case": "akkusativ",
+  "prepositions": [
+    "einsetzen für + akkusativ"
+  ],
+  "notes": "Separable verb (ein- + setzen). Can also be used reflexively as 'sich einsetzen für' meaning 'to advocate for / to stand up for something'.",
+  "sentences": [
+    {
+      "german": "Die Feuerwehr setzt modernste Technik ein, um den Brand zu löschen.",
+      "english": "The fire brigade deploys state-of-the-art technology to extinguish the fire.",
+      "purpose": "present"
+    },
+    {
+      "german": "Der Trainer hat alle seine besten Spieler eingesetzt.",
+      "english": "The coach deployed all his best players.",
+      "purpose": "perfekt"
+    },
+    {
+      "german": "Sie setzt sich für die Rechte der Kinder ein.",
+      "english": "She advocates for the rights of children.",
+      "purpose": "preposition"
+    }
+  ]
+}

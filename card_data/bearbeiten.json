@@ -1,0 +1,44 @@
+{
+  "canonical": "bearbeiten",
+  "word_type": "verb",
+  "english": "to edit / to process / to work on / to handle",
+  "is_reflexive": false,
+  "also_non_reflexive": false,
+  "perfekt": "hat bearbeitet",
+  "praeteritum": "bearbeitete",
+  "verb_case": "akkusativ",
+  "prepositions": [],
+  "notes": "Separable prefix verb: 'be-' is inseparable. Used for editing documents, processing requests, or working on a task.",
+  "sentences": [
+    {
+      "german": "Sie bearbeitet den Antrag so schnell wie möglich.",
+      "english": "She is processing the application as quickly as possible.",
+      "purpose": "present"
+    },
+    {
+      "german": "Er hat den Text sorgfältig bearbeitet.",
+      "english": "He has carefully edited the text.",
+      "purpose": "perfekt"
+    },
+    {
+      "german": "Der Techniker bearbeitet das Problem seit einer Stunde.",
+      "english": "The technician has been working on the problem for an hour.",
+      "purpose": "meaning"
+    }
+  ],
+  "cloze_text": "Sie {{c1::bearbeitet}} den Antrag so schnell wie möglich.\nEr hat den Text sorgfältig {{c2::bearbeitet}}.\nDer Techniker {{c3::bearbeitete}} das Problem seit einer Stunde.",
+  "cloze_sentences": [
+    {
+      "text": "Sie {{c1::bearbeitet}} den Antrag so schnell wie möglich.",
+      "hint": "processes/handles (she, present)"
+    },
+    {
+      "text": "Er hat den Text sorgfältig {{c1::bearbeitet}}.",
+      "hint": "edited/processed (Perfekt participle)"
+    },
+    {
+      "text": "Der Techniker {{c1::bearbeitete}} das Problem seit einer Stunde.",
+      "hint": "worked on (Präteritum)"
+    }
+  ]
+}

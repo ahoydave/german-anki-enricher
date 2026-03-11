@@ -1,0 +1,19 @@
+{
+  "canonical": "dicht",
+  "word_type": "adjective",
+  "english": "dense / thick / tight / close / sealed",
+  "adjective_forms": "dicht, dichter, am dichtesten",
+  "notes": "Can mean 'dense' (e.g. fog, forest), 'tight/sealed' (no leaks), or 'close together'. Also used informally as adverb meaning 'closely' or 'right next to'.",
+  "sentences": [
+    {
+      "german": "Der Nebel war so dicht, dass ich kaum etwas sehen konnte.",
+      "english": "The fog was so thick that I could hardly see anything.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Das Fenster ist nicht dicht – es zieht kalt herein.",
+      "english": "The window is not sealed – cold air is coming in.",
+      "purpose": "meaning"
+    }
+  ]
+}

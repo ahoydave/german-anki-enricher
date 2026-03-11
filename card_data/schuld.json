@@ -1,0 +1,31 @@
+{
+  "canonical": "Schuld",
+  "word_type": "noun",
+  "article": "die",
+  "plural": "Schulden",
+  "english": "guilt / fault / debt",
+  "notes": "Has two distinct plural uses: 'die Schuld' (no plural) for guilt/fault, and 'die Schulden' (plural) for debts/money owed.",
+  "sentences": [
+    {
+      "german": "Er trägt die Schuld an dem Unfall.",
+      "english": "He bears the guilt/fault for the accident.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Sie hat hohe Schulden bei der Bank.",
+      "english": "She has large debts at the bank.",
+      "purpose": "meaning"
+    }
+  ],
+  "cloze_text": "Er trägt {{c1::die}} {{c2::Schuld}} an dem Unfall.\nSie hat hohe {{c3::Schulden}} bei der Bank.",
+  "cloze_sentences": [
+    {
+      "text": "Für den Unfall trägt er {{c1::die}} {{c2::Schuld}}.",
+      "hint": "c1: the (article — der/die/das?) | c2: guilt/fault (the word for guilt)"
+    },
+    {
+      "text": "Sie hat hohe {{c1::Schulden}} bei der Bank.",
+      "hint": "debts (plural form)"
+    }
+  ]
+}

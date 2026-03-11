@@ -1,0 +1,18 @@
+{
+  "canonical": "beängstigend",
+  "word_type": "adjective",
+  "english": "frightening / alarming / scary",
+  "adjective_forms": "beängstigend, beängstigender, am beängstigendsten",
+  "sentences": [
+    {
+      "german": "Die Situation ist beängstigend schnell außer Kontrolle geraten.",
+      "english": "The situation got out of control at a frightening speed.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Er hörte ein beängstigendes Geräusch im Keller.",
+      "english": "He heard a frightening noise in the basement.",
+      "purpose": "meaning"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "canonical": "Werkstatt",
+  "word_type": "noun",
+  "article": "die",
+  "plural": "Werkstätten",
+  "english": "workshop / garage (for car repairs)",
+  "notes": "Can refer to an artisan's workshop or a car repair garage.",
+  "sentences": [
+    {
+      "german": "Der Schreiner arbeitet jeden Tag in seiner Werkstatt.",
+      "english": "The carpenter works in his workshop every day.",
+      "purpose": "present"
+    },
+    {
+      "german": "Ich bringe mein Auto morgen in die Werkstatt.",
+      "english": "I'm taking my car to the garage tomorrow.",
+      "purpose": "meaning"
+    }
+  ]
+}

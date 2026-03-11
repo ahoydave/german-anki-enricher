@@ -1,0 +1,20 @@
+{
+  "canonical": "Selbstvertrauen",
+  "word_type": "noun",
+  "article": "das",
+  "plural": "— (kein Plural)",
+  "english": "self-confidence / self-assurance",
+  "notes": "Uncountable noun; no plural form used in practice.",
+  "sentences": [
+    {
+      "german": "Sie hat viel Selbstvertrauen und spricht gerne vor großen Gruppen.",
+      "english": "She has a lot of self-confidence and enjoys speaking in front of large groups.",
+      "purpose": "present"
+    },
+    {
+      "german": "Nach dem Erfolg wuchs sein Selbstvertrauen deutlich.",
+      "english": "After the success, his self-confidence grew noticeably.",
+      "purpose": "meaning"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "canonical": "sich vorstellen",
+  "word_type": "verb",
+  "english": "to introduce oneself / to imagine",
+  "is_reflexive": true,
+  "also_non_reflexive": true,
+  "perfekt": "hat sich vorgestellt",
+  "praeteritum": "stellte mich vor",
+  "verb_case": "akkusativ",
+  "notes": "With dative reflexive pronoun 'sich' (dativ) + accusative object it means 'to imagine something': 'Ich stelle mir etwas vor'. With nominative subject only it means 'to introduce oneself'. The non-reflexive form 'vorstellen' means 'to introduce someone (else)' or 'to present'.",
+  "sentences": [
+    {
+      "german": "Ich stelle mich kurz vor: Mein Name ist Anna.",
+      "english": "Let me briefly introduce myself: my name is Anna.",
+      "purpose": "present"
+    },
+    {
+      "german": "Er hat sich bei seinem neuen Chef vorgestellt.",
+      "english": "He introduced himself to his new boss.",
+      "purpose": "perfekt"
+    },
+    {
+      "german": "Ich kann mir nicht vorstellen, wie das passiert ist.",
+      "english": "I can't imagine how that happened.",
+      "purpose": "meaning"
+    }
+  ],
+  "non_reflexive_canonical": "vorstellen",
+  "non_reflexive_english": "to introduce someone / to present someone",
+  "non_reflexive_sentences": [
+    {
+      "german": "Er stellt seinen Freund der Gruppe vor.",
+      "english": "He introduces his friend to the group.",
+      "purpose": "present"
+    },
+    {
+      "german": "Die Firma hat ihr neues Produkt auf der Messe vorgestellt.",
+      "english": "The company presented its new product at the trade fair.",
+      "purpose": "perfekt"
+    }
+  ],
+  "cloze_text": "Er {{c1::stellt}} sich seiner neuen Kollegin vor.\nEr hat sich bei seinem neuen Chef {{c2::vorgestellt}}.\nSie {{c3::stellte}} sich dem Team vor, als sie ankam.",
+  "nr_cloze_text": "Er {{c4::stellt}} seinen Freund der Gruppe vor.\nDie Firma hat ihr neues Produkt auf der Messe {{c5::vorgestellt}}.",
+  "cloze_sentences": [
+    {
+      "text": "Er {{c1::stellt}} sich seiner neuen Kollegin vor.",
+      "hint": "introduces (he, present)"
+    },
+    {
+      "text": "Sie hat sich bei der Firma {{c1::vorgestellt}}.",
+      "hint": "introduced (Perfekt participle)"
+    },
+    {
+      "text": "Er {{c1::stellte}} sich dem Team vor, als er ankam.",
+      "hint": "introduced (Präteritum)"
+    },
+    {
+      "text": "Ich kann mir nicht {{c1::vorstellen}}, wie das passiert ist.",
+      "hint": "imagine (infinitive — meaning: to imagine something)"
+    }
+  ],
+  "nr_cloze_sentences": [
+    {
+      "text": "Er {{c1::stellt}} seinen Freund der Gruppe vor.",
+      "hint": "introduces (he, present)"
+    },
+    {
+      "text": "Die Firma hat ihr neues Produkt auf der Messe {{c1::vorgestellt}}.",
+      "hint": "presented (Perfekt participle)"
+    },
+    {
+      "text": "Die Lehrerin {{c1::stellte}} den neuen Schüler der Klasse vor.",
+      "hint": "introduced (Präteritum)"
+    }
+  ]
+}

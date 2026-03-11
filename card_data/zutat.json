@@ -1,0 +1,20 @@
+{
+  "canonical": "Zutat",
+  "word_type": "noun",
+  "article": "die",
+  "plural": "Zutaten",
+  "english": "ingredient",
+  "notes": "Almost always used in the plural (Zutaten) when referring to the components of a recipe.",
+  "sentences": [
+    {
+      "german": "Die wichtigste Zutat in diesem Kuchen ist Vanille.",
+      "english": "The most important ingredient in this cake is vanilla.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Alle Zutaten für das Rezept liegen schon auf dem Tisch.",
+      "english": "All the ingredients for the recipe are already on the table.",
+      "purpose": "meaning"
+    }
+  ]
+}

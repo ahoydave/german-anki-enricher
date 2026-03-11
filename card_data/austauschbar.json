@@ -1,0 +1,18 @@
+{
+  "canonical": "austauschbar",
+  "word_type": "adjective",
+  "english": "interchangeable / replaceable / exchangeable",
+  "adjective_forms": "austauschbar, austauschbarer, am austauschbarsten",
+  "sentences": [
+    {
+      "german": "Diese Teile sind vollständig austauschbar.",
+      "english": "These parts are completely interchangeable.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "In diesem Job fühlt er sich austauschbar.",
+      "english": "In this job, he feels replaceable.",
+      "purpose": "meaning"
+    }
+  ]
+}

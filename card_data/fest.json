@@ -1,0 +1,18 @@
+{
+  "canonical": "fest",
+  "word_type": "adjective",
+  "english": "firm / solid / tight / fixed / steady",
+  "adjective_forms": "fest, fester, am festesten",
+  "sentences": [
+    {
+      "german": "Der Knoten ist sehr fest gebunden.",
+      "english": "The knot is tied very tightly.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Sie hat einen festen Job gefunden.",
+      "english": "She has found a steady job.",
+      "purpose": "meaning"
+    }
+  ]
+}

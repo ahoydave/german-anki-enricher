@@ -1,0 +1,13 @@
+{
+  "canonical": "entweder",
+  "word_type": "conjunction",
+  "english": "either (used in 'either...or' constructions)",
+  "notes": "Used in the fixed construction 'entweder ... oder ...' (either ... or ...). It presents two alternatives, of which one must be true or chosen.",
+  "sentences": [
+    {
+      "german": "Entweder kommst du mit, oder ich gehe allein.",
+      "english": "Either you come with me, or I'll go alone.",
+      "purpose": "meaning"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical": "irgendwie",
+  "word_type": "adverb",
+  "english": "somehow / in some way",
+  "notes": "Used to express that something happens in an unspecified or unclear way. Can also convey a vague feeling or impression.",
+  "sentences": [
+    {
+      "german": "Das klingt irgendwie seltsam.",
+      "english": "That sounds somehow strange.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Wir werden das irgendwie schaffen.",
+      "english": "We will manage it somehow.",
+      "purpose": "meaning"
+    }
+  ]
+}

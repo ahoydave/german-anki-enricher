@@ -1,0 +1,19 @@
+{
+  "canonical": "schuldig",
+  "word_type": "adjective",
+  "english": "guilty / indebted / owing",
+  "adjective_forms": "schuldig, schuldiger, am schuldigsten",
+  "notes": "Often used predicatively. 'Jemanden schuldig sprechen' means to find someone guilty. 'Jemandem etwas schuldig sein' means to owe someone something.",
+  "sentences": [
+    {
+      "german": "Das Gericht hat ihn schuldig gesprochen.",
+      "english": "The court found him guilty.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Ich bin dir noch zehn Euro schuldig.",
+      "english": "I still owe you ten euros.",
+      "purpose": "meaning"
+    }
+  ]
+}

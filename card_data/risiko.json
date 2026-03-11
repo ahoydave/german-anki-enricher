@@ -1,0 +1,32 @@
+{
+  "canonical": "Risiko",
+  "word_type": "noun",
+  "article": "das",
+  "plural": "Risiken",
+  "english": "risk / hazard",
+  "notes": "Also occasionally used with plural 'Risikos' in colloquial speech, but 'Risiken' is standard.",
+  "sentences": [
+    {
+      "german": "Das Risiko eines Unfalls ist auf dieser Straße sehr hoch.",
+      "english": "The risk of an accident is very high on this road.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Er geht gerne Risiken ein, um seine Ziele zu erreichen.",
+      "english": "He likes to take risks in order to achieve his goals.",
+      "purpose": "meaning"
+    }
+  ],
+  "cloze_text": "{{c1::das}} {{c2::Risiko}} eines Unfalls ist auf dieser Straße sehr hoch.\nEr geht gerne {{c3::Risiken}} ein, um seine Ziele zu erreichen.",
+  "cloze_sentences": [
+    {
+      "text": "Auf dieser Straße ist {{c1::das}} {{c2::Risiko}} eines Unfalls sehr hoch.",
+      "hint_c1": "the (article — der/die/das?)",
+      "hint_c2": "risk (the word for risk)"
+    },
+    {
+      "text": "Er geht gerne {{c1::Risiken}} ein, um seine Ziele zu erreichen.",
+      "hint_c1": "risks (plural form)"
+    }
+  ]
+}

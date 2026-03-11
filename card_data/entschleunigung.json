@@ -1,0 +1,20 @@
+{
+  "canonical": "Entschleunigung",
+  "word_type": "noun",
+  "article": "die",
+  "plural": "Entschleunigungen",
+  "english": "deceleration / slowing down / the deliberate reduction of pace (in life or society)",
+  "notes": "Formed from 'ent-' (reversal) + 'Schleunigung' (acceleration/speed). Often used in the context of work-life balance and the modern movement against constant busyness.",
+  "sentences": [
+    {
+      "german": "Viele Menschen suchen nach Entschleunigung, um dem Stress des Alltags zu entkommen.",
+      "english": "Many people seek a slower pace of life to escape the stress of everyday life.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Entschleunigung bedeutet nicht Faulheit, sondern bewusstes Leben.",
+      "english": "Slowing down does not mean laziness, but rather living consciously.",
+      "purpose": "meaning"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical": "hübsch",
+  "word_type": "adjective",
+  "english": "pretty / nice / lovely",
+  "adjective_forms": "hübsch, hübscher, am hübschesten",
+  "sentences": [
+    {
+      "german": "Sie hat ein hübsches Lächeln.",
+      "english": "She has a pretty smile.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Das Dorf sieht wirklich hübsch aus.",
+      "english": "The village looks really lovely.",
+      "purpose": "meaning"
+    }
+  ]
+}

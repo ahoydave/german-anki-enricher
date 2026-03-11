@@ -1,0 +1,24 @@
+{
+  "canonical": "ausprobieren",
+  "word_type": "verb",
+  "english": "to try out / to test",
+  "is_reflexive": false,
+  "also_non_reflexive": false,
+  "perfekt": "hat ausprobiert",
+  "praeteritum": "probierte aus",
+  "verb_case": "akkusativ",
+  "prepositions": [],
+  "notes": "Separable verb (aus- + probieren). Used when trying something out to see if it works or suits.",
+  "sentences": [
+    {
+      "german": "Ich möchte dieses neue Rezept ausprobieren.",
+      "english": "I would like to try out this new recipe.",
+      "purpose": "present"
+    },
+    {
+      "german": "Hast du das neue Restaurant schon ausprobiert?",
+      "english": "Have you already tried out the new restaurant?",
+      "purpose": "perfekt"
+    }
+  ]
+}

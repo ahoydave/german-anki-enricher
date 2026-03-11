@@ -1,0 +1,20 @@
+{
+  "canonical": "Segelboot",
+  "word_type": "noun",
+  "article": "das",
+  "plural": "Segelboote",
+  "english": "sailboat / sailing boat",
+  "notes": "Compound noun: Segel (sail) + Boot (boat).",
+  "sentences": [
+    {
+      "german": "Das Segelboot gleitet ruhig über den See.",
+      "english": "The sailboat glides quietly across the lake.",
+      "purpose": "present"
+    },
+    {
+      "german": "Am Wochenende fahren wir mit unserem Segelboot auf dem Meer.",
+      "english": "At the weekend we sail on the sea with our sailboat.",
+      "purpose": "present"
+    }
+  ]
+}

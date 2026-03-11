@@ -1,0 +1,19 @@
+{
+  "canonical": "isoliert",
+  "word_type": "adjective",
+  "english": "isolated / insulated",
+  "adjective_forms": "isoliert, isolierter, am isoliertesten",
+  "notes": "Participial adjective derived from the verb 'isolieren'. Can describe physical insulation (e.g. wires, buildings) or social/emotional isolation.",
+  "sentences": [
+    {
+      "german": "Das alte Haus ist schlecht isoliert, deshalb ist es im Winter sehr kalt.",
+      "english": "The old house is poorly insulated, so it is very cold in winter.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Nach dem Umzug fühlte sie sich sehr isoliert, weil sie niemanden kannte.",
+      "english": "After the move, she felt very isolated because she didn't know anyone.",
+      "purpose": "meaning"
+    }
+  ]
+}

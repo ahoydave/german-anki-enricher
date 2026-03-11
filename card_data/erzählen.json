@@ -1,0 +1,31 @@
+{
+  "canonical": "erzählen",
+  "word_type": "verb",
+  "english": "to tell / to narrate / to recount",
+  "is_reflexive": false,
+  "also_non_reflexive": false,
+  "perfekt": "hat erzählt",
+  "praeteritum": "erzählte",
+  "verb_case": "dativ",
+  "prepositions": [
+    "erzählen von + dativ",
+    "erzählen über + akkusativ"
+  ],
+  "sentences": [
+    {
+      "german": "Meine Oma erzählt mir jeden Abend eine Geschichte.",
+      "english": "My grandma tells me a story every evening.",
+      "purpose": "present"
+    },
+    {
+      "german": "Er hat uns von seiner Reise nach Japan erzählt.",
+      "english": "He told us about his trip to Japan.",
+      "purpose": "perfekt"
+    },
+    {
+      "german": "Sie erzählt gerne über ihre Kindheit.",
+      "english": "She likes to talk about her childhood.",
+      "purpose": "preposition"
+    }
+  ]
+}

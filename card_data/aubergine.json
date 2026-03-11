@@ -1,0 +1,20 @@
+{
+  "canonical": "Aubergine",
+  "word_type": "noun",
+  "article": "die",
+  "plural": "Auberginen",
+  "english": "aubergine / eggplant",
+  "notes": "Borrowed from French 'aubergine'. The vegetable is called 'eggplant' in American English and 'aubergine' in British English.",
+  "sentences": [
+    {
+      "german": "Ich kaufe eine Aubergine auf dem Markt.",
+      "english": "I am buying an aubergine at the market.",
+      "purpose": "present"
+    },
+    {
+      "german": "Die Auberginen werden in Scheiben geschnitten und gebraten.",
+      "english": "The aubergines are sliced and fried.",
+      "purpose": "meaning"
+    }
+  ]
+}

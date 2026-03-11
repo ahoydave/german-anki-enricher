@@ -1,0 +1,31 @@
+{
+  "canonical": "aufhören",
+  "word_type": "verb",
+  "english": "to stop / to cease / to quit",
+  "is_reflexive": false,
+  "also_non_reflexive": false,
+  "perfekt": "hat aufgehört",
+  "praeteritum": "hörte auf",
+  "verb_case": "null",
+  "prepositions": [
+    "aufhören mit + dativ"
+  ],
+  "notes": "Separable verb (auf- + hören). Often used with 'mit' + dative noun, or followed by an infinitive with 'zu'.",
+  "sentences": [
+    {
+      "german": "Es hört endlich auf zu regnen.",
+      "english": "It is finally stopping raining.",
+      "purpose": "present"
+    },
+    {
+      "german": "Er hat mit dem Rauchen aufgehört.",
+      "english": "He has stopped smoking.",
+      "purpose": "perfekt"
+    },
+    {
+      "german": "Sie hört mit der Arbeit auf, wenn sie müde ist.",
+      "english": "She stops working when she is tired.",
+      "purpose": "preposition"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "canonical": "nachvollziehen",
+  "word_type": "verb",
+  "english": "to understand / to comprehend / to retrace (someone's reasoning or steps)",
+  "is_reflexive": false,
+  "also_non_reflexive": false,
+  "perfekt": "hat nachvollzogen",
+  "praeteritum": "vollzog nach",
+  "verb_case": "akkusativ",
+  "prepositions": [],
+  "notes": "Separable verb (nach- + vollziehen). It implies understanding something by mentally retracing the logic or process behind it, not just knowing a fact.",
+  "sentences": [
+    {
+      "german": "Ich kann deine Entscheidung gut nachvollziehen.",
+      "english": "I can well understand your decision.",
+      "purpose": "present"
+    },
+    {
+      "german": "Er hat die Argumentation des Lehrers nicht nachvollzogen.",
+      "english": "He did not follow/understand the teacher's line of reasoning.",
+      "purpose": "perfekt"
+    },
+    {
+      "german": "Kannst du nachvollziehen, warum sie so reagiert hat?",
+      "english": "Can you understand why she reacted that way?",
+      "purpose": "meaning"
+    }
+  ]
+}

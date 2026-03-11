@@ -1,0 +1,32 @@
+{
+  "canonical": "kämpfen",
+  "word_type": "verb",
+  "english": "to fight / to struggle / to battle",
+  "is_reflexive": false,
+  "also_non_reflexive": false,
+  "perfekt": "hat gekämpft",
+  "praeteritum": "kämpfte",
+  "verb_case": "null",
+  "prepositions": [
+    "kämpfen für + akkusativ",
+    "kämpfen gegen + akkusativ",
+    "kämpfen um + akkusativ"
+  ],
+  "sentences": [
+    {
+      "german": "Die Soldaten kämpfen für ihr Land.",
+      "english": "The soldiers are fighting for their country.",
+      "purpose": "present"
+    },
+    {
+      "german": "Sie hat lange gegen die Krankheit gekämpft.",
+      "english": "She fought against the illness for a long time.",
+      "purpose": "perfekt"
+    },
+    {
+      "german": "Die Mannschaften kämpfen um den ersten Platz.",
+      "english": "The teams are fighting for first place.",
+      "purpose": "preposition"
+    }
+  ]
+}

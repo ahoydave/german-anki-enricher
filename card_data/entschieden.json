@@ -1,0 +1,19 @@
+{
+  "canonical": "entschieden",
+  "word_type": "adjective",
+  "english": "determined / resolute / decided / emphatic",
+  "adjective_forms": "entschieden, entschiedener, am entschiedensten",
+  "notes": "Can function as an adjective/adverb meaning 'determined' or 'decidedly'. It is also the past participle of 'entscheiden' (to decide), but as a standalone entry it is most commonly used as an adjective or adverb.",
+  "sentences": [
+    {
+      "german": "Sie lehnte den Vorschlag entschieden ab.",
+      "english": "She firmly/decidedly rejected the proposal.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Er ist ein entschiedener Gegner dieser Politik.",
+      "english": "He is a determined opponent of this policy.",
+      "purpose": "meaning"
+    }
+  ]
+}

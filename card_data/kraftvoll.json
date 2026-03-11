@@ -1,0 +1,18 @@
+{
+  "canonical": "kraftvoll",
+  "word_type": "adjective",
+  "english": "powerful / strong / vigorous",
+  "adjective_forms": "kraftvoll, kraftvoller, am kraftvollsten",
+  "sentences": [
+    {
+      "german": "Der Sportler machte eine kraftvolle Bewegung.",
+      "english": "The athlete made a powerful movement.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Sie sprach kraftvoll und überzeugend vor dem Publikum.",
+      "english": "She spoke powerfully and convincingly in front of the audience.",
+      "purpose": "meaning"
+    }
+  ]
+}

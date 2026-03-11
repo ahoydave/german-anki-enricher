@@ -1,0 +1,19 @@
+{
+  "canonical": "neugierig",
+  "word_type": "adjective",
+  "english": "curious / nosy",
+  "adjective_forms": "neugierig, neugieriger, am neugierigsten",
+  "notes": "Often followed by 'auf + Akkusativ' to express what one is curious about.",
+  "sentences": [
+    {
+      "german": "Die Kinder sind sehr neugierig auf ihre Geburtstagsgeschenke.",
+      "english": "The children are very curious about their birthday presents.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Er fragte neugierig, was in dem Brief stand.",
+      "english": "He asked curiously what was written in the letter.",
+      "purpose": "meaning"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "canonical": "Umgangssprache",
+  "word_type": "noun",
+  "article": "die",
+  "plural": "Umgangssprachen",
+  "english": "colloquial language / vernacular / everyday speech",
+  "notes": "Refers to informal, everyday spoken language as opposed to formal or standard language (Hochdeutsch/Standardsprache).",
+  "sentences": [
+    {
+      "german": "Das Wort 'Kohle' bedeutet in der Umgangssprache 'Geld'.",
+      "english": "The word 'Kohle' means 'money' in colloquial language.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "In der Schule sollte man keine Umgangssprache verwenden.",
+      "english": "One should not use colloquial language at school.",
+      "purpose": "present"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "canonical": "heraus",
+  "word_type": "adverb",
+  "english": "out / out of (direction away from inside outward)",
+  "notes": "Separable prefix used with many verbs (herauskommen, herausfinden, herausnehmen). Indicates movement or direction from inside to outside, toward the speaker. Often interchangeable with 'raus' in colloquial speech.",
+  "sentences": [
+    {
+      "german": "Komm heraus, wir warten auf dich!",
+      "english": "Come out, we are waiting for you!",
+      "purpose": "present"
+    },
+    {
+      "german": "Er hat die Wahrheit herausgefunden.",
+      "english": "He found out the truth.",
+      "purpose": "perfekt"
+    },
+    {
+      "german": "Sie nahm das Buch aus der Tasche heraus.",
+      "english": "She took the book out of the bag.",
+      "purpose": "meaning"
+    }
+  ]
+}

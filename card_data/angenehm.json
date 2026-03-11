@@ -1,0 +1,18 @@
+{
+  "canonical": "angenehm",
+  "word_type": "adjective",
+  "english": "pleasant / agreeable / comfortable",
+  "adjective_forms": "angenehm, angenehmer, am angenehmsten",
+  "sentences": [
+    {
+      "german": "Das Wetter heute ist sehr angenehm.",
+      "english": "The weather today is very pleasant.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Sie hat eine angenehme Stimme.",
+      "english": "She has a pleasant voice.",
+      "purpose": "meaning"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "canonical": "Reparatur",
+  "word_type": "noun",
+  "article": "die",
+  "plural": "Reparaturen",
+  "english": "repair / fix",
+  "notes": "Refers to the act or process of repairing something. Often used with 'durchführen' (to carry out) or 'machen' (to do).",
+  "sentences": [
+    {
+      "german": "Die Reparatur des Autos hat drei Tage gedauert.",
+      "english": "The repair of the car took three days.",
+      "purpose": "present"
+    },
+    {
+      "german": "Die Reparaturen an dem alten Haus waren sehr teuer.",
+      "english": "The repairs on the old house were very expensive.",
+      "purpose": "meaning"
+    }
+  ]
+}

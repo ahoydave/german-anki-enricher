@@ -1,0 +1,13 @@
+{
+  "canonical": "indem",
+  "word_type": "conjunction",
+  "english": "by (doing something) / while / in that",
+  "notes": "Subordinating conjunction introducing a subordinate clause. It expresses the means or manner by which something is done ('by doing X') or a simultaneous action ('while'). The verb goes to the end of the subordinate clause.",
+  "sentences": [
+    {
+      "german": "Er löste das Problem, indem er einen Experten fragte.",
+      "english": "He solved the problem by asking an expert.",
+      "purpose": "meaning"
+    }
+  ]
+}

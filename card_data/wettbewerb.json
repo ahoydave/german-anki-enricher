@@ -1,0 +1,20 @@
+{
+  "canonical": "Wettbewerb",
+  "word_type": "noun",
+  "article": "der",
+  "plural": "Wettbewerbe",
+  "english": "competition / contest",
+  "notes": "Refers to both a competitive event/contest and the general concept of competition (e.g. in business).",
+  "sentences": [
+    {
+      "german": "Sie hat an einem Wettbewerb für junge Musiker teilgenommen.",
+      "english": "She took part in a competition for young musicians.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Der Wettbewerb zwischen den Unternehmen ist sehr hart.",
+      "english": "The competition between the companies is very fierce.",
+      "purpose": "meaning"
+    }
+  ]
+}

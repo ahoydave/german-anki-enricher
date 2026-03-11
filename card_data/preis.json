@@ -1,0 +1,20 @@
+{
+  "canonical": "Preis",
+  "word_type": "noun",
+  "article": "der",
+  "plural": "Preise",
+  "english": "price / prize / award",
+  "notes": "Has two main meanings: 1) the cost of something, 2) a prize or award won in a competition.",
+  "sentences": [
+    {
+      "german": "Der Preis für dieses Hemd ist zu hoch.",
+      "english": "The price of this shirt is too high.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Sie hat den ersten Preis im Wettbewerb gewonnen.",
+      "english": "She won first prize in the competition.",
+      "purpose": "meaning"
+    }
+  ]
+}

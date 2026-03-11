@@ -1,0 +1,19 @@
+{
+  "canonical": "heimlich",
+  "word_type": "adjective",
+  "english": "secret / secretive / covert / stealthy",
+  "adjective_forms": "heimlich, heimlicher, am heimlichsten",
+  "notes": "Can function as both adjective and adverb. As an adverb it means 'secretly' or 'in secret'. Not to be confused with 'das Heimliche' (the secret/mysterious). The English 'Heimlich maneuver' is unrelated in meaning.",
+  "sentences": [
+    {
+      "german": "Sie haben sich heimlich getroffen, ohne es jemandem zu sagen.",
+      "english": "They met secretly without telling anyone.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Er warf ihr einen heimlichen Blick zu.",
+      "english": "He gave her a secret glance.",
+      "purpose": "meaning"
+    }
+  ]
+}

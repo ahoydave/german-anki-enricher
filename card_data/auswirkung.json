@@ -1,0 +1,20 @@
+{
+  "canonical": "Auswirkung",
+  "word_type": "noun",
+  "article": "die",
+  "plural": "Auswirkungen",
+  "english": "effect / impact / consequence",
+  "notes": "Often used in plural. Commonly followed by 'auf + Akkusativ' to indicate what is affected.",
+  "sentences": [
+    {
+      "german": "Die Auswirkungen des Klimawandels sind überall zu spüren.",
+      "english": "The effects of climate change can be felt everywhere.",
+      "purpose": "present"
+    },
+    {
+      "german": "Diese Entscheidung hat große Auswirkungen auf unser Leben.",
+      "english": "This decision has a major impact on our lives.",
+      "purpose": "meaning"
+    }
+  ]
+}

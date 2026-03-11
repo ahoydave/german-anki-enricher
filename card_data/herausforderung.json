@@ -1,0 +1,20 @@
+{
+  "canonical": "Herausforderung",
+  "word_type": "noun",
+  "article": "die",
+  "plural": "Herausforderungen",
+  "english": "challenge / demand",
+  "notes": "Compound noun: heraus (out) + Forderung (demand/request). Often used in professional and personal contexts to describe a difficult but motivating task.",
+  "sentences": [
+    {
+      "german": "Das Erlernen einer neuen Sprache ist eine große Herausforderung.",
+      "english": "Learning a new language is a big challenge.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Die Herausforderungen im Beruf machen mir Spaß.",
+      "english": "The challenges at work are enjoyable for me.",
+      "purpose": "meaning"
+    }
+  ]
+}

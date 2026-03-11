@@ -1,0 +1,18 @@
+{
+  "canonical": "drin",
+  "word_type": "adverb",
+  "english": "in it / inside / in there",
+  "notes": "Colloquial short form of 'darin'. Used in spoken German to mean something is contained within or inside something. Also used in the phrase 'Das ist (nicht) drin' meaning 'That is (not) possible/feasible'.",
+  "sentences": [
+    {
+      "german": "Was ist drin in der Flasche?",
+      "english": "What is in the bottle?",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Das ist leider nicht drin – wir haben kein Budget dafür.",
+      "english": "That's unfortunately not possible – we don't have the budget for it.",
+      "purpose": "meaning"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "canonical": "doch",
+  "word_type": "adverb",
+  "english": "yes (contradicting a negative) / but / after all / surely / come on",
+  "notes": "A highly versatile modal particle. As a response particle, it contradicts a negative statement or question (e.g. 'Kommst du nicht?' – 'Doch!'). As a modal particle it adds emphasis, reassurance, or mild contradiction. Also used as a conjunction meaning 'but/however'.",
+  "sentences": [
+    {
+      "german": "Kommst du nicht mit? – Doch, natürlich komme ich mit!",
+      "english": "Aren't you coming along? – Yes, of course I am!",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Das ist doch nicht dein Ernst!",
+      "english": "You can't be serious! / Surely you're not serious!",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Er wollte nicht kommen, doch am Ende erschien er doch.",
+      "english": "He didn't want to come, but in the end he showed up after all.",
+      "purpose": "meaning"
+    }
+  ]
+}

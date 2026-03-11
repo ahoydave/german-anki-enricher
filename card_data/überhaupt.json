@@ -1,0 +1,18 @@
+{
+  "canonical": "überhaupt",
+  "word_type": "adverb",
+  "english": "at all / in general / anyway",
+  "notes": "Used in questions and negations to mean 'at all'; in affirmative contexts it can mean 'in general' or 'anyway'. Common in phrases like 'überhaupt nicht' (not at all) and 'überhaupt kein' (no ... at all).",
+  "sentences": [
+    {
+      "german": "Hast du überhaupt geschlafen?",
+      "english": "Did you sleep at all?",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Das interessiert mich überhaupt nicht.",
+      "english": "That doesn't interest me at all.",
+      "purpose": "meaning"
+    }
+  ]
+}

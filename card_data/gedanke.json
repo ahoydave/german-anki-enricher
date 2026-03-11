@@ -1,0 +1,20 @@
+{
+  "canonical": "Gedanke",
+  "word_type": "noun",
+  "english": "thought / idea",
+  "article": "der",
+  "plural": "Gedanken",
+  "notes": "Always weak noun in all cases except nominative singular: des Gedankens, dem Gedanken, den Gedanken.",
+  "sentences": [
+    {
+      "german": "Mir kam plötzlich ein guter Gedanke.",
+      "english": "A good thought suddenly came to me.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Sie verlor sich in ihren Gedanken.",
+      "english": "She lost herself in her thoughts.",
+      "purpose": "meaning"
+    }
+  ]
+}

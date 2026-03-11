@@ -1,0 +1,32 @@
+{
+  "canonical": "Kreislauf",
+  "word_type": "noun",
+  "article": "der",
+  "plural": "Kreisläufe",
+  "english": "circulation (blood) / cycle / circuit",
+  "notes": "Used for the blood circulation system, natural cycles (e.g. water cycle), and recurring processes.",
+  "sentences": [
+    {
+      "german": "Der Arzt sagte, mein Kreislauf ist zu niedrig.",
+      "english": "The doctor said my circulation is too low.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Der Kreislauf des Wassers ist ein wichtiger Teil der Natur.",
+      "english": "The water cycle is an important part of nature.",
+      "purpose": "meaning"
+    }
+  ],
+  "cloze_text": "{{c1::Der}} {{c2::Kreislauf}} des Wassers ist ein wichtiger Teil der Natur.\nNach dem Sport hatte sie Probleme mit ihren {{c3::Kreisläufen}}.",
+  "cloze_sentences": [
+    {
+      "text": "Beim Sport ist {{c1::der}} {{c2::Kreislauf}} sehr aktiv.",
+      "hint_c1": "the (article — der/die/das?)",
+      "hint_c2": "circulation/cycle (the word for Kreislauf)"
+    },
+    {
+      "text": "Nach der langen Reise hatte sie Probleme mit ihren {{c1::Kreisläufen}}.",
+      "hint_c1": "circulations/cycles (plural form)"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "canonical": "schießen",
+  "word_type": "verb",
+  "english": "to shoot / to kick (a ball) / to score (a goal)",
+  "is_reflexive": false,
+  "also_non_reflexive": false,
+  "perfekt": "hat geschossen",
+  "praeteritum": "schoss",
+  "verb_case": "akkusativ",
+  "prepositions": [
+    "schießen auf + akkusativ"
+  ],
+  "notes": "Strong verb with vowel change: schießen → schoss → geschossen. Used for shooting a weapon, kicking a ball, or scoring a goal.",
+  "sentences": [
+    {
+      "german": "Der Polizist schießt auf das Ziel.",
+      "english": "The police officer shoots at the target.",
+      "purpose": "present"
+    },
+    {
+      "german": "Der Stürmer hat ein Tor geschossen.",
+      "english": "The striker scored a goal.",
+      "purpose": "perfekt"
+    },
+    {
+      "german": "Die Soldaten schossen auf den Feind.",
+      "purpose": "meaning",
+      "english": "The soldiers shot at the enemy."
+    }
+  ],
+  "cloze_text": "Der Polizist {{c1::schießt}} auf das Ziel.\nDer Stürmer hat ein Tor {{c2::geschossen}}.\nDie Soldaten {{c3::schossen}} auf den Feind.\nDer Jäger schießt {{c4::auf}} den Wolf.",
+  "cloze_sentences": [
+    {
+      "text": "Der Polizist {{c1::schießt}} auf das Ziel.",
+      "hint": "shoots (he, present)"
+    },
+    {
+      "text": "Der Stürmer hat ein Tor {{c1::geschossen}}.",
+      "hint": "scored/shot (Perfekt participle)"
+    },
+    {
+      "text": "Die Soldaten {{c1::schossen}} auf den Feind.",
+      "hint": "shot (Präteritum)"
+    },
+    {
+      "text": "Der Jäger schießt {{c1::auf}} den Wolf.",
+      "hint": "at (preposition used with schießen)"
+    }
+  ]
+}

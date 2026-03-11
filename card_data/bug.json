@@ -1,0 +1,20 @@
+{
+  "canonical": "Bug",
+  "word_type": "noun",
+  "article": "der",
+  "plural": "Bugs",
+  "english": "bow (of a ship or aircraft) / bug (software error)",
+  "notes": "Two distinct meanings: 1) nautical/aviation term for the front of a ship or aircraft, 2) borrowed from English to mean a software bug. The plural 'Bugs' is used for both meanings.",
+  "sentences": [
+    {
+      "german": "Das Schiff wurde am Bug beschädigt.",
+      "english": "The ship was damaged at the bow.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Die Entwickler haben den Bug in der Software gefunden und behoben.",
+      "english": "The developers found and fixed the bug in the software.",
+      "purpose": "meaning"
+    }
+  ]
+}

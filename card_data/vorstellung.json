@@ -1,0 +1,37 @@
+{
+  "canonical": "Vorstellung",
+  "word_type": "noun",
+  "article": "die",
+  "plural": "Vorstellungen",
+  "english": "idea / imagination / performance / show / introduction (of oneself)",
+  "notes": "Has several distinct meanings: 1) a mental concept or idea, 2) a theatrical or cinema performance, 3) the act of introducing oneself (e.g. Vorstellungsgespräch = job interview).",
+  "sentences": [
+    {
+      "german": "Ich habe keine Vorstellung davon, wie schwierig das ist.",
+      "english": "I have no idea how difficult that is.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Die Vorstellung beginnt um 20 Uhr.",
+      "english": "The performance starts at 8 p.m.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Bei seiner Vorstellung hat er alle Kollegen beeindruckt.",
+      "english": "During his introduction, he impressed all his colleagues.",
+      "purpose": "meaning"
+    }
+  ],
+  "cloze_text": "Ich habe keine {{c1::die}} {{c2::Vorstellung}} davon, wie schwierig das ist.\nViele Menschen haben falsche {{c3::Vorstellungen}} davon, wie einfach das Leben im Ausland ist.",
+  "cloze_sentences": [
+    {
+      "text": "Von diesem Konzept habe ich {{c1::keine}} {{c2::Vorstellung}}.",
+      "hint_c1": "the article: keine (no/not a — which form fits here?)",
+      "hint_c2": "idea / concept (the word for Vorstellung)"
+    },
+    {
+      "text": "Viele Menschen haben falsche {{c1::Vorstellungen}} davon, wie einfach das Leben im Ausland ist.",
+      "hint_c1": "ideas / notions (plural form of Vorstellung)"
+    }
+  ]
+}

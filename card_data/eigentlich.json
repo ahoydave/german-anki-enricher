@@ -1,0 +1,19 @@
+{
+  "canonical": "eigentlich",
+  "word_type": "adverb",
+  "english": "actually / really / in fact",
+  "adjective_forms": "eigentlich, eigentlicher, am eigentlichsten",
+  "notes": "Can also be used as an adjective meaning 'actual' or 'real' (e.g. der eigentliche Grund = the actual reason). As an adverb, it often softens questions or expresses mild contradiction.",
+  "sentences": [
+    {
+      "german": "Eigentlich wollte ich heute früh aufstehen, aber ich habe verschlafen.",
+      "english": "Actually, I wanted to get up early today, but I overslept.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Was machst du eigentlich beruflich?",
+      "english": "What do you actually do for work?",
+      "purpose": "meaning"
+    }
+  ]
+}

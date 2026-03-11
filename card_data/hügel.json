@@ -1,0 +1,20 @@
+{
+  "canonical": "Hügel",
+  "word_type": "noun",
+  "article": "der",
+  "plural": "Hügel",
+  "english": "hill",
+  "notes": "The plural form is identical to the singular form.",
+  "sentences": [
+    {
+      "german": "Vom Hügel aus hat man einen schönen Blick auf das Tal.",
+      "english": "From the hill, you have a beautiful view of the valley.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Die Kinder liefen die Hügel hinauf und hinunter.",
+      "english": "The children ran up and down the hills.",
+      "purpose": "meaning"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical": "breit",
+  "word_type": "adjective",
+  "english": "wide / broad",
+  "adjective_forms": "breit, breiter, am breitesten",
+  "sentences": [
+    {
+      "german": "Die Straße ist sehr breit.",
+      "english": "The street is very wide.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Er hat breite Schultern.",
+      "english": "He has broad shoulders.",
+      "purpose": "meaning"
+    }
+  ]
+}

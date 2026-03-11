@@ -1,0 +1,31 @@
+{
+  "canonical": "ergänzen",
+  "word_type": "verb",
+  "english": "to supplement / to complement / to add to / to complete",
+  "is_reflexive": false,
+  "also_non_reflexive": false,
+  "perfekt": "hat ergänzt",
+  "praeteritum": "ergänzte",
+  "verb_case": "akkusativ",
+  "prepositions": [
+    "ergänzen um + akkusativ"
+  ],
+  "notes": "Can also be used reflexively (sich ergänzen) meaning 'to complement each other', but the primary and most common use is non-reflexive with an accusative object.",
+  "sentences": [
+    {
+      "german": "Kannst du bitte die fehlenden Informationen ergänzen?",
+      "english": "Can you please add the missing information?",
+      "purpose": "present"
+    },
+    {
+      "german": "Er hat seinen Bericht um einige wichtige Details ergänzt.",
+      "english": "He supplemented his report with some important details.",
+      "purpose": "perfekt"
+    },
+    {
+      "german": "Die beiden Kollegen ergänzen sich sehr gut.",
+      "english": "The two colleagues complement each other very well.",
+      "purpose": "preposition"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "canonical": "Gebäude",
+  "word_type": "noun",
+  "article": "das",
+  "plural": "Gebäude",
+  "english": "building / structure",
+  "notes": "The plural form is identical to the singular form.",
+  "sentences": [
+    {
+      "german": "Das Gebäude in der Stadtmitte ist sehr alt.",
+      "english": "The building in the city centre is very old.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Viele Gebäude in dieser Straße wurden renoviert.",
+      "english": "Many buildings on this street have been renovated.",
+      "purpose": "meaning"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical": "entlang",
+  "word_type": "preposition",
+  "english": "along",
+  "notes": "Can be used before or after the noun. When used after the noun, it takes the accusative (den Fluss entlang). When used before the noun, it takes the dative (entlang dem Fluss). The postpositive accusative usage is more common in everyday speech.",
+  "sentences": [
+    {
+      "german": "Wir gehen den Fluss entlang.",
+      "english": "We walk along the river.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Er joggt jeden Morgen die Straße entlang.",
+      "english": "He jogs along the street every morning.",
+      "purpose": "meaning"
+    }
+  ]
+}

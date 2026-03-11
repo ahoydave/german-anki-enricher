@@ -1,0 +1,20 @@
+{
+  "canonical": "Tätigkeit",
+  "word_type": "noun",
+  "english": "activity / occupation / work",
+  "article": "die",
+  "plural": "Tätigkeiten",
+  "notes": "Refers to an activity, job, or occupation. Often used in formal or professional contexts.",
+  "sentences": [
+    {
+      "german": "Sie übt ihre Tätigkeit als Ärztin seit zehn Jahren aus.",
+      "english": "She has been working in her occupation as a doctor for ten years.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Körperliche Tätigkeiten halten den Körper fit.",
+      "english": "Physical activities keep the body fit.",
+      "purpose": "meaning"
+    }
+  ]
+}

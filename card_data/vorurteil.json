@@ -1,0 +1,20 @@
+{
+  "canonical": "Vorurteil",
+  "word_type": "noun",
+  "article": "das",
+  "plural": "Vorurteile",
+  "english": "prejudice / bias / preconception",
+  "notes": "Compound noun: 'vor' (before) + 'Urteil' (judgment). Refers to a preconceived opinion not based on reason or experience.",
+  "sentences": [
+    {
+      "german": "Er hat ein Vorurteil gegen Menschen aus anderen Ländern.",
+      "english": "He has a prejudice against people from other countries.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Wir müssen unsere Vorurteile überwinden, um offen miteinander umzugehen.",
+      "english": "We must overcome our prejudices in order to interact openly with one another.",
+      "purpose": "meaning"
+    }
+  ]
+}

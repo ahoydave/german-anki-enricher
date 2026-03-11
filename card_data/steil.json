@@ -1,0 +1,18 @@
+{
+  "canonical": "steil",
+  "word_type": "adjective",
+  "english": "steep / (slang) cool, awesome",
+  "adjective_forms": "steil, steiler, am steilsten",
+  "sentences": [
+    {
+      "german": "Der Weg zum Gipfel ist sehr steil.",
+      "english": "The path to the summit is very steep.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Das ist eine steile These!",
+      "english": "That's a bold/wild claim!",
+      "purpose": "meaning"
+    }
+  ]
+}

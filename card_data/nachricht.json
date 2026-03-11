@@ -1,0 +1,20 @@
+{
+  "canonical": "Nachricht",
+  "word_type": "noun",
+  "article": "die",
+  "plural": "Nachrichten",
+  "english": "message / news",
+  "notes": "Used both for a personal message (e.g. text or email) and for news (usually plural: die Nachrichten).",
+  "sentences": [
+    {
+      "german": "Ich habe dir eine Nachricht geschickt, aber du hast nicht geantwortet.",
+      "english": "I sent you a message, but you didn't reply.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Die Nachrichten heute Abend waren sehr beunruhigend.",
+      "english": "The news this evening was very alarming.",
+      "purpose": "meaning"
+    }
+  ]
+}

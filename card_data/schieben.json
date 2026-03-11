@@ -1,0 +1,31 @@
+{
+  "canonical": "schieben",
+  "word_type": "verb",
+  "english": "to push / to shove / to slide",
+  "is_reflexive": false,
+  "also_non_reflexive": false,
+  "perfekt": "hat geschoben",
+  "praeteritum": "schob",
+  "verb_case": "akkusativ",
+  "prepositions": [
+    "schieben auf + akkusativ"
+  ],
+  "notes": "Strong verb with vowel change: schieben – schob – geschoben. Can also mean to delay/postpone something (etwas auf später schieben).",
+  "sentences": [
+    {
+      "german": "Er schiebt den schweren Tisch zur Seite.",
+      "english": "He pushes the heavy table to the side.",
+      "purpose": "present"
+    },
+    {
+      "german": "Die Kinder haben den Schlitten den Hügel hinauf geschoben.",
+      "english": "The children pushed the sled up the hill.",
+      "purpose": "perfekt"
+    },
+    {
+      "german": "Er schiebt die Schuld immer auf andere.",
+      "english": "He always shifts the blame onto others.",
+      "purpose": "preposition"
+    }
+  ]
+}

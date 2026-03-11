@@ -1,0 +1,20 @@
+{
+  "canonical": "Nutzung",
+  "word_type": "noun",
+  "article": "die",
+  "plural": "Nutzungen",
+  "english": "use / usage / utilization",
+  "notes": "Refers to the act or process of using something, often in formal or technical contexts.",
+  "sentences": [
+    {
+      "german": "Die Nutzung des Internets ist heutzutage selbstverständlich.",
+      "english": "The use of the internet is taken for granted nowadays.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Die Nutzung erneuerbarer Energien nimmt weltweit zu.",
+      "english": "The utilization of renewable energies is increasing worldwide.",
+      "purpose": "meaning"
+    }
+  ]
+}

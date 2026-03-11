@@ -1,0 +1,28 @@
+{
+  "canonical": "kriegen",
+  "word_type": "verb",
+  "english": "to get / to receive / to catch",
+  "is_reflexive": false,
+  "also_non_reflexive": false,
+  "perfekt": "hat gekriegt",
+  "praeteritum": "kriegte",
+  "verb_case": "akkusativ",
+  "notes": "Colloquial synonym for 'bekommen' (to get/receive). Also used in the sense of 'to catch' someone or something. Very common in spoken German.",
+  "sentences": [
+    {
+      "german": "Ich kriege heute ein Paket geliefert.",
+      "english": "I'm getting a package delivered today.",
+      "purpose": "present"
+    },
+    {
+      "german": "Sie hat endlich den Job gekriegt, den sie wollte.",
+      "english": "She finally got the job she wanted.",
+      "purpose": "perfekt"
+    },
+    {
+      "german": "Die Polizei hat den Dieb gekriegt.",
+      "english": "The police caught the thief.",
+      "purpose": "meaning"
+    }
+  ]
+}

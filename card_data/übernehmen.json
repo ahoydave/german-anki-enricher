@@ -1,0 +1,50 @@
+{
+  "canonical": "übernehmen",
+  "word_type": "verb",
+  "english": "to take over / to take on / to adopt / to assume (responsibility, role, task)",
+  "is_reflexive": false,
+  "also_non_reflexive": false,
+  "perfekt": "hat übernommen",
+  "praeteritum": "übernahm",
+  "verb_case": "akkusativ",
+  "prepositions": [
+    "übernehmen von + dativ"
+  ],
+  "notes": "Separable prefix verb: 'über-' is inseparable here (untrennbar). Can also be used reflexively as 'sich übernehmen' meaning 'to overextend oneself / to take on too much'.",
+  "sentences": [
+    {
+      "german": "Sie übernimmt die Leitung des Projekts ab nächster Woche.",
+      "english": "She is taking over the management of the project from next week.",
+      "purpose": "present"
+    },
+    {
+      "german": "Er hat die Firma von seinem Vater übernommen.",
+      "english": "He took over the company from his father.",
+      "purpose": "perfekt"
+    },
+    {
+      "german": "Die neue Regierung hat viele Gesetze von der alten übernommen.",
+      "english": "The new government adopted many laws from the old one.",
+      "purpose": "meaning"
+    }
+  ],
+  "cloze_text": "Sie {{c1::übernimmt}} die Leitung des Projekts ab nächster Woche.\nEr hat die Firma von seinem Vater {{c2::übernommen}}.\nDie neue Regierung {{c3::übernahm}} viele Gesetze von der alten.\nEr hat das Auto {{c4::von}} seinem Bruder übernommen.",
+  "cloze_sentences": [
+    {
+      "text": "Sie {{c1::übernimmt}} die Leitung des Projekts ab nächster Woche.",
+      "hint": "takes over (she, present)"
+    },
+    {
+      "text": "Er hat die Firma von seinem Vater {{c1::übernommen}}.",
+      "hint": "taken over (Perfekt participle)"
+    },
+    {
+      "text": "Die neue Regierung {{c1::übernahm}} viele Gesetze von der alten.",
+      "hint": "adopted (Präteritum)"
+    },
+    {
+      "text": "Er hat das Auto {{c1::von}} seinem Bruder übernommen.",
+      "hint": "from (preposition used with übernehmen to indicate the source)"
+    }
+  ]
+}

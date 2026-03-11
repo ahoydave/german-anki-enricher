@@ -1,0 +1,18 @@
+{
+  "canonical": "mutig",
+  "word_type": "adjective",
+  "english": "brave / courageous / bold",
+  "adjective_forms": "mutig, mutiger, am mutigsten",
+  "sentences": [
+    {
+      "german": "Der mutige Feuerwehrmann rettete das Kind aus dem brennenden Haus.",
+      "english": "The brave firefighter rescued the child from the burning house.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Sie hat sehr mutig gehandelt, als sie dem Fremden geholfen hat.",
+      "english": "She acted very bravely when she helped the stranger.",
+      "purpose": "meaning"
+    }
+  ]
+}

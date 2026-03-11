@@ -1,0 +1,20 @@
+{
+  "canonical": "Scheibe",
+  "word_type": "noun",
+  "article": "die",
+  "plural": "Scheiben",
+  "english": "slice (of bread, etc.) / disc / pane (of glass)",
+  "notes": "Has multiple common meanings: a slice of food, a flat round disc, or a pane of glass (e.g. Fensterscheibe).",
+  "sentences": [
+    {
+      "german": "Kannst du mir bitte zwei Scheiben Brot schneiden?",
+      "english": "Can you please cut me two slices of bread?",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Die Scheibe des Autofensters ist gesprungen.",
+      "english": "The car window pane has cracked.",
+      "purpose": "meaning"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "canonical": "Selbstoptimierung",
+  "word_type": "noun",
+  "article": "die",
+  "plural": "Selbstoptimierungen",
+  "english": "self-optimization / self-improvement",
+  "notes": "A compound noun: 'selbst' (self) + 'Optimierung' (optimization). Often used in the context of productivity culture, personal development, or critical discourse about modern society.",
+  "sentences": [
+    {
+      "german": "Viele Menschen streben nach Selbstoptimierung, um produktiver und erfolgreicher zu werden.",
+      "english": "Many people strive for self-optimization in order to become more productive and successful.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Kritiker warnen davor, dass der Drang zur Selbstoptimierung auch Stress und Unzufriedenheit verursachen kann.",
+      "english": "Critics warn that the urge for self-optimization can also cause stress and dissatisfaction.",
+      "purpose": "meaning"
+    }
+  ]
+}

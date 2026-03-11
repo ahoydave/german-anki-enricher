@@ -1,0 +1,29 @@
+{
+  "canonical": "vorhersagen",
+  "word_type": "verb",
+  "english": "to predict / to forecast",
+  "is_reflexive": false,
+  "also_non_reflexive": false,
+  "perfekt": "hat vorhergesagt",
+  "praeteritum": "sagte vorher",
+  "verb_case": "akkusativ",
+  "prepositions": [],
+  "notes": "Separable verb (vor-her-sagen). The prefix 'vorher' separates in main clauses: 'Ich sage das Wetter vorher.'",
+  "sentences": [
+    {
+      "german": "Die Meteorologen sagen für morgen starken Regen vorher.",
+      "english": "The meteorologists are predicting heavy rain for tomorrow.",
+      "purpose": "present"
+    },
+    {
+      "german": "Niemand hat vorhergesagt, dass die Aktien so schnell steigen würden.",
+      "english": "Nobody had predicted that the stocks would rise so quickly.",
+      "purpose": "perfekt"
+    },
+    {
+      "german": "Es ist schwer, das Ergebnis einer Wahl vorherzusagen.",
+      "english": "It is difficult to predict the outcome of an election.",
+      "purpose": "meaning"
+    }
+  ]
+}

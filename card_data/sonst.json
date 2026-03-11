@@ -1,0 +1,18 @@
+{
+  "canonical": "sonst",
+  "word_type": "adverb",
+  "english": "otherwise / else / usually / apart from that",
+  "notes": "Used in multiple ways: (1) 'otherwise/or else' to express a consequence, (2) 'usually/normally' referring to habitual behaviour, (3) 'else/apart from that' meaning 'in other respects'.",
+  "sentences": [
+    {
+      "german": "Beeil dich, sonst verpassen wir den Zug.",
+      "english": "Hurry up, otherwise we'll miss the train.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Sonst trinke ich morgens immer Kaffee, aber heute hatte ich keine Zeit.",
+      "english": "I usually always drink coffee in the morning, but today I had no time.",
+      "purpose": "meaning"
+    }
+  ]
+}

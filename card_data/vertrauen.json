@@ -1,0 +1,25 @@
+{
+  "canonical": "Vertrauen",
+  "word_type": "noun",
+  "english": "trust / confidence / faith",
+  "article": "das",
+  "plural": "—",
+  "notes": "Uncountable noun; no plural form. Can also be used as a verb (vertrauen + dativ).",
+  "sentences": [
+    {
+      "german": "Das Vertrauen zwischen den beiden Freunden ist sehr stark.",
+      "english": "The trust between the two friends is very strong.",
+      "purpose": "present"
+    },
+    {
+      "german": "Sie hat das Vertrauen ihrer Kollegen verloren.",
+      "english": "She has lost the trust of her colleagues.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Es braucht Zeit, um Vertrauen aufzubauen.",
+      "english": "It takes time to build trust.",
+      "purpose": "meaning"
+    }
+  ]
+}

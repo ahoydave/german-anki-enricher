@@ -1,0 +1,13 @@
+{
+  "canonical": "auf jeden Fall",
+  "word_type": "phrase",
+  "english": "definitely / in any case / by all means",
+  "notes": "Fixed adverbial phrase used to express certainty or strong affirmation. Can also mean 'no matter what' or 'at any rate'.",
+  "sentences": [
+    {
+      "german": "Ich komme auf jeden Fall zur Party.",
+      "english": "I will definitely come to the party.",
+      "purpose": "meaning"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "canonical": "Ufer",
+  "word_type": "noun",
+  "article": "das",
+  "plural": "Ufer",
+  "english": "bank (of a river) / shore (of a lake or sea)",
+  "notes": "The plural form is identical to the singular: das Ufer / die Ufer.",
+  "sentences": [
+    {
+      "german": "Wir saßen am Ufer des Flusses und schauten dem Wasser zu.",
+      "english": "We sat on the bank of the river and watched the water.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Nach der langen Fahrt erreichten wir endlich das andere Ufer des Sees.",
+      "english": "After the long journey, we finally reached the other shore of the lake.",
+      "purpose": "meaning"
+    }
+  ]
+}

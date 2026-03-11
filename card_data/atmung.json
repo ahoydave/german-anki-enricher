@@ -1,0 +1,20 @@
+{
+  "canonical": "Atmung",
+  "word_type": "noun",
+  "article": "die",
+  "plural": "Atmungen",
+  "english": "breathing / respiration",
+  "notes": "Mostly used in singular. 'Atmungen' is rare and used in medical/technical contexts.",
+  "sentences": [
+    {
+      "german": "Die Atmung des Patienten war flach und unregelmäßig.",
+      "english": "The patient's breathing was shallow and irregular.",
+      "purpose": "present"
+    },
+    {
+      "german": "Tiefe Atmung kann helfen, Stress abzubauen.",
+      "english": "Deep breathing can help reduce stress.",
+      "purpose": "meaning"
+    }
+  ]
+}

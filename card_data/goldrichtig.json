@@ -1,0 +1,19 @@
+{
+  "canonical": "goldrichtig",
+  "word_type": "adjective",
+  "english": "absolutely right / spot on / dead right",
+  "adjective_forms": "goldrichtig, —, —",
+  "notes": "Used only predicatively or as an adverb; no comparative or superlative forms in common use. It emphasizes that something is completely and perfectly correct.",
+  "sentences": [
+    {
+      "german": "Deine Entscheidung war goldrichtig.",
+      "english": "Your decision was absolutely right.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Du liegst goldrichtig mit deiner Einschätzung.",
+      "english": "You are spot on with your assessment.",
+      "purpose": "meaning"
+    }
+  ]
+}

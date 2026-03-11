@@ -1,0 +1,32 @@
+{
+  "canonical": "fassen",
+  "word_type": "verb",
+  "english": "to grasp / to seize / to hold / to comprehend / to contain",
+  "is_reflexive": false,
+  "also_non_reflexive": false,
+  "perfekt": "hat gefasst",
+  "praeteritum": "fasste",
+  "verb_case": "akkusativ",
+  "prepositions": [
+    "fassen nach + dativ",
+    "fassen an + akkusativ"
+  ],
+  "notes": "Has many meanings: physically grabbing something, mentally comprehending something, or a container holding a certain amount. Also used in fixed expressions like 'einen Entschluss fassen' (to make a decision) and 'Mut fassen' (to pluck up courage).",
+  "sentences": [
+    {
+      "german": "Die Polizistin fasste den Verdächtigen am Arm.",
+      "english": "The police officer grabbed the suspect by the arm.",
+      "purpose": "present"
+    },
+    {
+      "german": "Er hat endlich einen Entschluss gefasst.",
+      "english": "He has finally made a decision.",
+      "purpose": "perfekt"
+    },
+    {
+      "german": "Ich kann es kaum fassen, dass wir gewonnen haben.",
+      "english": "I can hardly comprehend that we won.",
+      "purpose": "meaning"
+    }
+  ]
+}

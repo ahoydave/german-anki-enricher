@@ -1,0 +1,19 @@
+{
+  "canonical": "lieb",
+  "word_type": "adjective",
+  "english": "dear / kind / sweet / beloved",
+  "adjective_forms": "lieb, lieber, am liebsten",
+  "notes": "Used as a term of endearment or to describe someone kind and sweet. Also used in letter salutations (Liebe/Lieber). The superlative 'am liebsten' is commonly used to express preference (ich hätte am liebsten...).",
+  "sentences": [
+    {
+      "german": "Sie ist ein liebes Kind und hilft immer gerne.",
+      "english": "She is a sweet child and always likes to help.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Liebe Maria, ich schreibe dir aus Berlin.",
+      "english": "Dear Maria, I am writing to you from Berlin.",
+      "purpose": "meaning"
+    }
+  ]
+}

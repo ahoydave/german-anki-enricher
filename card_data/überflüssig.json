@@ -1,0 +1,18 @@
+{
+  "canonical": "überflüssig",
+  "word_type": "adjective",
+  "english": "superfluous / unnecessary / redundant",
+  "adjective_forms": "überflüssig, überflüssiger, am überflüssigsten",
+  "sentences": [
+    {
+      "german": "Diese Erklärung ist völlig überflüssig, weil alle es schon wissen.",
+      "english": "This explanation is completely unnecessary, because everyone already knows it.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Er kauft immer überflüssige Dinge, die er nie benutzt.",
+      "english": "He always buys superfluous things that he never uses.",
+      "purpose": "meaning"
+    }
+  ]
+}

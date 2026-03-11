@@ -1,0 +1,18 @@
+{
+  "canonical": "hinein",
+  "word_type": "adverb",
+  "english": "into (it) / in (direction inward)",
+  "notes": "Directional adverb indicating movement toward the inside of something. Often used as a separable prefix in verbs like 'hineingehen', 'hineinkommen', 'hineinlegen'. Contrasts with 'herein' (movement toward the speaker) vs. 'hinein' (movement away from the speaker, into something).",
+  "sentences": [
+    {
+      "german": "Er öffnete die Tür und ging hinein.",
+      "english": "He opened the door and went inside.",
+      "purpose": "present"
+    },
+    {
+      "german": "Sie hat die Schlüssel in die Tasche hineingesteckt.",
+      "english": "She put the keys into the bag.",
+      "purpose": "perfekt"
+    }
+  ]
+}

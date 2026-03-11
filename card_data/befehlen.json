@@ -1,0 +1,47 @@
+{
+  "canonical": "befehlen",
+  "word_type": "verb",
+  "english": "to command / to order",
+  "is_reflexive": false,
+  "also_non_reflexive": false,
+  "perfekt": "hat befohlen",
+  "praeteritum": "befahl",
+  "verb_case": "dativ",
+  "notes": "Strong verb (befehlen – befahl – befohlen). Takes dative for the person receiving the command and accusative for the thing commanded. Often used in military or authoritative contexts.",
+  "sentences": [
+    {
+      "german": "Der General befiehlt seinen Soldaten, sofort anzuhalten.",
+      "english": "The general orders his soldiers to stop immediately.",
+      "purpose": "present"
+    },
+    {
+      "german": "Der Offizier hat dem Trupp befohlen, das Gebäude zu verlassen.",
+      "english": "The officer ordered the squad to leave the building.",
+      "purpose": "perfekt"
+    },
+    {
+      "german": "Niemand kann mir befehlen, was ich tun soll.",
+      "english": "Nobody can order me what to do.",
+      "purpose": "meaning"
+    }
+  ],
+  "cloze_text": "Der General {{c1::befiehlt}} seinen Soldaten, sofort anzuhalten.\nDer Offizier hat dem Trupp {{c2::befohlen}}, das Gebäude zu verlassen.\nDer König {{c3::befahl}} seinen Rittern, die Stadt zu schützen.\nNiemand kann mir {{c4::befehlen}}, was ich tun soll.",
+  "cloze_sentences": [
+    {
+      "text": "Der General {{c1::befiehlt}} seinen Soldaten, sofort anzuhalten.",
+      "hint": "commands/orders (he, present)"
+    },
+    {
+      "text": "Der Offizier hat dem Trupp {{c1::befohlen}}, das Gebäude zu verlassen.",
+      "hint": "ordered (Perfekt participle)"
+    },
+    {
+      "text": "Der König {{c1::befahl}} seinen Rittern, die Stadt zu schützen.",
+      "hint": "ordered (Präteritum)"
+    },
+    {
+      "text": "Niemand kann mir {{c1::befehlen}}, was ich tun soll.",
+      "hint": "to command/order (infinitive — meaning focus)"
+    }
+  ]
+}

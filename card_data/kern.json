@@ -1,0 +1,25 @@
+{
+  "canonical": "Kern",
+  "word_type": "noun",
+  "article": "der",
+  "plural": "Kerne",
+  "english": "core / nucleus / kernel / seed / pit",
+  "notes": "Can refer to the core of a fruit (e.g. apple core, cherry pit), the nucleus of an atom, or figuratively the core/essence of something.",
+  "sentences": [
+    {
+      "german": "Der Kern des Apfels ist nicht essbar.",
+      "english": "The core of the apple is not edible.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Die Kerne der Kirschen sind sehr hart.",
+      "english": "The pits of the cherries are very hard.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Das ist der Kern des Problems.",
+      "english": "That is the core of the problem.",
+      "purpose": "meaning"
+    }
+  ]
+}

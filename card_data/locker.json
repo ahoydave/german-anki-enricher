@@ -1,0 +1,18 @@
+{
+  "canonical": "locker",
+  "word_type": "adjective",
+  "english": "loose / relaxed / casual / easy",
+  "adjective_forms": "locker, lockerer, am lockersten",
+  "sentences": [
+    {
+      "german": "Die Schraube ist locker und muss festgezogen werden.",
+      "english": "The screw is loose and needs to be tightened.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Er geht sehr locker mit Stress um.",
+      "english": "He deals with stress in a very relaxed way.",
+      "purpose": "meaning"
+    }
+  ]
+}

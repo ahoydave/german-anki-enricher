@@ -1,0 +1,27 @@
+{
+  "canonical": "brennen",
+  "word_type": "verb",
+  "english": "to burn / to be on fire / to sting / to distill (spirits)",
+  "is_reflexive": false,
+  "also_non_reflexive": false,
+  "perfekt": "hat gebrannt",
+  "praeteritum": "brannte",
+  "verb_case": "null",
+  "sentences": [
+    {
+      "german": "Das Lagerfeuer brennt die ganze Nacht.",
+      "english": "The campfire burns all night.",
+      "purpose": "present"
+    },
+    {
+      "german": "Das alte Haus hat letzte Nacht gebrannt.",
+      "english": "The old house burned last night.",
+      "purpose": "perfekt"
+    },
+    {
+      "german": "Meine Augen brennen vom Rauch.",
+      "english": "My eyes are stinging from the smoke.",
+      "purpose": "meaning"
+    }
+  ]
+}

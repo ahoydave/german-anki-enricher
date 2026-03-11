@@ -1,0 +1,20 @@
+{
+  "canonical": "Beobachtung",
+  "word_type": "noun",
+  "article": "die",
+  "plural": "Beobachtungen",
+  "english": "observation / watching / finding",
+  "notes": "Derived from the verb 'beobachten' (to observe). Used in scientific, everyday, and official contexts.",
+  "sentences": [
+    {
+      "german": "Der Wissenschaftler notierte seine Beobachtungen in einem Heft.",
+      "english": "The scientist noted his observations in a notebook.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Die Polizei hat den Verdächtigen unter Beobachtung gestellt.",
+      "english": "The police placed the suspect under surveillance.",
+      "purpose": "meaning"
+    }
+  ]
+}

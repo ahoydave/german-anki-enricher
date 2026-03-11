@@ -1,0 +1,24 @@
+{
+  "canonical": "festigen",
+  "word_type": "verb",
+  "english": "to strengthen / to consolidate / to reinforce",
+  "is_reflexive": false,
+  "also_non_reflexive": false,
+  "perfekt": "hat gefestigt",
+  "praeteritum": "festigte",
+  "verb_case": "akkusativ",
+  "prepositions": [],
+  "notes": "Can also be used reflexively as 'sich festigen' meaning 'to become stronger/more stable' (e.g. Die Lage festigt sich = The situation is stabilising).",
+  "sentences": [
+    {
+      "german": "Regelmäßiges Training festigt die Muskeln.",
+      "english": "Regular training strengthens the muscles.",
+      "purpose": "present"
+    },
+    {
+      "german": "Die neue Politik hat die Demokratie im Land gefestigt.",
+      "english": "The new policy has consolidated democracy in the country.",
+      "purpose": "perfekt"
+    }
+  ]
+}

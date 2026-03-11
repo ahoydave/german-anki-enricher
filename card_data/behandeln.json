@@ -1,0 +1,31 @@
+{
+  "canonical": "behandeln",
+  "word_type": "verb",
+  "english": "to treat / to handle / to deal with",
+  "is_reflexive": false,
+  "also_non_reflexive": false,
+  "perfekt": "hat behandelt",
+  "praeteritum": "behandelte",
+  "verb_case": "akkusativ",
+  "prepositions": [
+    "behandeln wie + akkusativ"
+  ],
+  "notes": "Can mean to treat a person (medically or in terms of behavior), or to deal with a topic.",
+  "sentences": [
+    {
+      "german": "Der Arzt behandelt den Patienten mit neuen Medikamenten.",
+      "english": "The doctor is treating the patient with new medication.",
+      "purpose": "present"
+    },
+    {
+      "german": "Die Lehrerin hat das Thema ausführlich behandelt.",
+      "english": "The teacher dealt with the topic in detail.",
+      "purpose": "perfekt"
+    },
+    {
+      "german": "Er behandelt seine Mitarbeiter immer wie Erwachsene.",
+      "english": "He always treats his employees like adults.",
+      "purpose": "preposition"
+    }
+  ]
+}

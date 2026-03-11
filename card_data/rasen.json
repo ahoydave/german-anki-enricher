@@ -1,0 +1,28 @@
+{
+  "canonical": "rasen",
+  "word_type": "verb",
+  "english": "to race / to speed / to rush",
+  "is_reflexive": false,
+  "also_non_reflexive": false,
+  "perfekt": "ist gerast",
+  "praeteritum": "raste",
+  "verb_case": "null",
+  "notes": "Also a noun: 'der Rasen' (the lawn/grass). As a verb, 'rasen' means to move very fast or to act wildly. Uses 'sein' in Perfekt because it indicates movement.",
+  "sentences": [
+    {
+      "german": "Das Auto rast mit 200 km/h über die Autobahn.",
+      "english": "The car races along the motorway at 200 km/h.",
+      "purpose": "present"
+    },
+    {
+      "german": "Der Fahrer ist durch die Stadt gerast und hat eine rote Ampel überfahren.",
+      "english": "The driver raced through the city and ran a red light.",
+      "purpose": "perfekt"
+    },
+    {
+      "german": "Mein Herz rast vor Aufregung.",
+      "english": "My heart is racing with excitement.",
+      "purpose": "meaning"
+    }
+  ]
+}

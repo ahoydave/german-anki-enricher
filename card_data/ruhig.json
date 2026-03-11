@@ -1,0 +1,29 @@
+{
+  "canonical": "ruhig",
+  "word_type": "adjective",
+  "english": "calm / quiet / peaceful",
+  "adjective_forms": "ruhig, ruhiger, am ruhigsten",
+  "sentences": [
+    {
+      "german": "Das Kind schläft ruhig in seinem Bett.",
+      "english": "The child is sleeping peacefully in its bed.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "In diesem ruhigen Dorf gibt es kaum Verkehr.",
+      "english": "In this quiet village there is hardly any traffic.",
+      "purpose": "meaning"
+    }
+  ],
+  "cloze_text": "Das Kind schläft {{c1::ruhig}} in seinem Bett.\nIn diesem {{c2::ruhigen}} Dorf gibt es kaum Verkehr.",
+  "cloze_sentences": [
+    {
+      "text": "Das Kind schläft {{c1::ruhig}} in seinem Bett.",
+      "hint": "calm / peaceful (adverbial form)"
+    },
+    {
+      "text": "Nach dem langen Tag war die Nacht sehr {{c1::ruhig}}.",
+      "hint": "calm / quiet (predicative form)"
+    }
+  ]
+}

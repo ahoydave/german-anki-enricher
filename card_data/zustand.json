@@ -1,0 +1,25 @@
+{
+  "canonical": "Zustand",
+  "word_type": "noun",
+  "article": "der",
+  "plural": "Zustände",
+  "english": "state / condition / situation",
+  "notes": "Common in many contexts: physical condition, mental state, technical state. The plural 'Zustände' can also mean 'terrible conditions' or 'chaos' in colloquial use.",
+  "sentences": [
+    {
+      "german": "Das Auto ist in einem schlechten Zustand.",
+      "english": "The car is in a bad condition.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Der Patient befindet sich in einem stabilen Zustand.",
+      "english": "The patient is in a stable condition.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Die Zustände in dem alten Gebäude sind unhaltbar.",
+      "english": "The conditions in the old building are untenable.",
+      "purpose": "present"
+    }
+  ]
+}

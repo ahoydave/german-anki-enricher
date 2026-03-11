@@ -1,0 +1,27 @@
+{
+  "canonical": "klingen",
+  "word_type": "verb",
+  "english": "to sound / to ring",
+  "is_reflexive": false,
+  "also_non_reflexive": false,
+  "perfekt": "hat geklungen",
+  "praeteritum": "klang",
+  "verb_case": "null",
+  "sentences": [
+    {
+      "german": "Das klingt wie eine gute Idee.",
+      "english": "That sounds like a good idea.",
+      "purpose": "present"
+    },
+    {
+      "german": "Ihre Stimme hat sehr müde geklungen.",
+      "english": "Her voice sounded very tired.",
+      "purpose": "perfekt"
+    },
+    {
+      "german": "Die Musik klingt wunderschön.",
+      "english": "The music sounds wonderful.",
+      "purpose": "present"
+    }
+  ]
+}

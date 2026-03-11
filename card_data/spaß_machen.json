@@ -1,0 +1,13 @@
+{
+  "canonical": "Spaß machen",
+  "word_type": "phrase",
+  "english": "to be fun / to make fun",
+  "notes": "Common phrase used to express that something is enjoyable. 'Spaß machen' can mean either 'to be fun' (es macht Spaß) or 'to joke/kid' (ich mache nur Spaß). Often used impersonally with 'es'.",
+  "sentences": [
+    {
+      "german": "Das Spielen mit Freunden macht wirklich Spaß.",
+      "english": "Playing with friends is really fun.",
+      "purpose": "present"
+    }
+  ]
+}

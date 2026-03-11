@@ -1,0 +1,50 @@
+{
+  "canonical": "erkennen",
+  "word_type": "verb",
+  "english": "to recognize / to identify / to realize / to detect",
+  "is_reflexive": false,
+  "also_non_reflexive": false,
+  "perfekt": "hat erkannt",
+  "praeteritum": "erkannte",
+  "verb_case": "akkusativ",
+  "prepositions": [
+    "erkennen an + dativ"
+  ],
+  "notes": "Separable prefix verb: 'er-' is inseparable. Can mean both recognizing something already known and realizing/understanding something new.",
+  "sentences": [
+    {
+      "german": "Ich erkenne ihn sofort an seiner Stimme.",
+      "english": "I recognize him immediately by his voice.",
+      "purpose": "present"
+    },
+    {
+      "german": "Sie hat das Problem rechtzeitig erkannt.",
+      "english": "She recognized the problem in time.",
+      "purpose": "perfekt"
+    },
+    {
+      "german": "Man kann die Qualität an der Farbe erkennen.",
+      "english": "You can tell the quality by the colour.",
+      "purpose": "preposition"
+    }
+  ],
+  "cloze_text": "Er {{c1::erkennt}} seinen Freund sofort an der Stimme.\nSie hat das Problem rechtzeitig {{c2::erkannt}}.\nIch {{c3::erkannte}} ihn sofort, als er ins Zimmer kam.\nMan kann die Qualität {{c4::an}} der Farbe erkennen.",
+  "cloze_sentences": [
+    {
+      "text": "Er {{c1::erkennt}} seinen Freund sofort an der Stimme.",
+      "hint": "recognizes (he, present)"
+    },
+    {
+      "text": "Sie hat das Problem rechtzeitig {{c1::erkannt}}.",
+      "hint": "recognized (Perfekt participle)"
+    },
+    {
+      "text": "Ich {{c1::erkannte}} ihn sofort, als er ins Zimmer kam.",
+      "hint": "recognized (Präteritum)"
+    },
+    {
+      "text": "Man kann die Qualität {{c1::an}} der Farbe erkennen.",
+      "hint": "by/an (preposition used with erkennen to indicate a distinguishing feature)"
+    }
+  ]
+}

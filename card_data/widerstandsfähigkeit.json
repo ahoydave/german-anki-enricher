@@ -1,0 +1,20 @@
+{
+  "canonical": "Widerstandsfähigkeit",
+  "word_type": "noun",
+  "article": "die",
+  "plural": "Widerstandsfähigkeiten",
+  "english": "resilience / resistance / robustness",
+  "notes": "Compound noun: Widerstand (resistance) + Fähigkeit (ability/capacity). Often used in contexts of physical, psychological, or ecological resilience. The plural is rarely used.",
+  "sentences": [
+    {
+      "german": "Die Widerstandsfähigkeit des Immunsystems kann durch gesunde Ernährung gestärkt werden.",
+      "english": "The resilience of the immune system can be strengthened through healthy eating.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Nach der Krise zeigte die Bevölkerung eine bemerkenswerte Widerstandsfähigkeit.",
+      "english": "After the crisis, the population showed remarkable resilience.",
+      "purpose": "meaning"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "canonical": "Wettervorhersage",
+  "word_type": "noun",
+  "english": "weather forecast",
+  "article": "die",
+  "plural": "Wettervorhersagen",
+  "notes": "Compound noun: Wetter (weather) + Vorhersage (forecast/prediction). Synonym: Wetterprognose.",
+  "sentences": [
+    {
+      "german": "Laut der Wettervorhersage soll es morgen regnen.",
+      "english": "According to the weather forecast, it is supposed to rain tomorrow.",
+      "purpose": "present"
+    },
+    {
+      "german": "Die Wettervorhersagen für das Wochenende sind leider nicht sehr gut.",
+      "english": "The weather forecasts for the weekend are unfortunately not very good.",
+      "purpose": "present"
+    }
+  ]
+}

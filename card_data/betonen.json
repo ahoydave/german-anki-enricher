@@ -1,0 +1,22 @@
+{
+  "canonical": "betonen",
+  "word_type": "verb",
+  "english": "to emphasize / to stress / to accentuate",
+  "is_reflexive": false,
+  "also_non_reflexive": false,
+  "perfekt": "hat betont",
+  "praeteritum": "betonte",
+  "verb_case": "akkusativ",
+  "sentences": [
+    {
+      "german": "Der Lehrer betont, wie wichtig es ist, regelmäßig zu üben.",
+      "english": "The teacher emphasizes how important it is to practice regularly.",
+      "purpose": "present"
+    },
+    {
+      "german": "Sie hat in ihrer Rede die Bedeutung des Klimaschutzes betont.",
+      "english": "She emphasized the importance of climate protection in her speech.",
+      "purpose": "perfekt"
+    }
+  ]
+}

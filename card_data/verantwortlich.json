@@ -1,0 +1,19 @@
+{
+  "canonical": "verantwortlich",
+  "word_type": "adjective",
+  "english": "responsible / accountable",
+  "adjective_forms": "verantwortlich, verantwortlicher, am verantwortlichsten",
+  "notes": "Often used with 'für' (+ Akkusativ) meaning 'responsible for something', or with 'jemanden verantwortlich machen' meaning 'to hold someone responsible'.",
+  "sentences": [
+    {
+      "german": "Sie ist verantwortlich für das gesamte Projekt.",
+      "english": "She is responsible for the entire project.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Wer ist für diesen Fehler verantwortlich?",
+      "english": "Who is responsible for this mistake?",
+      "purpose": "meaning"
+    }
+  ]
+}

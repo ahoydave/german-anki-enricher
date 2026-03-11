@@ -1,0 +1,22 @@
+{
+  "canonical": "speichern",
+  "word_type": "verb",
+  "english": "to save / to store",
+  "is_reflexive": false,
+  "also_non_reflexive": false,
+  "perfekt": "hat gespeichert",
+  "praeteritum": "speicherte",
+  "verb_case": "akkusativ",
+  "sentences": [
+    {
+      "german": "Vergiss nicht, die Datei zu speichern, bevor du den Computer ausschaltest.",
+      "english": "Don't forget to save the file before you turn off the computer.",
+      "purpose": "present"
+    },
+    {
+      "german": "Ich habe alle Fotos auf einer externen Festplatte gespeichert.",
+      "english": "I saved all the photos on an external hard drive.",
+      "purpose": "perfekt"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "canonical": "frustriert",
+  "word_type": "adjective",
+  "english": "frustrated",
+  "adjective_forms": "frustriert, frustrierter, am frustriertesten",
+  "sentences": [
+    {
+      "german": "Er ist sehr frustriert, weil er die Prüfung nicht bestanden hat.",
+      "english": "He is very frustrated because he did not pass the exam.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Die frustrierten Mitarbeiter sprachen mit dem Chef.",
+      "english": "The frustrated employees spoke with the boss.",
+      "purpose": "meaning"
+    }
+  ],
+  "cloze_text": "Er ist sehr {{c1::frustriert}}, weil er die Prüfung nicht bestanden hat.\nDie {{c2::frustrierten}} Mitarbeiter sprachen mit dem Chef.",
+  "cloze_sentences": [
+    {
+      "text": "Er ist sehr {{c1::frustriert}}, weil er die Prüfung nicht bestanden hat.",
+      "hint": "frustrated (predicative adjective form)"
+    },
+    {
+      "text": "Nach der langen Wartezeit waren alle Kunden {{c1::frustriert}}.",
+      "hint": "frustrated (predicative adjective form)"
+    }
+  ]
+}

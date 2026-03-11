@@ -1,0 +1,20 @@
+{
+  "canonical": "Treppe",
+  "word_type": "noun",
+  "article": "die",
+  "plural": "Treppen",
+  "english": "staircase / stairs / steps",
+  "notes": "Refers to a staircase as a whole structure. A single step is 'die Stufe'.",
+  "sentences": [
+    {
+      "german": "Die Treppe in unserem Haus ist sehr steil.",
+      "english": "The staircase in our house is very steep.",
+      "purpose": "present"
+    },
+    {
+      "german": "Er ist die Treppe hinuntergefallen und hat sich das Bein gebrochen.",
+      "english": "He fell down the stairs and broke his leg.",
+      "purpose": "perfekt"
+    }
+  ]
+}

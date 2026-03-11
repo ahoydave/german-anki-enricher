@@ -1,0 +1,18 @@
+{
+  "canonical": "gewöhnlich",
+  "word_type": "adjective",
+  "english": "usual / ordinary / common / normally (as adverb)",
+  "adjective_forms": "gewöhnlich, gewöhnlicher, am gewöhnlichsten",
+  "sentences": [
+    {
+      "german": "Gewöhnlich stehe ich um sieben Uhr auf.",
+      "english": "Usually I get up at seven o'clock.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Das ist ein ganz gewöhnlicher Tag für mich.",
+      "english": "This is a completely ordinary day for me.",
+      "purpose": "meaning"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "canonical": "nun",
+  "word_type": "adverb",
+  "english": "now / well (then)",
+  "notes": "Used to indicate the current moment or to introduce a statement. Also used as a filler word similar to 'well' in English.",
+  "sentences": [
+    {
+      "german": "Was sollen wir nun tun?",
+      "english": "What should we do now?",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Nun, das ist eine gute Frage.",
+      "english": "Well, that is a good question.",
+      "purpose": "meaning"
+    }
+  ]
+}

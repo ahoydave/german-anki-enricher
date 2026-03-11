@@ -1,0 +1,20 @@
+{
+  "canonical": "Pak Choi",
+  "word_type": "noun",
+  "english": "bok choy / pak choi (a type of Chinese cabbage)",
+  "article": "der",
+  "plural": "die Pak Chois",
+  "notes": "Loanword from Cantonese. Also written 'Pak-Choi'. Used in German cooking, especially in Asian-inspired dishes. The article 'der' is most common, though 'das' is also occasionally used.",
+  "sentences": [
+    {
+      "german": "Ich kaufe frischen Pak Choi auf dem Wochenmarkt.",
+      "english": "I buy fresh pak choi at the weekly market.",
+      "purpose": "present"
+    },
+    {
+      "german": "Der Pak Choi ist reich an Vitaminen und Mineralstoffen.",
+      "english": "Pak choi is rich in vitamins and minerals.",
+      "purpose": "meaning"
+    }
+  ]
+}

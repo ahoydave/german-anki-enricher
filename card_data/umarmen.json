@@ -1,0 +1,28 @@
+{
+  "canonical": "umarmen",
+  "word_type": "verb",
+  "english": "to hug / to embrace",
+  "is_reflexive": false,
+  "also_non_reflexive": false,
+  "perfekt": "hat umarmt",
+  "praeteritum": "umarmte",
+  "verb_case": "akkusativ",
+  "notes": "Can be used transitively (jemanden umarmen) or reflexively (sich umarmen = to hug each other). The reflexive form is common but the verb does not require 'sich'.",
+  "sentences": [
+    {
+      "german": "Sie umarmt ihre Mutter zum Abschied.",
+      "english": "She hugs her mother goodbye.",
+      "purpose": "present"
+    },
+    {
+      "german": "Er hat seinen alten Freund herzlich umarmt.",
+      "english": "He warmly embraced his old friend.",
+      "purpose": "perfekt"
+    },
+    {
+      "german": "Die beiden Kinder umarmen sich und lachen.",
+      "english": "The two children hug each other and laugh.",
+      "purpose": "meaning"
+    }
+  ]
+}

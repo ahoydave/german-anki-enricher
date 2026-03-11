@@ -1,0 +1,18 @@
+{
+  "canonical": "üblich",
+  "word_type": "adjective",
+  "english": "usual / customary / common",
+  "adjective_forms": "üblich, üblicher, am üblichsten",
+  "sentences": [
+    {
+      "german": "Es ist üblich, beim Abendessen zusammen zu sitzen.",
+      "english": "It is customary to sit together at dinner.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Das ist hier so üblich.",
+      "english": "That is the usual practice here.",
+      "purpose": "meaning"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "canonical": "riechen",
+  "word_type": "verb",
+  "english": "to smell / to sniff",
+  "is_reflexive": false,
+  "also_non_reflexive": false,
+  "perfekt": "hat gerochen",
+  "praeteritum": "roch",
+  "verb_case": "akkusativ",
+  "prepositions": [
+    "riechen nach + dativ"
+  ],
+  "notes": "Can be used intransitively (to smell of something) or transitively (to smell something). 'riechen nach' means 'to smell of/like'.",
+  "sentences": [
+    {
+      "german": "Die Blumen riechen sehr schön.",
+      "english": "The flowers smell very nice.",
+      "purpose": "present"
+    },
+    {
+      "german": "Ich habe den Rauch sofort gerochen.",
+      "english": "I smelled the smoke immediately.",
+      "purpose": "perfekt"
+    },
+    {
+      "german": "Das Essen riecht nach Knoblauch.",
+      "english": "The food smells of garlic.",
+      "purpose": "preposition"
+    }
+  ]
+}

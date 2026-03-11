@@ -1,0 +1,19 @@
+{
+  "canonical": "schwach",
+  "word_type": "adjective",
+  "english": "weak / faint / poor / feeble",
+  "adjective_forms": "schwach, schwächer, am schwächsten",
+  "notes": "Can describe physical weakness, poor performance, faint signals or light, and weak arguments.",
+  "sentences": [
+    {
+      "german": "Nach der langen Krankheit fühlt sie sich noch sehr schwach.",
+      "english": "After the long illness, she still feels very weak.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Das Signal ist hier zu schwach, um eine Verbindung herzustellen.",
+      "english": "The signal is too weak here to establish a connection.",
+      "purpose": "meaning"
+    }
+  ]
+}

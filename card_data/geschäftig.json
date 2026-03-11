@@ -1,0 +1,18 @@
+{
+  "canonical": "geschäftig",
+  "word_type": "adjective",
+  "english": "busy / bustling / industrious",
+  "adjective_forms": "geschäftig, geschäftiger, am geschäftigsten",
+  "sentences": [
+    {
+      "german": "Auf dem Marktplatz herrschte ein geschäftiges Treiben.",
+      "english": "There was a bustling activity on the market square.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Die Ameisen liefen geschäftig hin und her.",
+      "english": "The ants scurried busily back and forth.",
+      "purpose": "meaning"
+    }
+  ]
+}

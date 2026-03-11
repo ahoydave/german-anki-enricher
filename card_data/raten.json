@@ -1,0 +1,31 @@
+{
+  "canonical": "raten",
+  "word_type": "verb",
+  "english": "to guess / to advise, to recommend",
+  "is_reflexive": false,
+  "also_non_reflexive": false,
+  "perfekt": "hat geraten",
+  "praeteritum": "riet",
+  "verb_case": "dativ",
+  "prepositions": [
+    "raten zu + dativ"
+  ],
+  "notes": "Has two main meanings: (1) to guess (akkusativ object) and (2) to advise someone (dativ person + zu + dativ). Irregular verb: raten – riet – geraten.",
+  "sentences": [
+    {
+      "german": "Kannst du raten, wie alt ich bin?",
+      "english": "Can you guess how old I am?",
+      "purpose": "present"
+    },
+    {
+      "german": "Der Arzt hat mir geraten, mehr Sport zu treiben.",
+      "english": "The doctor advised me to exercise more.",
+      "purpose": "perfekt"
+    },
+    {
+      "german": "Ich rate dir zu mehr Geduld.",
+      "english": "I advise you to have more patience.",
+      "purpose": "preposition"
+    }
+  ]
+}

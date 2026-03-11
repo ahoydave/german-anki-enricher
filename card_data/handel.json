@@ -1,0 +1,20 @@
+{
+  "canonical": "Handel",
+  "word_type": "noun",
+  "article": "der",
+  "plural": "Händel (rare/archaic plural; usually used without plural)",
+  "english": "trade / commerce / deal",
+  "notes": "Mostly used in singular. 'Handel treiben' means 'to trade'. Can also refer to a specific deal or transaction in informal contexts.",
+  "sentences": [
+    {
+      "german": "Der internationale Handel ist für viele Länder sehr wichtig.",
+      "english": "International trade is very important for many countries.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Der Handel mit Elektronik boomt in diesem Jahr.",
+      "english": "The trade in electronics is booming this year.",
+      "purpose": "present"
+    }
+  ]
+}

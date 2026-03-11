@@ -1,0 +1,20 @@
+{
+  "canonical": "Regierung",
+  "word_type": "noun",
+  "article": "die",
+  "plural": "Regierungen",
+  "english": "government / administration",
+  "notes": "Refers to the governing body or cabinet of a country or state.",
+  "sentences": [
+    {
+      "german": "Die Regierung hat neue Gesetze verabschiedet.",
+      "english": "The government has passed new laws.",
+      "purpose": "present"
+    },
+    {
+      "german": "Viele Bürger sind mit der Regierung unzufrieden.",
+      "english": "Many citizens are dissatisfied with the government.",
+      "purpose": "meaning"
+    }
+  ]
+}

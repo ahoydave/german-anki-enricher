@@ -1,0 +1,20 @@
+{
+  "canonical": "Katzenklo",
+  "word_type": "noun",
+  "article": "das",
+  "plural": "Katzenklos",
+  "english": "cat litter box / cat toilet",
+  "notes": "Compound noun: Katze (cat) + Klo (toilet). Informal word; the more formal term is 'Katzentoilette'.",
+  "sentences": [
+    {
+      "german": "Ich muss das Katzenklo jeden Tag sauber machen.",
+      "english": "I have to clean the cat litter box every day.",
+      "purpose": "present"
+    },
+    {
+      "german": "Das Katzenklo steht im Badezimmer.",
+      "english": "The cat litter box is in the bathroom.",
+      "purpose": "meaning"
+    }
+  ]
+}

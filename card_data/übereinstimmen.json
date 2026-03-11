@@ -1,0 +1,31 @@
+{
+  "canonical": "übereinstimmen",
+  "word_type": "verb",
+  "english": "to agree / to match / to correspond",
+  "is_reflexive": false,
+  "also_non_reflexive": false,
+  "perfekt": "hat übereingestimmt",
+  "praeteritum": "stimmte überein",
+  "verb_case": "null",
+  "prepositions": [
+    "übereinstimmen mit + dativ"
+  ],
+  "notes": "Separable verb (überein- + stimmen). Used when two things or people match, agree, or are consistent with each other.",
+  "sentences": [
+    {
+      "german": "Meine Meinung stimmt mit deiner überein.",
+      "english": "My opinion agrees with yours.",
+      "purpose": "present"
+    },
+    {
+      "german": "Die Zeugenaussagen haben nicht übereingestimmt.",
+      "english": "The witness statements did not match.",
+      "purpose": "perfekt"
+    },
+    {
+      "german": "Die Ergebnisse stimmen mit unseren Erwartungen überein.",
+      "english": "The results correspond with our expectations.",
+      "purpose": "preposition"
+    }
+  ]
+}

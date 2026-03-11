@@ -1,0 +1,27 @@
+{
+  "canonical": "verdecken",
+  "word_type": "verb",
+  "english": "to cover / to conceal / to hide",
+  "is_reflexive": false,
+  "also_non_reflexive": false,
+  "perfekt": "hat verdeckt",
+  "praeteritum": "verdeckte",
+  "verb_case": "akkusativ",
+  "sentences": [
+    {
+      "german": "Die Wolken verdecken die Sonne.",
+      "english": "The clouds are covering the sun.",
+      "purpose": "present"
+    },
+    {
+      "german": "Er hat seinen Fehler mit einer Lüge verdeckt.",
+      "english": "He concealed his mistake with a lie.",
+      "purpose": "perfekt"
+    },
+    {
+      "german": "Das große Gebäude verdeckt die Aussicht auf den See.",
+      "english": "The large building blocks the view of the lake.",
+      "purpose": "meaning"
+    }
+  ]
+}

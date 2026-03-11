@@ -1,0 +1,18 @@
+{
+  "canonical": "unüblich",
+  "word_type": "adjective",
+  "english": "unusual / uncommon / not customary",
+  "adjective_forms": "unüblich, unüblicher, am unüblichsten",
+  "sentences": [
+    {
+      "german": "Es ist unüblich, so spät noch anzurufen.",
+      "english": "It is unusual to call so late.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Sein Verhalten war für diese Situation sehr unüblich.",
+      "english": "His behaviour was very unusual for this situation.",
+      "purpose": "meaning"
+    }
+  ]
+}

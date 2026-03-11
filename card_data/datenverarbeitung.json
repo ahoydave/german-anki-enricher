@@ -1,0 +1,20 @@
+{
+  "canonical": "Datenverarbeitung",
+  "word_type": "noun",
+  "article": "die",
+  "plural": "Datenverarbeitungen",
+  "english": "data processing",
+  "notes": "Compound noun: Daten (data) + Verarbeitung (processing). Often used in IT and legal contexts, e.g. in the phrase 'Verarbeitung personenbezogener Daten' (processing of personal data) under GDPR.",
+  "sentences": [
+    {
+      "german": "Die automatische Datenverarbeitung hat die Arbeit in vielen Unternehmen revolutioniert.",
+      "english": "Automatic data processing has revolutionized work in many companies.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Das Unternehmen muss die Datenverarbeitung seiner Kunden nach der DSGVO regeln.",
+      "english": "The company must regulate the data processing of its customers in accordance with the GDPR.",
+      "purpose": "meaning"
+    }
+  ]
+}

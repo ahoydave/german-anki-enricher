@@ -1,0 +1,20 @@
+{
+  "canonical": "Leidenschaft",
+  "word_type": "noun",
+  "article": "die",
+  "plural": "Leidenschaften",
+  "english": "passion / enthusiasm",
+  "notes": "Derived from 'leiden' (to suffer) + '-schaft' (suffix forming abstract nouns). Refers to a strong, intense feeling or enthusiasm for something.",
+  "sentences": [
+    {
+      "german": "Musik ist seine größte Leidenschaft.",
+      "english": "Music is his greatest passion.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Sie verfolgt ihre Leidenschaften mit viel Energie.",
+      "english": "She pursues her passions with a lot of energy.",
+      "purpose": "meaning"
+    }
+  ]
+}

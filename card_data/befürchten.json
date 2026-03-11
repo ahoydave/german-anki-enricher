@@ -1,0 +1,22 @@
+{
+  "canonical": "befürchten",
+  "word_type": "verb",
+  "english": "to fear / to be afraid of / to dread",
+  "is_reflexive": false,
+  "also_non_reflexive": false,
+  "perfekt": "hat befürchtet",
+  "praeteritum": "befürchtete",
+  "verb_case": "akkusativ",
+  "sentences": [
+    {
+      "german": "Ich befürchte, dass es morgen regnen wird.",
+      "english": "I fear that it will rain tomorrow.",
+      "purpose": "present"
+    },
+    {
+      "german": "Er hat das Schlimmste befürchtet, aber alles ist gut gegangen.",
+      "english": "He feared the worst, but everything went well.",
+      "purpose": "perfekt"
+    }
+  ]
+}

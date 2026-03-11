@@ -1,0 +1,18 @@
+{
+  "canonical": "eng",
+  "word_type": "adjective",
+  "english": "narrow / tight / close",
+  "adjective_forms": "eng, enger, am engsten",
+  "sentences": [
+    {
+      "german": "Die Straße ist sehr eng, deshalb können keine Autos durchfahren.",
+      "english": "The street is very narrow, so no cars can drive through.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Diese Jeans ist mir zu eng.",
+      "english": "These jeans are too tight for me.",
+      "purpose": "meaning"
+    }
+  ]
+}

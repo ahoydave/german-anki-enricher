@@ -1,0 +1,13 @@
+{
+  "canonical": "jedoch",
+  "word_type": "conjunction",
+  "english": "however / nevertheless / yet",
+  "notes": "Coordinating conjunction or adverb used to express contrast. Can appear at the start of a clause or after the verb. Similar to 'aber' but slightly more formal.",
+  "sentences": [
+    {
+      "german": "Er wollte kommen, jedoch hatte er keine Zeit.",
+      "english": "He wanted to come; however, he had no time.",
+      "purpose": "meaning"
+    }
+  ]
+}

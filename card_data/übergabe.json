@@ -1,0 +1,20 @@
+{
+  "canonical": "Übergabe",
+  "word_type": "noun",
+  "article": "die",
+  "plural": "Übergaben",
+  "english": "handover / transfer / handoff / surrender",
+  "notes": "Refers to the act of handing something over, such as a document, a project, a building, or a prisoner. Common in professional, military, and everyday contexts.",
+  "sentences": [
+    {
+      "german": "Die Übergabe der Schlüssel findet morgen statt.",
+      "english": "The handover of the keys takes place tomorrow.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Bei der Übergabe des Projekts gab es viele offene Fragen.",
+      "english": "During the handover of the project, there were many open questions.",
+      "purpose": "meaning"
+    }
+  ]
+}

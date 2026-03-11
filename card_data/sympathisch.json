@@ -1,0 +1,18 @@
+{
+  "canonical": "sympathisch",
+  "word_type": "adjective",
+  "english": "likeable / nice / pleasant",
+  "adjective_forms": "sympathisch, sympathischer, am sympathischsten",
+  "sentences": [
+    {
+      "german": "Er ist ein sehr sympathischer Mensch.",
+      "english": "He is a very likeable person.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Sie wirkt auf mich sehr sympathisch.",
+      "english": "She seems very pleasant to me.",
+      "purpose": "meaning"
+    }
+  ]
+}

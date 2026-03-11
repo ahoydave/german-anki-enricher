@@ -1,0 +1,25 @@
+{
+  "canonical": "Wahl",
+  "word_type": "noun",
+  "article": "die",
+  "plural": "Wahlen",
+  "english": "election / choice / selection",
+  "notes": "Used both for political elections and for the act of choosing/selecting something.",
+  "sentences": [
+    {
+      "german": "Bei der letzten Wahl haben viele junge Menschen zum ersten Mal abgestimmt.",
+      "english": "In the last election, many young people voted for the first time.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Du hast die Wahl: Kaffee oder Tee?",
+      "english": "You have the choice: coffee or tea?",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Es gab keine andere Wahl, als früh aufzustehen.",
+      "english": "There was no other choice but to get up early.",
+      "purpose": "meaning"
+    }
+  ]
+}

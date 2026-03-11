@@ -1,0 +1,25 @@
+{
+  "canonical": "Länge",
+  "word_type": "noun",
+  "article": "die",
+  "plural": "Längen",
+  "english": "length / longitude",
+  "notes": "Used for physical length, duration, or geographic longitude.",
+  "sentences": [
+    {
+      "german": "Die Länge des Tisches beträgt zwei Meter.",
+      "english": "The length of the table is two metres.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Wir messen die Längen aller Zimmer im Haus.",
+      "english": "We are measuring the lengths of all the rooms in the house.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Der Ort liegt auf dem 13. Grad östlicher Länge.",
+      "english": "The place is located at 13 degrees east longitude.",
+      "purpose": "meaning"
+    }
+  ]
+}

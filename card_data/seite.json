@@ -1,0 +1,25 @@
+{
+  "canonical": "Seite",
+  "word_type": "noun",
+  "article": "die",
+  "plural": "Seiten",
+  "english": "page / side",
+  "notes": "Two main meanings: 1) a page in a book or document, 2) a side or flank of something or someone.",
+  "sentences": [
+    {
+      "german": "Bitte lies die erste Seite des Buches.",
+      "english": "Please read the first page of the book.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Er stand auf der linken Seite der Straße.",
+      "english": "He stood on the left side of the street.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Die Webseite hat viele nützliche Informationen auf mehreren Seiten.",
+      "english": "The website has a lot of useful information on several pages.",
+      "purpose": "present"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "canonical": "Helm",
+  "word_type": "noun",
+  "article": "der",
+  "plural": "Helme",
+  "english": "helmet",
+  "notes": "Can refer to any type of protective helmet (bicycle, motorcycle, construction, etc.).",
+  "sentences": [
+    {
+      "german": "Der Radfahrer trägt immer einen Helm.",
+      "english": "The cyclist always wears a helmet.",
+      "purpose": "present"
+    },
+    {
+      "german": "Auf der Baustelle müssen alle Arbeiter einen Helm tragen.",
+      "english": "On the construction site, all workers must wear a helmet.",
+      "purpose": "meaning"
+    }
+  ]
+}

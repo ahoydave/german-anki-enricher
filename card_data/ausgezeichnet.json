@@ -1,0 +1,19 @@
+{
+  "canonical": "ausgezeichnet",
+  "word_type": "adjective",
+  "english": "excellent / outstanding / distinguished",
+  "adjective_forms": "ausgezeichnet, ausgezeichneter, am ausgezeichnetsten",
+  "notes": "Can function as an adjective or adverb. Also the past participle of 'auszeichnen' (to award/distinguish), but commonly used independently as an adjective meaning 'excellent'.",
+  "sentences": [
+    {
+      "german": "Das Essen in diesem Restaurant ist ausgezeichnet.",
+      "english": "The food in this restaurant is excellent.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Sie spricht ausgezeichnet Deutsch.",
+      "english": "She speaks German excellently.",
+      "purpose": "meaning"
+    }
+  ]
+}

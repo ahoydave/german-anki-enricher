@@ -1,0 +1,20 @@
+{
+  "canonical": "Halluzination",
+  "word_type": "noun",
+  "article": "die",
+  "plural": "Halluzinationen",
+  "english": "hallucination",
+  "notes": "Refers to a perception of something that does not exist, common in medical and psychological contexts.",
+  "sentences": [
+    {
+      "german": "Der Patient litt unter starken Halluzinationen.",
+      "english": "The patient suffered from severe hallucinations.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Schlafmangel kann Halluzinationen verursachen.",
+      "english": "Lack of sleep can cause hallucinations.",
+      "purpose": "present"
+    }
+  ]
+}

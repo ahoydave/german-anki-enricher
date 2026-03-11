@@ -1,0 +1,20 @@
+{
+  "canonical": "Klimaanlage",
+  "word_type": "noun",
+  "article": "die",
+  "plural": "Klimaanlagen",
+  "english": "air conditioning / air conditioner",
+  "notes": "Compound noun: Klima (climate) + Anlage (system/installation)",
+  "sentences": [
+    {
+      "german": "Im Sommer ist die Klimaanlage im Büro sehr angenehm.",
+      "english": "In summer, the air conditioning in the office is very pleasant.",
+      "purpose": "present"
+    },
+    {
+      "german": "Die Klimaanlagen in diesem Hotel sind leider sehr laut.",
+      "english": "The air conditioners in this hotel are unfortunately very loud.",
+      "purpose": "present"
+    }
+  ]
+}

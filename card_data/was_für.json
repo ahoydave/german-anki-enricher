@@ -1,0 +1,18 @@
+{
+  "canonical": "was für",
+  "word_type": "phrase",
+  "english": "what kind of / what a",
+  "notes": "Interrogative phrase used to ask about the type or nature of something ('Was für ein Auto?') or as an exclamation ('Was für ein schöner Tag!'). The case of 'ein' depends on the grammatical role in the sentence, not on 'für'.",
+  "sentences": [
+    {
+      "german": "Was für ein Auto fährst du?",
+      "english": "What kind of car do you drive?",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Was für ein schöner Tag!",
+      "english": "What a beautiful day!",
+      "purpose": "meaning"
+    }
+  ]
+}

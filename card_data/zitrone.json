@@ -1,0 +1,20 @@
+{
+  "canonical": "Zitrone",
+  "word_type": "noun",
+  "article": "die",
+  "plural": "Zitronen",
+  "english": "lemon",
+  "notes": "Refers to the citrus fruit. The phrase 'jemanden wie eine Zitrone auspressen' means to exploit someone.",
+  "sentences": [
+    {
+      "german": "Ich brauche eine Zitrone für den Kuchen.",
+      "english": "I need a lemon for the cake.",
+      "purpose": "present"
+    },
+    {
+      "german": "Sie hat frischen Tee mit Zitronen gemacht.",
+      "english": "She made fresh tea with lemons.",
+      "purpose": "present"
+    }
+  ]
+}

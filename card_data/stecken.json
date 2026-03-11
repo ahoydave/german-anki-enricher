@@ -1,0 +1,32 @@
+{
+  "canonical": "stecken",
+  "word_type": "verb",
+  "english": "to be stuck / to put (something somewhere) / to stick",
+  "is_reflexive": false,
+  "also_non_reflexive": false,
+  "perfekt": "hat gesteckt",
+  "praeteritum": "steckte",
+  "verb_case": "akkusativ",
+  "prepositions": [
+    "stecken in + dativ (location)",
+    "stecken in + akkusativ (movement)"
+  ],
+  "notes": "As an intransitive verb meaning 'to be stuck/located', stecken describes a state (Der Schlüssel steckt im Schloss). As a transitive verb, it means to put/insert something somewhere (Sie steckte den Brief in den Umschlag). The Präteritum 'stak' is archaic/literary; 'steckte' is standard in modern usage.",
+  "sentences": [
+    {
+      "german": "Der Schlüssel steckt im Schloss.",
+      "english": "The key is in the lock.",
+      "purpose": "present"
+    },
+    {
+      "german": "Sie hat den Zettel in ihre Tasche gesteckt.",
+      "english": "She put the note into her bag.",
+      "purpose": "perfekt"
+    },
+    {
+      "german": "Er steckt den USB-Stick in den Computer.",
+      "english": "He plugs the USB stick into the computer.",
+      "purpose": "meaning"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "canonical": "Gesellschaft",
+  "word_type": "noun",
+  "article": "die",
+  "plural": "Gesellschaften",
+  "english": "society / company (companionship) / company (business)",
+  "notes": "Has three main meanings: 1) society as a whole, 2) company/companionship (jemandem Gesellschaft leisten = to keep someone company), 3) a company or association (e.g. GmbH).",
+  "sentences": [
+    {
+      "german": "Die moderne Gesellschaft steht vor vielen Herausforderungen.",
+      "english": "Modern society faces many challenges.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Er leistete ihr den ganzen Abend Gesellschaft.",
+      "english": "He kept her company the whole evening.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Er ist Geschäftsführer einer kleinen Gesellschaft.",
+      "english": "He is the managing director of a small company.",
+      "purpose": "meaning"
+    }
+  ]
+}

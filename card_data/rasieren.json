@@ -1,0 +1,37 @@
+{
+  "canonical": "rasieren",
+  "word_type": "verb",
+  "english": "to shave",
+  "is_reflexive": true,
+  "also_non_reflexive": true,
+  "perfekt": "hat rasiert",
+  "praeteritum": "rasierte",
+  "verb_case": "akkusativ",
+  "notes": "Used reflexively as 'sich rasieren' (to shave oneself) and transitively as 'jemanden rasieren' (to shave someone else).",
+  "sentences": [
+    {
+      "german": "Er rasiert sich jeden Morgen vor dem Frühstück.",
+      "english": "He shaves every morning before breakfast.",
+      "purpose": "present"
+    },
+    {
+      "german": "Sie hat sich heute nicht rasiert.",
+      "english": "She did not shave today.",
+      "purpose": "perfekt"
+    }
+  ],
+  "non_reflexive_canonical": "rasieren",
+  "non_reflexive_english": "to shave someone",
+  "non_reflexive_sentences": [
+    {
+      "german": "Der Friseur rasiert den Kunden.",
+      "english": "The barber shaves the customer.",
+      "purpose": "present"
+    },
+    {
+      "german": "Der Friseur hat ihm den Bart rasiert.",
+      "english": "The barber shaved his beard.",
+      "purpose": "perfekt"
+    }
+  ]
+}

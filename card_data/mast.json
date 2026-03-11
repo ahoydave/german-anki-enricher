@@ -1,0 +1,20 @@
+{
+  "canonical": "Mast",
+  "word_type": "noun",
+  "article": "der",
+  "plural": "Masten",
+  "english": "mast (of a ship or flagpole) / pole, pylon",
+  "notes": "There is also 'die Mast' (feminine), meaning fattening/feeding of animals, but 'der Mast' is the common meaning referring to a pole or mast.",
+  "sentences": [
+    {
+      "german": "Der Mast des Segelbootes ist sehr hoch.",
+      "english": "The mast of the sailing boat is very tall.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Die Masten der Stromleitung stehen in einer langen Reihe.",
+      "english": "The pylons of the power line stand in a long row.",
+      "purpose": "meaning"
+    }
+  ]
+}

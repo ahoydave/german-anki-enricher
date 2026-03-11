@@ -1,0 +1,22 @@
+{
+  "canonical": "beschleunigen",
+  "word_type": "verb",
+  "english": "to accelerate / to speed up",
+  "is_reflexive": false,
+  "also_non_reflexive": false,
+  "perfekt": "hat beschleunigt",
+  "praeteritum": "beschleunigte",
+  "verb_case": "akkusativ",
+  "sentences": [
+    {
+      "german": "Der Fahrer beschleunigt das Auto auf der Autobahn.",
+      "english": "The driver accelerates the car on the motorway.",
+      "purpose": "present"
+    },
+    {
+      "german": "Die neue Technologie hat den Prozess stark beschleunigt.",
+      "english": "The new technology has greatly accelerated the process.",
+      "purpose": "perfekt"
+    }
+  ]
+}

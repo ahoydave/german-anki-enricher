@@ -1,0 +1,20 @@
+{
+  "canonical": "Genosse",
+  "word_type": "noun",
+  "article": "der",
+  "plural": "Genossen",
+  "english": "comrade / fellow member (especially in a political party)",
+  "notes": "Historically associated with socialist and communist movements. Also used in the SPD (German Social Democratic Party). The feminine form is 'Genossin', plural 'Genossinnen'.",
+  "sentences": [
+    {
+      "german": "Er sprach seine Parteifreunde als Genossen an.",
+      "english": "He addressed his party friends as comrades.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Die Genossen diskutierten stundenlang über die neue Politik.",
+      "english": "The comrades discussed the new policy for hours.",
+      "purpose": "meaning"
+    }
+  ]
+}

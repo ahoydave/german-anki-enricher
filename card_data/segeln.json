@@ -1,0 +1,21 @@
+{
+  "canonical": "segeln",
+  "word_type": "verb",
+  "english": "to sail",
+  "is_reflexive": false,
+  "perfekt": "ist gesegelt",
+  "praeteritum": "segelte",
+  "verb_case": "null",
+  "sentences": [
+    {
+      "german": "Wir segeln jeden Sommer auf dem Bodensee.",
+      "english": "We sail on Lake Constance every summer.",
+      "purpose": "present"
+    },
+    {
+      "german": "Er ist gestern mit seinem Boot über den See gesegelt.",
+      "english": "He sailed across the lake in his boat yesterday.",
+      "purpose": "perfekt"
+    }
+  ]
+}

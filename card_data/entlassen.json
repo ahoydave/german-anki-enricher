@@ -1,0 +1,31 @@
+{
+  "canonical": "entlassen",
+  "word_type": "verb",
+  "english": "to dismiss / to fire (from a job) / to discharge (from hospital or military)",
+  "is_reflexive": false,
+  "also_non_reflexive": false,
+  "perfekt": "hat entlassen",
+  "praeteritum": "entließ",
+  "verb_case": "akkusativ",
+  "prepositions": [
+    "entlassen aus + dativ"
+  ],
+  "notes": "Strong verb with irregular forms. Can mean both 'to fire/dismiss' (from a job) and 'to discharge/release' (from hospital, prison, or military service).",
+  "sentences": [
+    {
+      "german": "Der Chef entlässt den Mitarbeiter wegen schlechter Leistung.",
+      "english": "The boss dismisses the employee due to poor performance.",
+      "purpose": "present"
+    },
+    {
+      "german": "Das Krankenhaus hat den Patienten gestern entlassen.",
+      "english": "The hospital discharged the patient yesterday.",
+      "purpose": "perfekt"
+    },
+    {
+      "german": "Er wurde aus dem Militär entlassen.",
+      "english": "He was discharged from the military.",
+      "purpose": "preposition"
+    }
+  ]
+}

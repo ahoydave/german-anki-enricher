@@ -1,0 +1,30 @@
+{
+  "canonical": "bauen",
+  "word_type": "verb",
+  "english": "to build / to construct",
+  "is_reflexive": false,
+  "also_non_reflexive": false,
+  "perfekt": "hat gebaut",
+  "praeteritum": "baute",
+  "verb_case": "akkusativ",
+  "prepositions": [
+    "bauen auf + akkusativ"
+  ],
+  "sentences": [
+    {
+      "german": "Die Firma baut ein neues Bürogebäude in der Stadtmitte.",
+      "english": "The company is building a new office building in the city centre.",
+      "purpose": "present"
+    },
+    {
+      "german": "Meine Eltern haben ihr Haus selbst gebaut.",
+      "english": "My parents built their house themselves.",
+      "purpose": "perfekt"
+    },
+    {
+      "german": "Ich baue auf deine Unterstützung.",
+      "english": "I am counting on your support.",
+      "purpose": "preposition"
+    }
+  ]
+}

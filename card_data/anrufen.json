@@ -1,0 +1,24 @@
+{
+  "canonical": "anrufen",
+  "word_type": "verb",
+  "english": "to call / to phone / to ring",
+  "is_reflexive": false,
+  "also_non_reflexive": false,
+  "perfekt": "hat angerufen",
+  "praeteritum": "rief an",
+  "verb_case": "akkusativ",
+  "prepositions": [],
+  "notes": "Separable verb (an- prefix). The person called is in the accusative case.",
+  "sentences": [
+    {
+      "german": "Ich rufe dich morgen an.",
+      "english": "I will call you tomorrow.",
+      "purpose": "present"
+    },
+    {
+      "german": "Sie hat ihren Vater gestern Abend angerufen.",
+      "english": "She called her father yesterday evening.",
+      "purpose": "perfekt"
+    }
+  ]
+}

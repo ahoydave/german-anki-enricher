@@ -1,0 +1,18 @@
+{
+  "canonical": "besonders",
+  "word_type": "adverb",
+  "english": "especially / particularly / in particular",
+  "notes": "Can also function as an adjective meaning 'special' or 'particular', but its primary and most common use is as an adverb.",
+  "sentences": [
+    {
+      "german": "Ich mag Schokolade, besonders die dunkle.",
+      "english": "I like chocolate, especially the dark kind.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Das Wetter war heute besonders schön.",
+      "english": "The weather was particularly nice today.",
+      "purpose": "meaning"
+    }
+  ]
+}

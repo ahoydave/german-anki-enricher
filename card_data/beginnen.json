@@ -1,0 +1,27 @@
+{
+  "canonical": "beginnen",
+  "word_type": "verb",
+  "english": "to begin / to start",
+  "is_reflexive": false,
+  "also_non_reflexive": false,
+  "perfekt": "hat begonnen",
+  "praeteritum": "begann",
+  "verb_case": "akkusativ",
+  "sentences": [
+    {
+      "german": "Der Unterricht beginnt um acht Uhr.",
+      "english": "The lesson begins at eight o'clock.",
+      "purpose": "present"
+    },
+    {
+      "german": "Sie hat gestern mit dem Projekt begonnen.",
+      "english": "She began the project yesterday.",
+      "purpose": "perfekt"
+    },
+    {
+      "german": "Er hat angefangen zu lesen, aber ich habe früher begonnen.",
+      "english": "He started reading, but I began earlier.",
+      "purpose": "meaning"
+    }
+  ]
+}

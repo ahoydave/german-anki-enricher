@@ -1,0 +1,29 @@
+{
+  "canonical": "entladen",
+  "word_type": "verb",
+  "english": "to unload / to discharge / to release (tension or energy)",
+  "is_reflexive": false,
+  "also_non_reflexive": false,
+  "perfekt": "hat entladen",
+  "praeteritum": "entlud",
+  "verb_case": "akkusativ",
+  "prepositions": [],
+  "notes": "Can be used reflexively (sich entladen) meaning 'to discharge itself / to be released' (e.g. a storm or tension), but the primary form is non-reflexive. Irregular verb: entladen – entlud – hat entladen.",
+  "sentences": [
+    {
+      "german": "Die Arbeiter entladen den LKW vor dem Lager.",
+      "english": "The workers are unloading the truck in front of the warehouse.",
+      "purpose": "present"
+    },
+    {
+      "german": "Der Akku hat sich vollständig entladen.",
+      "english": "The battery has completely discharged.",
+      "purpose": "perfekt"
+    },
+    {
+      "german": "Das Gewitter entlud sich über der Stadt.",
+      "english": "The thunderstorm discharged itself over the city.",
+      "purpose": "meaning"
+    }
+  ]
+}

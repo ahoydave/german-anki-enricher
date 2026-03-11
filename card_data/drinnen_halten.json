@@ -1,0 +1,15 @@
+{
+  "canonical": "drinnen halten",
+  "word_type": "phrase",
+  "english": "to keep inside / to stay indoors",
+  "is_reflexive": false,
+  "also_non_reflexive": false,
+  "notes": "This phrase can mean to keep someone/something inside (transitive) or to stay indoors. It is a combination of the adverb 'drinnen' (inside) and the verb 'halten'. Often used in the context of keeping children or animals indoors, or staying inside due to weather.",
+  "sentences": [
+    {
+      "german": "Das schlechte Wetter hält uns heute drinnen.",
+      "english": "The bad weather is keeping us inside today.",
+      "purpose": "present"
+    }
+  ]
+}

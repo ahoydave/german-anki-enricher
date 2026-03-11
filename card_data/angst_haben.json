@@ -1,0 +1,24 @@
+{
+  "canonical": "Angst haben",
+  "word_type": "phrase",
+  "english": "to be afraid / to be scared / to fear",
+  "notes": "Fixed phrase using the noun 'Angst' (die Angst). Often followed by 'vor + Dativ' (afraid of something) or 'dass' (afraid that). 'Angst haben vor' is the most common construction.",
+  "sentences": [
+    {
+      "german": "Ich habe Angst vor Spinnen.",
+      "english": "I am afraid of spiders.",
+      "purpose": "present"
+    }
+  ],
+  "cloze_text": "Viele Kinder {{c1::haben}} {{c2::Angst}} vor der Dunkelheit.\nMein Bruder {{c3::hat}} {{c4::Angst}}, allein nach Hause zu gehen.",
+  "cloze_sentences": [
+    {
+      "text": "Viele Kinder {{c1::haben}} {{c2::Angst}} vor der Dunkelheit.",
+      "hint": "c1: have (they, present) | c2: fear/fright (the noun in the phrase)"
+    },
+    {
+      "text": "Hast du {{c1::Angst}} vor Prüfungen?",
+      "hint": "c1: fear/fright (the noun in the phrase)"
+    }
+  ]
+}

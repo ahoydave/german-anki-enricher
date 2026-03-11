@@ -1,0 +1,18 @@
+{
+  "canonical": "gutaussehend",
+  "word_type": "adjective",
+  "english": "good-looking / handsome / attractive",
+  "adjective_forms": "gutaussehend, gutaussehender, am gutaussehendsten",
+  "sentences": [
+    {
+      "german": "Er ist ein gutaussehender Mann mit blauen Augen.",
+      "english": "He is a good-looking man with blue eyes.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Sie findet ihn sehr gutaussehend.",
+      "english": "She finds him very good-looking.",
+      "purpose": "meaning"
+    }
+  ]
+}

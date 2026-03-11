@@ -1,0 +1,20 @@
+{
+  "canonical": "Befehl",
+  "word_type": "noun",
+  "article": "der",
+  "plural": "Befehle",
+  "english": "command / order / instruction",
+  "notes": "Used in military, technical, and everyday contexts. In computing, it refers to a command or instruction.",
+  "sentences": [
+    {
+      "german": "Der Soldat befolgte den Befehl seines Vorgesetzten.",
+      "english": "The soldier followed his superior's order.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Der Computer führt den Befehl sofort aus.",
+      "english": "The computer executes the command immediately.",
+      "purpose": "meaning"
+    }
+  ]
+}

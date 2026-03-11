@@ -1,0 +1,13 @@
+{
+  "canonical": "vor Kurzem",
+  "word_type": "phrase",
+  "english": "recently / a short time ago",
+  "notes": "Temporal adverbial phrase. 'Kurzem' is the dative form of 'kurz' used as a noun. Always written with a capital K. Used with Perfekt or Präteritum to refer to something that happened not long ago.",
+  "sentences": [
+    {
+      "german": "Ich habe vor Kurzem einen neuen Job angefangen.",
+      "english": "I recently started a new job.",
+      "purpose": "meaning"
+    }
+  ]
+}

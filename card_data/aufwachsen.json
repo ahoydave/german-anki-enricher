@@ -1,0 +1,28 @@
+{
+  "canonical": "aufwachsen",
+  "word_type": "verb",
+  "english": "to grow up",
+  "is_reflexive": false,
+  "also_non_reflexive": false,
+  "perfekt": "ist aufgewachsen",
+  "praeteritum": "wuchs auf",
+  "verb_case": "null",
+  "notes": "Separable verb (auf- + wachsen). Always used with 'sein' in Perfekt.",
+  "sentences": [
+    {
+      "german": "Ich wachse in einer kleinen Stadt auf.",
+      "english": "I am growing up in a small town.",
+      "purpose": "present"
+    },
+    {
+      "german": "Sie ist in München aufgewachsen.",
+      "english": "She grew up in Munich.",
+      "purpose": "perfekt"
+    },
+    {
+      "german": "Er ist mit drei Geschwistern aufgewachsen.",
+      "english": "He grew up with three siblings.",
+      "purpose": "present"
+    }
+  ]
+}

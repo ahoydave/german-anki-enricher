@@ -1,0 +1,22 @@
+{
+  "canonical": "durchqueren",
+  "word_type": "verb",
+  "english": "to cross / to traverse / to pass through",
+  "is_reflexive": false,
+  "also_non_reflexive": false,
+  "perfekt": "hat durchquert",
+  "praeteritum": "durchquerte",
+  "verb_case": "akkusativ",
+  "sentences": [
+    {
+      "german": "Wir durchqueren den Wald zu Fuß.",
+      "english": "We are crossing the forest on foot.",
+      "purpose": "present"
+    },
+    {
+      "german": "Die Expedition hat die Wüste in drei Wochen durchquert.",
+      "english": "The expedition crossed the desert in three weeks.",
+      "purpose": "perfekt"
+    }
+  ]
+}
