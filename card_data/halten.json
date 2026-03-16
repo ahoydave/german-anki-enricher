@@ -34,19 +34,23 @@
   "cloze_sentences": [
     {
       "text": "Er {{c1::hält}} die Tasse fest in der Hand.",
-      "hint": "holds (he, present)"
+      "hint": "holds (he, present)",
+      "english": "He holds the cup firmly in his hand."
     },
     {
       "text": "Sie hat eine lange Rede {{c1::gehalten}}.",
-      "hint": "given/held (Perfekt participle)"
+      "hint": "given (Perfekt)",
+      "english": "She gave a long speech."
     },
     {
-      "text": "Der Bus {{c1::hielt}} an der Ecke an.",
-      "hint": "stopped (Präteritum)"
+      "text": "Der Bus {{c1::hielt}} an der Haltestelle an.",
+      "hint": "stopped (Präteritum)",
+      "english": "The bus stopped at the bus stop."
     },
     {
       "text": "Ich halte ihn {{c1::für}} einen guten Freund.",
-      "hint": "for (preposition used with halten to express opinion)"
+      "hint": "",
+      "english": "I consider him to be a good friend."
     }
   ]
 }

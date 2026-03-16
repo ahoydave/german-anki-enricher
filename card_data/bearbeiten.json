@@ -30,15 +30,18 @@
   "cloze_sentences": [
     {
       "text": "Sie {{c1::bearbeitet}} den Antrag so schnell wie möglich.",
-      "hint": "processes/handles (she, present)"
+      "hint": "processes/handles (she, present)",
+      "english": "She is processing the application as quickly as possible."
     },
     {
       "text": "Er hat den Text sorgfältig {{c1::bearbeitet}}.",
-      "hint": "edited/processed (Perfekt participle)"
+      "hint": "edited/processed (Perfekt)",
+      "english": "He has carefully edited the text."
     },
     {
       "text": "Der Techniker {{c1::bearbeitete}} das Problem seit einer Stunde.",
-      "hint": "worked on (Präteritum)"
+      "hint": "worked on (Präteritum)",
+      "english": "The technician had been working on the problem for an hour."
     }
   ]
 }

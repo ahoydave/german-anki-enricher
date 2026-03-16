@@ -32,19 +32,23 @@
   "cloze_sentences": [
     {
       "text": "Er {{c1::erkennt}} seinen Freund sofort an der Stimme.",
-      "hint": "recognizes (he, present)"
+      "hint": "recognizes (he, present)",
+      "english": "He recognizes his friend immediately by his voice."
     },
     {
       "text": "Sie hat das Problem rechtzeitig {{c1::erkannt}}.",
-      "hint": "recognized (Perfekt participle)"
+      "hint": "recognized (Perfekt)",
+      "english": "She recognized the problem in time."
     },
     {
       "text": "Ich {{c1::erkannte}} ihn sofort, als er ins Zimmer kam.",
-      "hint": "recognized (Präteritum)"
+      "hint": "recognized (Präteritum)",
+      "english": "I recognized him immediately when he came into the room."
     },
     {
       "text": "Man kann die Qualität {{c1::an}} der Farbe erkennen.",
-      "hint": "by/an (preposition used with erkennen to indicate a distinguishing feature)"
+      "hint": "",
+      "english": "You can tell the quality by the colour."
     }
   ]
 }

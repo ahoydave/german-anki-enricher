@@ -20,12 +20,14 @@
   "cloze_text": "Er trägt {{c1::die}} {{c2::Schuld}} an dem Unfall.\nSie hat hohe {{c3::Schulden}} bei der Bank.",
   "cloze_sentences": [
     {
-      "text": "Für den Unfall trägt er {{c1::die}} {{c2::Schuld}}.",
-      "hint": "c1: the (article — der/die/das?) | c2: guilt/fault (the word for guilt)"
+      "text": "Für den Unfall trägt er {{c1::die}} {{c1::Schuld}}.",
+      "hint": "guilt / fault",
+      "english": "He bears the guilt/fault for the accident."
     },
     {
-      "text": "Sie hat hohe {{c1::Schulden}} bei der Bank.",
-      "hint": "debts (plural form)"
+      "text": "Er hat viele {{c1::Schulden}} und muss sie zurückzahlen.",
+      "hint": "debts (plural)",
+      "english": "He has many debts and has to pay them back."
     }
   ]
 }

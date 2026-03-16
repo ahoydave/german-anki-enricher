@@ -46,19 +46,23 @@
   "cloze_sentences": [
     {
       "text": "Das Unternehmen {{c1::passt}} seine Strategie an die neuen Regeln an.",
-      "hint": "adjusts (it, present)"
+      "hint": "adjusts (it, present)",
+      "english": "The company adjusts its strategy to the new rules."
     },
     {
       "text": "Er hat sich gut an seinen neuen Job {{c1::angepasst}}.",
-      "hint": "adapted (Perfekt participle)"
+      "hint": "adapted (Perfekt)",
+      "english": "He has adapted well to his new job."
     },
     {
       "text": "Sie {{c1::passte}} sich schnell an das Leben in der neuen Stadt an.",
-      "hint": "adapted (Präteritum)"
+      "hint": "adapted (Präteritum)",
+      "english": "She adapted quickly to life in the new city."
     },
     {
       "text": "Wir müssen uns {{c1::an}} die veränderten Bedingungen anpassen.",
-      "hint": "to/an (preposition used with anpassen)"
+      "hint": "",
+      "english": "We need to adapt to the changed conditions."
     }
   ]
 }

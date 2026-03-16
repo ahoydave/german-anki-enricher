@@ -20,13 +20,14 @@
   "cloze_text": "{{c1::die}} {{c2::Forschung}} auf dem Gebiet der Medizin hat in den letzten Jahren große Fortschritte gemacht.\nDie neuen {{c3::Forschungen}} zeigen, dass Bewegung sehr wichtig für die Gesundheit ist.",
   "cloze_sentences": [
     {
-      "text": "Auf dem Gebiet der Medizin hat {{c1::die}} {{c2::Forschung}} in den letzten Jahren große Fortschritte gemacht.",
-      "hint_c1": "the (article — der/die/das?)",
-      "hint_c2": "research (the word for research)"
+      "text": "Auf dem Gebiet der Medizin hat {{c1::die}} {{c1::Forschung}} in den letzten Jahren große Fortschritte gemacht.",
+      "hint": "research / scientific inquiry",
+      "english": "In the field of medicine, research has made great progress in recent years."
     },
     {
       "text": "Neue {{c1::Forschungen}} zeigen, dass Bewegung sehr wichtig für die Gesundheit ist.",
-      "hint_c1": "research findings (plural form)"
+      "hint": "studies / findings (plural)",
+      "english": "New research findings show that exercise is very important for health."
     }
   ]
 }

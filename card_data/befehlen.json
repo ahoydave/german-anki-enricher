@@ -29,19 +29,23 @@
   "cloze_sentences": [
     {
       "text": "Der General {{c1::befiehlt}} seinen Soldaten, sofort anzuhalten.",
-      "hint": "commands/orders (he, present)"
+      "hint": "commands (he, present)",
+      "english": "The general orders his soldiers to stop immediately."
     },
     {
       "text": "Der Offizier hat dem Trupp {{c1::befohlen}}, das Gebäude zu verlassen.",
-      "hint": "ordered (Perfekt participle)"
+      "hint": "ordered (Perfekt)",
+      "english": "The officer ordered the squad to leave the building."
     },
     {
       "text": "Der König {{c1::befahl}} seinen Rittern, die Stadt zu schützen.",
-      "hint": "ordered (Präteritum)"
+      "hint": "ordered (Präteritum)",
+      "english": "The king ordered his knights to protect the city."
     },
     {
       "text": "Niemand kann mir {{c1::befehlen}}, was ich tun soll.",
-      "hint": "to command/order (infinitive — meaning focus)"
+      "hint": "to command (infinitive)",
+      "english": "Nobody can order me what to do."
     }
   ]
 }

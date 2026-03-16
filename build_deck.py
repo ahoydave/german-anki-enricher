@@ -13,21 +13,17 @@ Examples:
   python build_deck.py --mode cloze    --words-file cloze_30.txt    --deck-name "German Cloze"     --output german_cloze.apkg
 """
 import argparse
-import os
 import random
 
 import genanki
-from dotenv import load_dotenv
 
 from german_anki_generator import (
-    CARD_DATA_DIR,
     create_anki_model,
     create_cloze_model,
     create_sentence_model,
     create_cards,
     create_cloze_cards,
     create_sentence_cards,
-    ensure_cloze_data,
     export_deck,
     load_all_word_infos,
     load_word_infos_for,
@@ -63,16 +59,11 @@ def build_deck(mode='fact', deck_name='German Vocabulary', output_file=None, wor
             create_sentence_cards(word_info, model, deck, AUDIO_DIR)
 
     elif mode == 'cloze':
-        load_dotenv()
-        import anthropic
-        api_key = os.getenv('ANTHROPIC_API_KEY')
-        if not api_key:
-            print('Error: ANTHROPIC_API_KEY not found.')
-            return
-        client = anthropic.Anthropic(api_key=api_key)
         model = create_cloze_model()
         for word_info in word_infos:
-            word_info = ensure_cloze_data(word_info, client)
+            if not word_info.get('cloze_sentences'):
+                print(f'  Warning: no cloze_sentences for "{word_info["canonical"]}", skipping.')
+                continue
             create_cloze_cards(word_info, model, deck, AUDIO_DIR)
 
     export_deck(deck, output_file, AUDIO_DIR)

@@ -25,13 +25,14 @@
   "cloze_text": "Er braucht {{c1::das}} richtige {{c2::Werkzeug}}, um das Regal zu montieren.\nDie {{c3::Werkzeuge}} liegen in der Garage.",
   "cloze_sentences": [
     {
-      "text": "Für diese Arbeit braucht er {{c1::das}} richtige {{c2::Werkzeug}}.",
-      "hint_c1": "the (article — der/die/das?)",
-      "hint_c2": "tool (the word for tool)"
+      "text": "Für diese Aufgabe fehlt mir {{c1::ein}} {{c1::Werkzeug}}.",
+      "hint": "tool",
+      "english": "I am missing a tool for this task."
     },
     {
-      "text": "Nach der Arbeit hat er alle {{c1::Werkzeuge}} weggeräumt.",
-      "hint_c1": "tools (plural form)"
+      "text": "Nach der Arbeit hat er alle {{c1::Werkzeuge}} in die Kiste gelegt.",
+      "hint": "tools (plural)",
+      "english": "After the work, he put all the tools into the box."
     }
   ]
 }

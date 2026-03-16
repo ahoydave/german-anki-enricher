@@ -19,11 +19,13 @@
   "cloze_sentences": [
     {
       "text": "Das Kind schläft {{c1::ruhig}} in seinem Bett.",
-      "hint": "calm / peaceful (adverbial form)"
+      "hint": "calm / peaceful (adverbial form)",
+      "english": "The child is sleeping peacefully in its bed."
     },
     {
       "text": "Nach dem langen Tag war die Nacht sehr {{c1::ruhig}}.",
-      "hint": "calm / quiet (predicative form)"
+      "hint": "calm / quiet (predicative form)",
+      "english": "After the long day, the night was very calm."
     }
   ]
 }

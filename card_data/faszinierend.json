@@ -19,11 +19,13 @@
   "cloze_sentences": [
     {
       "text": "Die Geschichte des alten Schlosses ist wirklich {{c1::faszinierend}}.",
-      "hint": "fascinating (predicative adjective form)"
+      "hint": "fascinating (predicative form)",
+      "english": "The history of the old castle is truly fascinating."
     },
     {
       "text": "Er erzählte auf eine {{c1::faszinierende}} Weise von seiner Reise.",
-      "hint": "fascinating (attributive adjective, feminine accusative)"
+      "hint": "fascinating (attributive adjective, feminine accusative)",
+      "english": "He spoke about his journey in a fascinating way."
     }
   ]
 }

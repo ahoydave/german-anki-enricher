@@ -33,19 +33,23 @@
   "cloze_sentences": [
     {
       "text": "Er {{c1::bringt}} seiner Mutter jeden Sonntag Blumen.",
-      "hint": "brings (he, present)"
+      "hint": "brings (he, present)",
+      "english": "He brings his mother flowers every Sunday."
     },
     {
       "text": "Sie hat mir einen Kaffee {{c1::gebracht}}.",
-      "hint": "brought (Perfekt participle)"
+      "hint": "brought (Perfekt)",
+      "english": "She brought me a coffee."
     },
     {
       "text": "Er {{c1::brachte}} seinem Freund ein Geschenk.",
-      "hint": "brought (Präteritum)"
+      "hint": "brought (Präteritum)",
+      "english": "He brought his friend a gift."
     },
     {
       "text": "Der Stress hat ihn {{c1::in}} eine schwierige Situation gebracht.",
-      "hint": "into (preposition used with bringen for situations)"
+      "hint": "",
+      "english": "The stress brought him into a difficult situation."
     }
   ]
 }

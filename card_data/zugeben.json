@@ -29,15 +29,18 @@
   "cloze_sentences": [
     {
       "text": "Er {{c1::gibt}} zu, dass er einen Fehler gemacht hat.",
-      "hint": "admits (he, present) — separable verb"
+      "hint": "admits (he, present) — separable verb",
+      "english": "He admits that he made a mistake."
     },
     {
       "text": "Sie hat endlich {{c1::zugegeben}}, dass sie gelogen hat.",
-      "hint": "admitted (Perfekt participle)"
+      "hint": "admitted (Perfekt participle)",
+      "english": "She finally admitted that she had lied."
     },
     {
       "text": "Er {{c1::gab}} zu, die Antwort nicht zu wissen.",
-      "hint": "admitted (Präteritum, er form)"
+      "hint": "admitted (Präteritum, er form)",
+      "english": "He admitted not knowing the answer."
     }
   ]
 }

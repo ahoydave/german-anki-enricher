@@ -20,13 +20,14 @@
   "cloze_text": "{{c1::die}} {{c2::Gefahr}} eines Unfalls ist auf dieser Straße sehr hoch.\nAuf dieser Straße gibt es viele {{c3::Gefahren}}, deshalb muss man vorsichtig fahren.",
   "cloze_sentences": [
     {
-      "text": "Auf dieser Straße ist {{c1::die}} {{c2::Gefahr}} eines Unfalls sehr hoch.",
-      "hint_c1": "the (article — der/die/das?)",
-      "hint_c2": "danger (the word for danger)"
+      "text": "Bei Glatteis besteht {{c1::die}} {{c1::Gefahr}}, dass man stürzt.",
+      "hint": "danger / risk",
+      "english": "When there is black ice, there is the danger of falling."
     },
     {
-      "text": "Auf dieser Straße gibt es viele {{c1::Gefahren}}, deshalb muss man vorsichtig fahren.",
-      "hint_c1": "dangers (plural form)"
+      "text": "Auf dem Berg lauern viele {{c1::Gefahren}}, deshalb sollte man gut vorbereitet sein.",
+      "hint": "dangers (plural)",
+      "english": "Many dangers lurk on the mountain, so one should be well prepared."
     }
   ]
 }

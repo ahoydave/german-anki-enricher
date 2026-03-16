@@ -28,15 +28,18 @@
   "cloze_sentences": [
     {
       "text": "Die Wissenschaftlerin {{c1::beobachtet}} die Vögel im Park.",
-      "hint": "observes (she, present)"
+      "hint": "observes (she, present)",
+      "english": "The scientist observes the birds in the park."
     },
     {
       "text": "Er hat das Verhalten der Kinder genau {{c1::beobachtet}}.",
-      "hint": "observed (Perfekt participle)"
+      "hint": "observed (Perfekt)",
+      "english": "He observed the children's behaviour closely."
     },
     {
       "text": "Sie {{c1::beobachtete}} den Hund im Garten sehr aufmerksam.",
-      "hint": "observed (Präteritum)"
+      "hint": "observed (Präteritum)",
+      "english": "She observed the dog in the garden very attentively."
     }
   ]
 }

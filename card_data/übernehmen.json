@@ -32,19 +32,23 @@
   "cloze_sentences": [
     {
       "text": "Sie {{c1::übernimmt}} die Leitung des Projekts ab nächster Woche.",
-      "hint": "takes over (she, present)"
+      "hint": "takes over (she, present)",
+      "english": "She is taking over the management of the project from next week."
     },
     {
       "text": "Er hat die Firma von seinem Vater {{c1::übernommen}}.",
-      "hint": "taken over (Perfekt participle)"
+      "hint": "taken over (Perfekt)",
+      "english": "He took over the company from his father."
     },
     {
       "text": "Die neue Regierung {{c1::übernahm}} viele Gesetze von der alten.",
-      "hint": "adopted (Präteritum)"
+      "hint": "adopted (Präteritum)",
+      "english": "The new government adopted many laws from the old one."
     },
     {
       "text": "Er hat das Auto {{c1::von}} seinem Bruder übernommen.",
-      "hint": "from (preposition used with übernehmen to indicate the source)"
+      "hint": "",
+      "english": "He took over the car from his brother."
     }
   ]
 }

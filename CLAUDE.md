@@ -15,15 +15,11 @@ The agent generates word_info JSON → `add_card.py` saves it → deck is rebuil
 # Or add from JSON directly
 .venv/bin/python add_card.py '{"canonical": "drehen", "word_type": "verb", ...}'
 
-# Rebuild deck manually
+# Rebuild the fact deck
 .venv/bin/python build_deck.py
 
-# Build experimental decks (sentence or cloze mode)
-.venv/bin/python build_deck.py --mode sentence --words-file sentence_30.txt --deck-name "German Sentences" --output german_sentences.apkg
-.venv/bin/python build_deck.py --mode cloze    --words-file cloze_30.txt    --deck-name "German Cloze"     --output german_cloze.apkg
-
-# Batch-process many words automatically (uses Claude API, requires ANTHROPIC_API_KEY)
-.venv/bin/python set_batch.py 40 && .venv/bin/python run_generator.py
+# Rebuild the cloze deck (cloze_sentences must already be in the JSON)
+.venv/bin/python build_deck.py --mode cloze --words-file cloze_30.txt --deck-name "German Cloze" --output german_cloze.apkg
 
 # Run tests
 .venv/bin/python -m pytest tests/test_generator.py -v
@@ -36,14 +32,11 @@ card_data/              one JSON per word (e.g. drehen.json)
 audio/                  generated mp3 files (auto-created, do not edit)
 added_words.txt         canonical forms already in the deck (one per line)
 german_vocabulary.apkg  main fact deck — import this into Anki
-german_sentences.apkg   sentence-mode experiment (30 words)
-german_cloze.apkg       cloze-mode experiment (30 words)
+german_cloze.apkg       cloze deck — import this into Anki
 
-german_anki_generator.py  core: Anki model, audio, card creation, API call
+german_anki_generator.py  core: Anki model, audio, card creation
 build_deck.py             builds .apkg from all card_data/ JSONs
 add_card.py               CLI: save one word_info JSON + rebuild deck
-run_generator.py          batch processor (calls Claude API for each word)
-set_batch.py              writes next N unprocessed words to new_words.txt
 ```
 
 ## Word Info Schema

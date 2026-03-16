@@ -31,16 +31,24 @@
   "cloze_text": "Sie {{c1::macht sich Sorgen}} um ihre kleine Schwester.\nEr hat sich den ganzen Tag {{c2::Sorgen gemacht}}.\nIch {{c3::mache mir Sorgen}} {{c4::um}} seine Gesundheit.",
   "cloze_sentences": [
     {
-      "text": "Meine Mutter {{c1::macht sich Sorgen}} um mich, wenn ich spät nach Hause komme.",
-      "hint": "worries / is worried (she, present — full reflexive phrase)"
+      "text": "Meine Mutter {{c1::macht sich Sorgen}}, wenn ich spät nach Hause komme.",
+      "hint": "worries / is worried (she, present — full reflexive phrase)",
+      "english": "My mother worries when I come home late."
     },
     {
-      "text": "Er hat sich die ganze Nacht {{c1::Sorgen gemacht}}, weil sein Freund krank war.",
-      "hint": "worried (Perfekt participle portion of the phrase)"
+      "text": "Wir {{c1::haben uns Sorgen gemacht}}, weil du nicht geantwortet hast.",
+      "hint": "worried / were worried (we, Perfekt — full reflexive phrase)",
+      "english": "We were worried because you didn't answer."
     },
     {
-      "text": "Ich {{c1::mache mir Sorgen}} {{c2::um}} meinen kleinen Bruder.",
-      "hint": "c1: worry / am worried (I, present — full reflexive phrase); c2: about (preposition used with this phrase)"
+      "text": "Er {{c1::machte sich Sorgen}} um seine Arbeit, aber alles wurde gut.",
+      "hint": "worried / was worried (he, Präteritum — full reflexive phrase)",
+      "english": "He was worried about his job, but everything turned out fine."
+    },
+    {
+      "text": "Sie macht sich Sorgen {{c1::um}} ihre kleine Schwester.",
+      "hint": "",
+      "english": "She worries about her little sister."
     }
   ]
 }

@@ -13,12 +13,14 @@
   "cloze_text": "Viele Kinder {{c1::haben}} {{c2::Angst}} vor der Dunkelheit.\nMein Bruder {{c3::hat}} {{c4::Angst}}, allein nach Hause zu gehen.",
   "cloze_sentences": [
     {
-      "text": "Viele Kinder {{c1::haben}} {{c2::Angst}} vor der Dunkelheit.",
-      "hint": "c1: have (they, present) | c2: fear/fright (the noun in the phrase)"
+      "text": "Viele Kinder {{c1::haben}} {{c1::Angst}} vor der Dunkelheit.",
+      "hint": "to be afraid (they, present)",
+      "english": "Many children are afraid of the dark."
     },
     {
       "text": "Hast du {{c1::Angst}} vor Prüfungen?",
-      "hint": "c1: fear/fright (the noun in the phrase)"
+      "hint": "to be afraid (you, present)",
+      "english": "Are you afraid of exams?"
     }
   ]
 }

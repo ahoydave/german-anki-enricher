@@ -1,8 +1,7 @@
 """Automated tests using a mocked Anthropic client."""
 
-import json
 import tempfile
-from unittest.mock import MagicMock, patch
+from unittest.mock import patch
 
 import genanki
 
@@ -16,7 +15,6 @@ from german_anki_generator import (
     create_cards,
     create_sentence_cards,
     create_cloze_cards,
-    get_word_info,
     _strip_cloze_markers,
 )
 
@@ -128,14 +126,6 @@ PHRASE_INFO = {
 # Helpers
 # ---------------------------------------------------------------------------
 
-def make_mock_client(response_data):
-    mock_response = MagicMock()
-    mock_response.content = [MagicMock(text=json.dumps(response_data))]
-    client = MagicMock()
-    client.messages.create.return_value = mock_response
-    return client
-
-
 def make_deck():
     return genanki.Deck(99999, 'Test')
 
@@ -153,29 +143,6 @@ F_PREPOSITIONS = 8
 F_ADJECTIVE_FORMS = 9
 F_NOTES = 10
 F_EXAMPLES = 11
-
-
-# ---------------------------------------------------------------------------
-# get_word_info tests
-# ---------------------------------------------------------------------------
-
-class TestGetWordInfo:
-    def test_returns_parsed_json(self):
-        client = make_mock_client(NOUN_INFO)
-        result = get_word_info('Hund', client)
-        assert result == NOUN_INFO
-
-    def test_uses_correct_model(self):
-        client = make_mock_client(NOUN_INFO)
-        get_word_info('Hund', client)
-        call_kwargs = client.messages.create.call_args.kwargs
-        assert call_kwargs['model'] == 'claude-sonnet-4-6'
-
-    def test_input_word_in_prompt(self):
-        client = make_mock_client(NOUN_INFO)
-        get_word_info('gedreht', client)
-        call_kwargs = client.messages.create.call_args.kwargs
-        assert 'gedreht' in call_kwargs['messages'][0]['content']
 
 
 # ---------------------------------------------------------------------------

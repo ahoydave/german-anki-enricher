@@ -25,12 +25,14 @@
   "cloze_text": "Er trägt {{c1::die}} {{c2::Verantwortung}} für das gesamte Projekt.\nIn großen Firmen gibt es viele verschiedene {{c3::Verantwortungen}}, die auf mehrere Personen verteilt werden.",
   "cloze_sentences": [
     {
-      "text": "Für das gesamte Projekt trägt er {{c1::die}} {{c2::Verantwortung}}.",
-      "hint": "c1: the (article — der/die/das?) | c2: responsibility (the word for responsibility)"
+      "text": "Für das gesamte Projekt trägt er {{c1::die}} {{c1::Verantwortung}}.",
+      "hint": "responsibility",
+      "english": "He bears responsibility for the entire project."
     },
     {
       "text": "In großen Firmen gibt es viele verschiedene {{c1::Verantwortungen}}, die auf mehrere Personen verteilt werden.",
-      "hint": "responsibilities (plural form)"
+      "hint": "responsibilities (plural)",
+      "english": "In large companies there are many different responsibilities that are distributed among several people."
     }
   ]
 }

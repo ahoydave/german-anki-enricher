@@ -44,33 +44,40 @@
   "cloze_sentences": [
     {
       "text": "Er {{c1::stellt}} sich seiner neuen Kollegin vor.",
-      "hint": "introduces (he, present)"
+      "hint": "introduces (he, present)",
+      "english": "He introduces himself to his new colleague."
     },
     {
       "text": "Sie hat sich bei der Firma {{c1::vorgestellt}}.",
-      "hint": "introduced (Perfekt participle)"
+      "hint": "introduced (Perfekt)",
+      "english": "She introduced herself to the company."
     },
     {
       "text": "Er {{c1::stellte}} sich dem Team vor, als er ankam.",
-      "hint": "introduced (Präteritum)"
+      "hint": "introduced (Präteritum)",
+      "english": "He introduced himself to the team when he arrived."
     },
     {
       "text": "Ich kann mir nicht {{c1::vorstellen}}, wie das passiert ist.",
-      "hint": "imagine (infinitive — meaning: to imagine something)"
+      "hint": "imagine (infinitive — meaning: to imagine something)",
+      "english": "I can't imagine how that happened."
     }
   ],
   "nr_cloze_sentences": [
     {
       "text": "Er {{c1::stellt}} seinen Freund der Gruppe vor.",
-      "hint": "introduces (he, present)"
+      "hint": "introduces (he, present)",
+      "english": "He introduces his friend to the group."
     },
     {
       "text": "Die Firma hat ihr neues Produkt auf der Messe {{c1::vorgestellt}}.",
-      "hint": "presented (Perfekt participle)"
+      "hint": "presented (Perfekt)",
+      "english": "The company presented its new product at the trade fair."
     },
     {
       "text": "Die Lehrerin {{c1::stellte}} den neuen Schüler der Klasse vor.",
-      "hint": "introduced (Präteritum)"
+      "hint": "introduced (Präteritum)",
+      "english": "The teacher introduced the new student to the class."
     }
   ]
 }

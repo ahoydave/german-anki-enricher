@@ -25,13 +25,14 @@
   "cloze_text": "Ich habe keine {{c1::die}} {{c2::Vorstellung}} davon, wie schwierig das ist.\nViele Menschen haben falsche {{c3::Vorstellungen}} davon, wie einfach das Leben im Ausland ist.",
   "cloze_sentences": [
     {
-      "text": "Von diesem Konzept habe ich {{c1::keine}} {{c2::Vorstellung}}.",
-      "hint_c1": "the article: keine (no/not a — which form fits here?)",
-      "hint_c2": "idea / concept (the word for Vorstellung)"
+      "text": "Davon habe ich überhaupt {{c1::keine}} {{c1::Vorstellung}}, wie das funktioniert.",
+      "hint": "idea / concept",
+      "english": "I have absolutely no idea how that works."
     },
     {
       "text": "Viele Menschen haben falsche {{c1::Vorstellungen}} davon, wie einfach das Leben im Ausland ist.",
-      "hint_c1": "ideas / notions (plural form of Vorstellung)"
+      "hint": "ideas / notions (plural)",
+      "english": "Many people have false notions about how easy life abroad is."
     }
   ]
 }

@@ -32,19 +32,23 @@
   "cloze_sentences": [
     {
       "text": "Der Polizist {{c1::schießt}} auf das Ziel.",
-      "hint": "shoots (he, present)"
+      "hint": "shoots (he, present)",
+      "english": "The police officer shoots at the target."
     },
     {
       "text": "Der Stürmer hat ein Tor {{c1::geschossen}}.",
-      "hint": "scored/shot (Perfekt participle)"
+      "hint": "scored/shot (Perfekt)",
+      "english": "The striker scored a goal."
     },
     {
       "text": "Die Soldaten {{c1::schossen}} auf den Feind.",
-      "hint": "shot (Präteritum)"
+      "hint": "shot (Präteritum)",
+      "english": "The soldiers shot at the enemy."
     },
     {
       "text": "Der Jäger schießt {{c1::auf}} den Wolf.",
-      "hint": "at (preposition used with schießen)"
+      "hint": "",
+      "english": "The hunter shoots at the wolf."
     }
   ]
 }

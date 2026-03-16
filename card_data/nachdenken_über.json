@@ -32,19 +32,23 @@
   "cloze_sentences": [
     {
       "text": "Sie {{c1::denkt}} oft über ihre Arbeit nach.",
-      "hint": "thinks (she, present) — separable verb"
+      "hint": "thinks (she, present)",
+      "english": "She often thinks about her work."
     },
     {
       "text": "Er hat lange über die Frage {{c1::nachgedacht}}.",
-      "hint": "thought about (Perfekt participle)"
+      "hint": "thought about (Perfekt)",
+      "english": "He thought about the question for a long time."
     },
     {
       "text": "Ich {{c1::dachte}} den ganzen Abend über das Problem nach.",
-      "hint": "thought about (Präteritum, ich form)"
+      "hint": "thought about (Präteritum)",
+      "english": "I thought about the problem all evening."
     },
     {
       "text": "Wir denken oft {{c1::über}} unsere Pläne nach.",
-      "hint": "about (preposition used with nachdenken)"
+      "hint": "",
+      "english": "We often think about our plans."
     }
   ]
 }

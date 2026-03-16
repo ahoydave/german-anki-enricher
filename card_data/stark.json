@@ -19,11 +19,13 @@
   "cloze_sentences": [
     {
       "text": "Er ist sehr {{c1::stark}} und kann schwere Kisten tragen.",
-      "hint": "strong (predicative adjective)"
+      "hint": "strong (predicative adjective)",
+      "english": "He is very strong and can carry heavy boxes."
     },
     {
       "text": "Der Wind war gestern besonders {{c1::stark}}.",
-      "hint": "strong / intense (predicative adjective)"
+      "hint": "strong / intense (predicative adjective)",
+      "english": "The wind was especially strong yesterday."
     }
   ]
 }

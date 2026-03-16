@@ -19,11 +19,13 @@
   "cloze_sentences": [
     {
       "text": "Er ist sehr {{c1::frustriert}}, weil er die Prüfung nicht bestanden hat.",
-      "hint": "frustrated (predicative adjective form)"
+      "hint": "frustrated (predicative form)",
+      "english": "He is very frustrated because he did not pass the exam."
     },
     {
       "text": "Nach der langen Wartezeit waren alle Kunden {{c1::frustriert}}.",
-      "hint": "frustrated (predicative adjective form)"
+      "hint": "frustrated (predicative form)",
+      "english": "After the long wait, all the customers were frustrated."
     }
   ]
 }

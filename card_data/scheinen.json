@@ -29,19 +29,23 @@
   "cloze_sentences": [
     {
       "text": "Er {{c1::scheint}} sehr müde zu sein.",
-      "hint": "seems/appears (he, present)"
+      "hint": "seems/appears (he, present)",
+      "english": "He seems to be very tired."
     },
     {
       "text": "Die Sonne hat den ganzen Tag {{c1::geschienen}}.",
-      "hint": "shone (Perfekt participle)"
+      "hint": "shone (Perfekt)",
+      "english": "The sun shone all day."
     },
     {
       "text": "Gestern {{c1::schien}} die Sonne den ganzen Tag.",
-      "hint": "shone (Präteritum)"
+      "hint": "shone (Präteritum)",
+      "english": "Yesterday the sun shone all day."
     },
     {
       "text": "Das Projekt {{c1::scheint}} ein Erfolg zu sein.",
-      "hint": "seems/appears (it, present)"
+      "hint": "seems/appears (it, present)",
+      "english": "The project seems to be a success."
     }
   ]
 }

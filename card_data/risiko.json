@@ -20,13 +20,14 @@
   "cloze_text": "{{c1::das}} {{c2::Risiko}} eines Unfalls ist auf dieser Straße sehr hoch.\nEr geht gerne {{c3::Risiken}} ein, um seine Ziele zu erreichen.",
   "cloze_sentences": [
     {
-      "text": "Auf dieser Straße ist {{c1::das}} {{c2::Risiko}} eines Unfalls sehr hoch.",
-      "hint_c1": "the (article — der/die/das?)",
-      "hint_c2": "risk (the word for risk)"
+      "text": "Bei schlechtem Wetter ist {{c1::das}} {{c1::Risiko}} auf der Straße besonders groß.",
+      "hint": "risk / hazard",
+      "english": "In bad weather, the risk on the road is particularly great."
     },
     {
-      "text": "Er geht gerne {{c1::Risiken}} ein, um seine Ziele zu erreichen.",
-      "hint_c1": "risks (plural form)"
+      "text": "Wer viele {{c1::Risiken}} eingeht, kann auch viel verlieren.",
+      "hint": "risks (plural)",
+      "english": "Whoever takes many risks can also lose a lot."
     }
   ]
 }

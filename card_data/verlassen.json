@@ -32,19 +32,23 @@
   "cloze_sentences": [
     {
       "text": "Sie {{c1::verlässt}} jeden Morgen um 7 Uhr das Haus.",
-      "hint": "leaves (she, present)"
+      "hint": "leaves (she, present)",
+      "english": "She leaves the house every morning at 7 o'clock."
     },
     {
       "text": "Er hat seine Heimatstadt mit 18 Jahren {{c1::verlassen}}.",
-      "hint": "left (Perfekt participle)"
+      "hint": "left (Perfekt)",
+      "english": "He left his hometown at the age of 18."
     },
     {
       "text": "Sie {{c1::verließ}} ihren Job und zog in eine andere Stadt.",
-      "hint": "left/abandoned (Präteritum)"
+      "hint": "left (Präteritum)",
+      "english": "She left her job and moved to another city."
     },
     {
       "text": "Du kannst dich {{c1::auf}} mich verlassen.",
-      "hint": "on (preposition used with 'sich verlassen')"
+      "hint": "",
+      "english": "You can rely on me."
     }
   ]
 }

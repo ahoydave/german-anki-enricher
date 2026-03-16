@@ -23,15 +23,18 @@
   "cloze_sentences": [
     {
       "text": "Er {{c1::manipuliert}} die Daten, um bessere Ergebnisse zu zeigen.",
-      "hint": "manipulates (he, present)"
+      "hint": "manipulates (he, present)",
+      "english": "He manipulates the data to show better results."
     },
     {
       "text": "Die Politikerin hat die Öffentlichkeit mit falschen Informationen {{c1::manipuliert}}.",
-      "hint": "manipulated (Perfekt participle)"
+      "hint": "manipulated (Perfekt)",
+      "english": "The politician manipulated the public with false information."
     },
     {
       "text": "Der Chef {{c1::manipulierte}} seine Mitarbeiter, damit sie länger arbeiteten.",
-      "hint": "manipulated (Präteritum)"
+      "hint": "manipulated (Präteritum)",
+      "english": "The boss manipulated his employees so that they worked longer."
     }
   ]
 }

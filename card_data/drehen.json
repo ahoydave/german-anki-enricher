@@ -33,19 +33,23 @@
   "cloze_sentences": [
     {
       "text": "Er {{c1::dreht}} den Schlüssel langsam nach rechts.",
-      "hint": "turns (he, present)"
+      "hint": "turns (he, present)",
+      "english": "He turns the key slowly to the right."
     },
     {
       "text": "Der Regisseur hat den Film in Berlin {{c1::gedreht}}.",
-      "hint": "shot/turned (Perfekt participle)"
+      "hint": "turned (Perfekt)",
+      "english": "The director shot the film in Berlin."
     },
     {
       "text": "Sie {{c1::drehte}} das Rad langsam nach links.",
-      "hint": "turned (Präteritum)"
+      "hint": "turned (Präteritum)",
+      "english": "She turned the wheel slowly to the left."
     },
     {
       "text": "Er dreht {{c1::an}} dem Knopf, um die Lautstärke zu ändern.",
-      "hint": "on/an (preposition used with drehen)"
+      "hint": "",
+      "english": "He turns the knob to change the volume."
     }
   ]
 }
