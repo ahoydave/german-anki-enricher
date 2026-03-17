@@ -1,0 +1,31 @@
+{
+  "canonical": "einzigartig",
+  "word_type": "adjective",
+  "english": "unique / one-of-a-kind",
+  "adjective_forms": "einzigartig, einzigartiger, am einzigartigsten",
+  "notes": "Compound: einzig (only/sole) + artig (of a kind).",
+  "sentences": [
+    {
+      "german": "Dieser Strand ist wirklich einzigartig schön.",
+      "english": "This beach is truly uniquely beautiful.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Das war ein einzigartiges Erlebnis, das ich nie vergessen werde.",
+      "english": "That was a unique experience that I will never forget.",
+      "purpose": "present"
+    }
+  ],
+  "cloze_sentences": [
+    {
+      "text": "Dieser Strand ist wirklich {{c1::einzigartig}} schön.",
+      "hint": "uniquely",
+      "english": "This beach is truly uniquely beautiful."
+    },
+    {
+      "text": "Das war ein {{c1::einzigartiges}} Erlebnis.",
+      "hint": "unique (attributive)",
+      "english": "That was a unique experience."
+    }
+  ]
+}

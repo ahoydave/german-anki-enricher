@@ -1,0 +1,32 @@
+{
+  "canonical": "Universum",
+  "word_type": "noun",
+  "article": "das",
+  "plural": "Universen",
+  "english": "universe",
+  "notes": "More philosophical/scientific than Weltraum. Refers to the entire cosmos.",
+  "sentences": [
+    {
+      "german": "Das Universum ist unendlich groß.",
+      "english": "The universe is infinitely large.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Wissenschaftler erforschen das Universum seit Jahrhunderten.",
+      "english": "Scientists have been exploring the universe for centuries.",
+      "purpose": "present"
+    }
+  ],
+  "cloze_sentences": [
+    {
+      "text": "{{c1::Das}} {{c1::Universum}} ist unendlich groß.",
+      "hint": "universe",
+      "english": "The universe is infinitely large."
+    },
+    {
+      "text": "In der Theorie gibt es viele parallele {{c1::Universen}}.",
+      "hint": "universes (plural)",
+      "english": "In theory there are many parallel universes."
+    }
+  ]
+}

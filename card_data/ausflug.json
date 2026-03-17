@@ -1,0 +1,32 @@
+{
+  "canonical": "Ausflug",
+  "word_type": "noun",
+  "article": "der",
+  "plural": "Ausflüge",
+  "english": "day trip / excursion / outing",
+  "notes": "'Einen Ausflug machen/unternehmen' = to go on a trip.",
+  "sentences": [
+    {
+      "german": "Wir machen am Wochenende einen Ausflug ans Meer.",
+      "english": "We're going on a trip to the sea at the weekend.",
+      "purpose": "present"
+    },
+    {
+      "german": "Der Ausflug in die Berge hat uns sehr viel Spaß gemacht.",
+      "english": "The trip to the mountains was a lot of fun.",
+      "purpose": "perfekt"
+    }
+  ],
+  "cloze_sentences": [
+    {
+      "text": "Wir machen am Wochenende {{c1::einen}} {{c1::Ausflug}} ans Meer.",
+      "hint": "day trip / excursion",
+      "english": "We're going on a trip to the sea at the weekend."
+    },
+    {
+      "text": "Wir haben im Sommer viele {{c1::Ausflüge}} gemacht.",
+      "hint": "day trips (plural)",
+      "english": "We went on many trips in summer."
+    }
+  ]
+}

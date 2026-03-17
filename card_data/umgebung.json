@@ -21,5 +21,17 @@
       "english": "In the vicinity of the train station there are many restaurants.",
       "purpose": "present"
     }
+  ],
+  "cloze_sentences": [
+    {
+      "text": "{{c1::Die}} {{c1::Umgebung}} der Stadt ist sehr grün und ruhig.",
+      "hint": "surroundings / area",
+      "english": "The surroundings of the city are very green and quiet."
+    },
+    {
+      "text": "Die {{c1::Umgebungen}} der großen Städte sind oft überfüllt.",
+      "hint": "surroundings (plural)",
+      "english": "The surroundings of the big cities are often overcrowded."
+    }
   ]
 }

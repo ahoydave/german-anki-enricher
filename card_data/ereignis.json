@@ -16,5 +16,17 @@
       "english": "There was an unexpected occurrence in the city yesterday.",
       "purpose": "present"
     }
+  ],
+  "cloze_sentences": [
+    {
+      "text": "{{c1::Das}} {{c1::Ereignis}} hat die ganze Stadt überrascht.",
+      "hint": "event / occurrence",
+      "english": "The event surprised the whole city."
+    },
+    {
+      "text": "Die {{c1::Ereignisse}} der letzten Woche haben viel verändert.",
+      "hint": "events (plural)",
+      "english": "The events of the last week have changed a lot."
+    }
   ]
 }

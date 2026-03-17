@@ -1,0 +1,30 @@
+{
+  "canonical": "irgendwo",
+  "word_type": "adverb",
+  "english": "somewhere / anywhere",
+  "notes": "Combines 'irgend-' (some-/any-) with 'wo' (where). Also: irgendwohin (to somewhere), irgendwoher (from somewhere).",
+  "sentences": [
+    {
+      "german": "Ich habe meinen Schlüssel irgendwo verloren.",
+      "english": "I lost my key somewhere.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Er lebt jetzt irgendwo in Südamerika.",
+      "english": "He lives somewhere in South America now.",
+      "purpose": "present"
+    }
+  ],
+  "cloze_sentences": [
+    {
+      "text": "Ich habe meinen Schlüssel {{c1::irgendwo}} verloren.",
+      "hint": "somewhere",
+      "english": "I lost my key somewhere."
+    },
+    {
+      "text": "Er lebt jetzt {{c1::irgendwo}} in Südamerika.",
+      "hint": "somewhere",
+      "english": "He lives somewhere in South America now."
+    }
+  ]
+}

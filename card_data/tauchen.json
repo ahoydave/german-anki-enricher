@@ -1,0 +1,40 @@
+{
+  "canonical": "tauchen",
+  "word_type": "verb",
+  "english": "to dive / to scuba dive / to submerge",
+  "is_reflexive": false,
+  "also_non_reflexive": false,
+  "perfekt": "ist getaucht",
+  "praeteritum": "tauchte",
+  "verb_case": "null",
+  "notes": "Uses 'sein' in Perfekt (movement verb). Can also mean 'to dip' (hat getaucht) in non-movement sense.",
+  "sentences": [
+    {
+      "german": "Sie taucht regelmäßig im Roten Meer.",
+      "english": "She dives regularly in the Red Sea.",
+      "purpose": "present"
+    },
+    {
+      "german": "Wir sind letzten Sommer in Thailand getaucht.",
+      "english": "We went scuba diving in Thailand last summer.",
+      "purpose": "perfekt"
+    }
+  ],
+  "cloze_sentences": [
+    {
+      "text": "Sie {{c1::taucht}} regelmäßig im Roten Meer.",
+      "hint": "dives (she, present)",
+      "english": "She dives regularly in the Red Sea."
+    },
+    {
+      "text": "Wir sind letzten Sommer in Thailand {{c1::getaucht}}.",
+      "hint": "dived (Perfekt)",
+      "english": "We went scuba diving in Thailand last summer."
+    },
+    {
+      "text": "Der Taucher {{c1::tauchte}} tief ins Meer.",
+      "hint": "dived (Präteritum)",
+      "english": "The diver dove deep into the sea."
+    }
+  ]
+}

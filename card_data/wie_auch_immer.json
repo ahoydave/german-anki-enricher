@@ -1,0 +1,20 @@
+{
+  "canonical": "wie auch immer",
+  "word_type": "phrase",
+  "english": "anyway / however / whatever",
+  "notes": "Used to move past a topic or dismiss details. Similar to 'wie dem auch sei'.",
+  "sentences": [
+    {
+      "german": "Wie auch immer, wir müssen jetzt eine Entscheidung treffen.",
+      "english": "Anyway, we have to make a decision now.",
+      "purpose": "meaning"
+    }
+  ],
+  "cloze_sentences": [
+    {
+      "text": "{{c1::Wie auch immer}}, wir müssen jetzt eine Entscheidung treffen.",
+      "hint": "anyway / however that may be",
+      "english": "Anyway, we have to make a decision now."
+    }
+  ]
+}

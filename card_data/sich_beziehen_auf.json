@@ -1,0 +1,53 @@
+{
+  "canonical": "sich beziehen auf",
+  "word_type": "verb",
+  "english": "to refer to / to relate to",
+  "is_reflexive": true,
+  "also_non_reflexive": false,
+  "perfekt": "hat sich bezogen",
+  "praeteritum": "bezog sich",
+  "verb_case": "akkusativ",
+  "prepositions": [
+    "sich beziehen auf + akkusativ"
+  ],
+  "notes": "Always reflexive. Used to say something refers to or is about something else.",
+  "sentences": [
+    {
+      "german": "Diese Regel bezieht sich auf alle Mitarbeiter.",
+      "english": "This rule refers to all employees.",
+      "purpose": "present"
+    },
+    {
+      "german": "Sein Kommentar hat sich auf den letzten Artikel bezogen.",
+      "english": "His comment referred to the last article.",
+      "purpose": "perfekt"
+    },
+    {
+      "german": "Worauf bezieht sich deine Frage?",
+      "english": "What does your question refer to?",
+      "purpose": "preposition"
+    }
+  ],
+  "cloze_sentences": [
+    {
+      "text": "Diese Regel {{c1::bezieht}} sich auf alle Mitarbeiter.",
+      "hint": "refers to (it, present)",
+      "english": "This rule refers to all employees."
+    },
+    {
+      "text": "Sein Kommentar hat sich auf den Artikel {{c1::bezogen}}.",
+      "hint": "referred to (Perfekt)",
+      "english": "His comment referred to the article."
+    },
+    {
+      "text": "Sein Kommentar {{c1::bezog}} sich auf das Gespräch vom Vortag.",
+      "hint": "referred to (Präteritum)",
+      "english": "His comment referred to the conversation the day before."
+    },
+    {
+      "text": "Diese Aussage bezieht sich {{c1::auf}} das gestrige Treffen.",
+      "hint": "",
+      "english": "This statement refers to yesterday's meeting."
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "canonical": "Spur",
+  "word_type": "noun",
+  "article": "die",
+  "plural": "Spuren",
+  "english": "trace / track / trail / lane",
+  "notes": "Multiple meanings: trace/evidence, footprint/track, road lane.",
+  "sentences": [
+    {
+      "german": "Die Polizei folgte der Spur des Täters.",
+      "english": "The police followed the trace of the perpetrator.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Im Schnee sah man die Spuren eines Tieres.",
+      "english": "In the snow you could see the tracks of an animal.",
+      "purpose": "present"
+    }
+  ],
+  "cloze_sentences": [
+    {
+      "text": "Die Polizei folgte {{c1::der}} {{c1::Spur}} des Täters.",
+      "hint": "trace / track",
+      "english": "The police followed the trace of the perpetrator."
+    },
+    {
+      "text": "Im Schnee sah man die {{c1::Spuren}} eines Tieres.",
+      "hint": "tracks (plural)",
+      "english": "In the snow you could see the tracks of an animal."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "canonical": "Vielfalt",
+  "word_type": "noun",
+  "article": "die",
+  "english": "diversity / variety / range",
+  "notes": "Usually no plural. 'Eine Vielfalt an + Dativ' = a variety of...",
+  "sentences": [
+    {
+      "german": "Die kulturelle Vielfalt in dieser Stadt ist beeindruckend.",
+      "english": "The cultural diversity in this city is impressive.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Es gibt eine große Vielfalt an Möglichkeiten.",
+      "english": "There is a great variety of options.",
+      "purpose": "present"
+    }
+  ],
+  "cloze_sentences": [
+    {
+      "text": "{{c1::Die}} {{c1::Vielfalt}} an Möglichkeiten ist groß.",
+      "hint": "diversity / variety",
+      "english": "The variety of options is great."
+    }
+  ]
+}

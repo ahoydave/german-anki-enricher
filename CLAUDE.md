@@ -6,20 +6,20 @@ Cards are stored as JSON in `card_data/` and exported to `.apkg` files for impor
 
 ## Primary Workflow
 
-The agent generates word_info JSON → `add_card.py` saves it → deck is rebuilt.
+**Focus: cloze deck.** The agent generates word_info JSON (including `cloze_sentences`) → `add_card.py` saves it → rebuild the cloze deck.
 
 ```bash
 # Add a word (the main workflow — agent generates JSON, CLI saves it)
 /add-word drehen
 
-# Or add from JSON directly
-.venv/bin/python add_card.py '{"canonical": "drehen", "word_type": "verb", ...}'
+# Or add from JSON directly (use --no-rebuild to skip fact deck rebuild)
+.venv/bin/python add_card.py --no-rebuild '{"canonical": "drehen", "word_type": "verb", ...}'
 
-# Rebuild the fact deck
+# Rebuild the cloze deck (primary output)
+.venv/bin/python build_deck.py --mode cloze --deck-name "German Cloze" --output german_cloze.apkg
+
+# Rebuild the fact deck (secondary, not the current focus)
 .venv/bin/python build_deck.py
-
-# Rebuild the cloze deck (cloze_sentences must already be in the JSON)
-.venv/bin/python build_deck.py --mode cloze --words-file cloze_30.txt --deck-name "German Cloze" --output german_cloze.apkg
 
 # Run tests
 .venv/bin/python -m pytest tests/test_generator.py -v

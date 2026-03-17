@@ -1,0 +1,40 @@
+{
+  "canonical": "sich ereignen",
+  "word_type": "verb",
+  "english": "to happen / to occur / to take place",
+  "is_reflexive": true,
+  "also_non_reflexive": false,
+  "perfekt": "hat sich ereignet",
+  "praeteritum": "ereignete sich",
+  "verb_case": "null",
+  "notes": "More formal than 'passieren' or 'geschehen'. Used for notable or significant events.",
+  "sentences": [
+    {
+      "german": "Der Unfall ereignet sich auf der Autobahn.",
+      "english": "The accident happens on the motorway.",
+      "purpose": "present"
+    },
+    {
+      "german": "Das Erdbeben hat sich gestern Nacht ereignet.",
+      "english": "The earthquake occurred last night.",
+      "purpose": "perfekt"
+    }
+  ],
+  "cloze_sentences": [
+    {
+      "text": "Der Unfall {{c1::ereignet}} sich auf der Autobahn.",
+      "hint": "occurs (it, present)",
+      "english": "The accident occurs on the motorway."
+    },
+    {
+      "text": "Das Erdbeben hat sich gestern Nacht {{c1::ereignet}}.",
+      "hint": "occurred (Perfekt)",
+      "english": "The earthquake occurred last night."
+    },
+    {
+      "text": "Das Unglück {{c1::ereignete}} sich im Winter.",
+      "hint": "occurred (Präteritum)",
+      "english": "The accident occurred in winter."
+    }
+  ]
+}

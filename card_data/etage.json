@@ -1,0 +1,32 @@
+{
+  "canonical": "Etage",
+  "word_type": "noun",
+  "article": "die",
+  "plural": "Etagen",
+  "english": "floor / storey",
+  "notes": "Also: das Obergeschoss. 'Erste Etage' = second floor in US English (one above ground floor).",
+  "sentences": [
+    {
+      "german": "Unser Büro ist auf der zweiten Etage.",
+      "english": "Our office is on the second floor.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Das Gebäude hat fünf Etagen und einen Keller.",
+      "english": "The building has five floors and a basement.",
+      "purpose": "present"
+    }
+  ],
+  "cloze_sentences": [
+    {
+      "text": "Unser Büro ist auf {{c1::der}} {{c1::Etage}} direkt über uns.",
+      "hint": "floor / storey",
+      "english": "Our office is on the floor directly above us."
+    },
+    {
+      "text": "Das Gebäude hat fünf {{c1::Etagen}} und einen Keller.",
+      "hint": "floors (plural)",
+      "english": "The building has five floors and a basement."
+    }
+  ]
+}

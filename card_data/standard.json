@@ -1,0 +1,32 @@
+{
+  "canonical": "Standard",
+  "word_type": "noun",
+  "article": "der",
+  "plural": "Standards",
+  "english": "standard / level / norm",
+  "notes": "Plural is 'Standards'. 'Den Standard halten/verbessern' = to maintain/improve the standard.",
+  "sentences": [
+    {
+      "german": "Der Standard der Hotels in diesem Land ist sehr hoch.",
+      "english": "The standard of hotels in this country is very high.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Wir müssen unsere Standards kontinuierlich verbessern.",
+      "english": "We need to continuously improve our standards.",
+      "purpose": "present"
+    }
+  ],
+  "cloze_sentences": [
+    {
+      "text": "{{c1::Der}} {{c1::Standard}} der Hotels ist sehr hoch.",
+      "hint": "standard / level",
+      "english": "The standard of the hotels is very high."
+    },
+    {
+      "text": "Wir müssen unsere {{c1::Standards}} verbessern.",
+      "hint": "standards (plural)",
+      "english": "We need to improve our standards."
+    }
+  ]
+}

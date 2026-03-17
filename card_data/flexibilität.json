@@ -1,0 +1,32 @@
+{
+  "canonical": "Flexibilität",
+  "word_type": "noun",
+  "article": "die",
+  "plural": "Flexibilitäten",
+  "english": "flexibility",
+  "notes": "Rarely used in plural in everyday speech.",
+  "sentences": [
+    {
+      "german": "Die Flexibilität der Arbeitszeiten ist ein großer Vorteil.",
+      "english": "The flexibility of working hours is a big advantage.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Yoga verbessert die Flexibilität des Körpers.",
+      "english": "Yoga improves the flexibility of the body.",
+      "purpose": "present"
+    }
+  ],
+  "cloze_sentences": [
+    {
+      "text": "{{c1::Die}} {{c1::Flexibilität}} der Arbeitszeiten ist ein großer Vorteil.",
+      "hint": "flexibility",
+      "english": "The flexibility of working hours is a big advantage."
+    },
+    {
+      "text": "Dieser Job bietet viele verschiedene {{c1::Flexibilitäten}}.",
+      "hint": "flexibilities (plural)",
+      "english": "This job offers many different flexibilities."
+    }
+  ]
+}

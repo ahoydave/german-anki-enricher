@@ -1,0 +1,32 @@
+{
+  "canonical": "Expedition",
+  "word_type": "noun",
+  "article": "die",
+  "plural": "Expeditionen",
+  "english": "expedition",
+  "notes": "",
+  "sentences": [
+    {
+      "german": "Die Expedition zum Nordpol war sehr gefährlich.",
+      "english": "The expedition to the North Pole was very dangerous.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Die Forscher haben eine Expedition ins Amazonasbecken unternommen.",
+      "english": "The researchers undertook an expedition into the Amazon basin.",
+      "purpose": "perfekt"
+    }
+  ],
+  "cloze_sentences": [
+    {
+      "text": "{{c1::Die}} {{c1::Expedition}} zum Nordpol war sehr gefährlich.",
+      "hint": "expedition",
+      "english": "The expedition to the North Pole was very dangerous."
+    },
+    {
+      "text": "Die Forscher haben mehrere {{c1::Expeditionen}} unternommen.",
+      "hint": "expeditions (plural)",
+      "english": "The researchers undertook several expeditions."
+    }
+  ]
+}

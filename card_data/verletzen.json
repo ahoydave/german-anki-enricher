@@ -1,0 +1,45 @@
+{
+  "canonical": "verletzen",
+  "word_type": "verb",
+  "english": "to hurt / to injure / to offend",
+  "is_reflexive": false,
+  "also_non_reflexive": false,
+  "perfekt": "hat verletzt",
+  "praeteritum": "verletzte",
+  "verb_case": "akkusativ",
+  "notes": "Also reflexive: 'sich verletzen' = to hurt oneself. 'Gefühle verletzen' = to hurt feelings.",
+  "sentences": [
+    {
+      "german": "Ihre Bemerkungen verletzen ihn jedes Mal.",
+      "english": "Her remarks hurt him every time.",
+      "purpose": "present"
+    },
+    {
+      "german": "Seine Worte haben ihre Gefühle verletzt.",
+      "english": "His words hurt her feelings.",
+      "purpose": "perfekt"
+    },
+    {
+      "german": "Er hat sich beim Fußballspielen verletzt.",
+      "english": "He hurt himself playing football.",
+      "purpose": "perfekt"
+    }
+  ],
+  "cloze_sentences": [
+    {
+      "text": "Ihre Bemerkungen {{c1::verletzen}} ihn jedes Mal.",
+      "hint": "hurt (they, present)",
+      "english": "Her remarks hurt him every time."
+    },
+    {
+      "text": "Seine Worte haben ihre Gefühle {{c1::verletzt}}.",
+      "hint": "hurt (Perfekt)",
+      "english": "His words hurt her feelings."
+    },
+    {
+      "text": "Die Worte {{c1::verletzten}} ihn tief.",
+      "hint": "hurt (Präteritum)",
+      "english": "The words hurt him deeply."
+    }
+  ]
+}

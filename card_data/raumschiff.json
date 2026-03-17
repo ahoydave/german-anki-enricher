@@ -1,0 +1,32 @@
+{
+  "canonical": "Raumschiff",
+  "word_type": "noun",
+  "article": "das",
+  "plural": "Raumschiffe",
+  "english": "spaceship",
+  "notes": "",
+  "sentences": [
+    {
+      "german": "Das Raumschiff flog zum Mars.",
+      "english": "The spaceship flew to Mars.",
+      "purpose": "present"
+    },
+    {
+      "german": "Die Astronauten sind mit dem Raumschiff ins All geflogen.",
+      "english": "The astronauts flew into outer space in the spaceship.",
+      "purpose": "perfekt"
+    }
+  ],
+  "cloze_sentences": [
+    {
+      "text": "{{c1::Das}} {{c1::Raumschiff}} flog zum Mars.",
+      "hint": "spaceship",
+      "english": "The spaceship flew to Mars."
+    },
+    {
+      "text": "Im Film gab es viele futuristische {{c1::Raumschiffe}}.",
+      "hint": "spaceships (plural)",
+      "english": "In the film there were many futuristic spaceships."
+    }
+  ]
+}

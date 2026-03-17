@@ -1,0 +1,20 @@
+{
+  "canonical": "tropisch",
+  "word_type": "adjective",
+  "english": "tropical",
+  "adjective_forms": "tropisch, tropischer, am tropischsten",
+  "sentences": [
+    {
+      "german": "Das tropische Klima ist sehr heiß und feucht.",
+      "english": "The tropical climate is very hot and humid.",
+      "purpose": "meaning"
+    }
+  ],
+  "cloze_sentences": [
+    {
+      "text": "Das {{c1::tropische}} Klima ist sehr heiß und feucht.",
+      "hint": "tropical (attributive)",
+      "english": "The tropical climate is very hot and humid."
+    }
+  ]
+}

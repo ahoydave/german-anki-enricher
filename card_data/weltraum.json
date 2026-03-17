@@ -1,0 +1,26 @@
+{
+  "canonical": "Weltraum",
+  "word_type": "noun",
+  "article": "der",
+  "english": "outer space / space",
+  "notes": "Also: das All (same meaning, more poetic). Usually without article: 'im Weltraum', 'in den Weltraum'.",
+  "sentences": [
+    {
+      "german": "Die Astronauten fliegen in den Weltraum.",
+      "english": "The astronauts are flying into outer space.",
+      "purpose": "present"
+    },
+    {
+      "german": "Im Weltraum gibt es unzählige Sterne und Galaxien.",
+      "english": "In outer space there are countless stars and galaxies.",
+      "purpose": "meaning"
+    }
+  ],
+  "cloze_sentences": [
+    {
+      "text": "Die Astronauten fliegen in {{c1::den}} {{c1::Weltraum}}.",
+      "hint": "outer space",
+      "english": "The astronauts are flying into outer space."
+    }
+  ]
+}

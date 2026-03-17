@@ -1,0 +1,30 @@
+{
+  "canonical": "problematisch",
+  "word_type": "adjective",
+  "english": "problematic",
+  "adjective_forms": "problematisch, problematischer, am problematischsten",
+  "sentences": [
+    {
+      "german": "Diese Situation ist sehr problematisch.",
+      "english": "This situation is very problematic.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Das Verhalten des Schülers wird zunehmend problematischer.",
+      "english": "The student's behaviour is becoming increasingly more problematic.",
+      "purpose": "present"
+    }
+  ],
+  "cloze_sentences": [
+    {
+      "text": "Diese Situation ist sehr {{c1::problematisch}}.",
+      "hint": "problematic (predicative)",
+      "english": "This situation is very problematic."
+    },
+    {
+      "text": "Das Verhalten wird {{c1::problematischer}}.",
+      "hint": "more problematic (comparative)",
+      "english": "The behaviour is becoming more problematic."
+    }
+  ]
+}

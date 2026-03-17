@@ -1,0 +1,40 @@
+{
+  "canonical": "wecken",
+  "word_type": "verb",
+  "english": "to wake (someone) / to stir up / to evoke",
+  "is_reflexive": false,
+  "also_non_reflexive": false,
+  "perfekt": "hat geweckt",
+  "praeteritum": "weckte",
+  "verb_case": "akkusativ",
+  "notes": "Also: aufwecken (separable, same meaning). 'Erinnerungen wecken' = to stir up memories. 'Interesse wecken' = to arouse interest.",
+  "sentences": [
+    {
+      "german": "Das alte Foto weckt viele Erinnerungen.",
+      "english": "The old photo stirs up many memories.",
+      "purpose": "present"
+    },
+    {
+      "german": "Das Video hat mein Interesse für Geschichte geweckt.",
+      "english": "The video stirred up my interest in history.",
+      "purpose": "perfekt"
+    }
+  ],
+  "cloze_sentences": [
+    {
+      "text": "Das alte Foto {{c1::weckt}} viele Erinnerungen.",
+      "hint": "stirs up (it, present)",
+      "english": "The old photo stirs up many memories."
+    },
+    {
+      "text": "Das Video hat mein Interesse {{c1::geweckt}}.",
+      "hint": "stirred up (Perfekt)",
+      "english": "The video stirred up my interest."
+    },
+    {
+      "text": "Die Musik {{c1::weckte}} Erinnerungen an meine Kindheit.",
+      "hint": "stirred up (Präteritum)",
+      "english": "The music stirred up memories of my childhood."
+    }
+  ]
+}

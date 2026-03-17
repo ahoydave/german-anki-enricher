@@ -1,0 +1,26 @@
+{
+  "canonical": "Umweltschutz",
+  "word_type": "noun",
+  "article": "der",
+  "english": "environmental protection",
+  "notes": "Compound: Umwelt (environment) + Schutz (protection). No plural form in common usage.",
+  "sentences": [
+    {
+      "german": "Umweltschutz ist eines der wichtigsten Themen unserer Zeit.",
+      "english": "Environmental protection is one of the most important issues of our time.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Die Regierung hat neue Gesetze zum Umweltschutz eingeführt.",
+      "english": "The government has introduced new laws for environmental protection.",
+      "purpose": "perfekt"
+    }
+  ],
+  "cloze_sentences": [
+    {
+      "text": "{{c1::Der}} {{c1::Umweltschutz}} ist eines der wichtigsten Themen.",
+      "hint": "environmental protection",
+      "english": "Environmental protection is one of the most important topics."
+    }
+  ]
+}

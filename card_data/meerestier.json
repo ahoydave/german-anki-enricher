@@ -1,0 +1,32 @@
+{
+  "canonical": "Meerestier",
+  "word_type": "noun",
+  "article": "das",
+  "plural": "Meerestiere",
+  "english": "sea creature / marine animal",
+  "notes": "Compound: Meer (sea) + Tier (animal).",
+  "sentences": [
+    {
+      "german": "Das Riff ist voller farbenfroher Meerestiere.",
+      "english": "The reef is full of colourful sea creatures.",
+      "purpose": "present"
+    },
+    {
+      "german": "Beim Tauchen haben wir viele exotische Meerestiere gesehen.",
+      "english": "While diving, we saw many exotic sea creatures.",
+      "purpose": "perfekt"
+    }
+  ],
+  "cloze_sentences": [
+    {
+      "text": "{{c1::Das}} {{c1::Meerestier}} schwimmt durch das Korallenriff.",
+      "hint": "sea creature",
+      "english": "The sea creature swims through the coral reef."
+    },
+    {
+      "text": "Das Riff ist voller {{c1::Meerestiere}}.",
+      "hint": "sea creatures (plural)",
+      "english": "The reef is full of sea creatures."
+    }
+  ]
+}

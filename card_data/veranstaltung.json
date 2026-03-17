@@ -1,0 +1,32 @@
+{
+  "canonical": "Veranstaltung",
+  "word_type": "noun",
+  "article": "die",
+  "plural": "Veranstaltungen",
+  "english": "event / occasion / function",
+  "notes": "More formal than 'Event'. Covers concerts, conferences, parties, shows.",
+  "sentences": [
+    {
+      "german": "Die Veranstaltung beginnt um 19 Uhr.",
+      "english": "The event starts at 7 pm.",
+      "purpose": "present"
+    },
+    {
+      "german": "Wir haben dieses Jahr viele interessante Veranstaltungen besucht.",
+      "english": "We attended many interesting events this year.",
+      "purpose": "perfekt"
+    }
+  ],
+  "cloze_sentences": [
+    {
+      "text": "{{c1::Die}} {{c1::Veranstaltung}} beginnt um 19 Uhr.",
+      "hint": "event",
+      "english": "The event starts at 7 pm."
+    },
+    {
+      "text": "Wir haben viele {{c1::Veranstaltungen}} besucht.",
+      "hint": "events (plural)",
+      "english": "We attended many events."
+    }
+  ]
+}

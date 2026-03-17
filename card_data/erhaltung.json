@@ -1,0 +1,26 @@
+{
+  "canonical": "Erhaltung",
+  "word_type": "noun",
+  "article": "die",
+  "english": "conservation / preservation / maintenance",
+  "notes": "From 'erhalten' (to preserve/maintain). No plural in common usage.",
+  "sentences": [
+    {
+      "german": "Die Erhaltung der alten Gebäude kostet viel Geld.",
+      "english": "The preservation of the old buildings costs a lot of money.",
+      "purpose": "meaning"
+    },
+    {
+      "german": "Der Umweltschutz dient der Erhaltung der natürlichen Lebensräume.",
+      "english": "Environmental protection serves the conservation of natural habitats.",
+      "purpose": "present"
+    }
+  ],
+  "cloze_sentences": [
+    {
+      "text": "{{c1::Die}} {{c1::Erhaltung}} der alten Gebäude kostet viel Geld.",
+      "hint": "preservation / conservation",
+      "english": "The preservation of the old buildings costs a lot of money."
+    }
+  ]
+}
